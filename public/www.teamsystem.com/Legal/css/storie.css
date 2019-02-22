@@ -1,0 +1,122 @@
+/*--------------------------------------------------
+Storie di successo
+--------------------------------------------------*/
+.storie .main { background:url('../img/storie/bg.jpg') no-repeat center center #dfdfde;background: white;}
+.storie .storia {margin-bottom: 60px;}
+.storie .storia .wrapper {background-color: transparent;position: relative; transition: all .2s ease-out; -webkit-transition: all .2s ease-out; -moz-transition: all .2s ease-out; -o-transition: all .2s ease-out; } 
+.storie .storia .full-btn {display: block; position: absolute; width:100%; height:100%;z-index: 100;}
+.storie .storia .wrapper:hover {transform:translateY(-3px); -ms-transform: translateY(-3px); -webkit-transform: translateY(-3px); -moz-transform: translateY(-3%); -o-transform: translateY(-3%);  transform: translateY(-3%); box-shadow:0 5px 10px #aaa;}
+.storie .storia .wrapper:after {height:8px; width:100%;}
+.storie .storia .wrapper > [class*="col-"] {padding:0 0 20px 0;}
+.storie .storia .novideo { }
+.storie .storia .novideo .video { display:none; }
+.storie .storia .novideo .text { top:0; }
+.storie .storia header {padding-top:5px}
+.storie .storia hr {border-color: #9E9E9E;margin: 20px 0 14px;}
+.storie .storia .title h2, .storie .storia .title h3, .storie .storia .title h4 {	margin:0;	color: #1e83c1;}
+.storie .storia .title h2 {font-size:25px; font-weight:400; margin-bottom:5px}
+.storie .storia .title h3 {font-size:22px; font-weight:300; margin-bottom:5px}
+.storie .storia .title h4 {color:#4b4b4a; font-weight: 400;}
+.storie .thumb {position:relative;} 
+.storie .thumb img {max-width:100%;margin: 0 auto;margin-top: 0%;}
+.storie .thumb .btn {position:absolute; right: 25px;display: block;width: 50px;height: 50px;background-image: url('../img/storie/btn-sprite.png');background-size: 215px;padding: 0;top: 10px; transition: transform .2s ease-out; -webkit-transition: transform .2s ease-out; -moz-transition: transform .2s ease-out; -o-transition: transform .2s ease-out;} 
+.storie .thumb .btn:hover {transform: scale(1.15); -ms-transform: scale(1.15); -webkit-transform: scale(1.15); -moz-transform: scale(1.15); -o-transform: scale(1.15);}
+.storie .thumb .text {background-position: left bottom; top: 65px;}
+.storie .storia .info {font-size:17px;font-weight: 600;}
+.storie blockquote {color: #1e83c1; font-size:32px;border: 0;padding: 0;line-height: 1.2;margin-bottom: 10px;font-style: italic; text-align: center; }
+.storie blockquote:before {content:open-quote;margin-right: -6px;}
+.storie blockquote:after {content:close-quote;margin-left: 0px;}
+.storie .storia .copy {font-size:17px;font-weight: 500;}
+
+
+/* Colori */ 
+/*.storie .azure .wrapper:after, .storie-dettaglio header.row.azure:after { background:#0561c2; background:linear-gradient(to right, #378ecd, #0561c2);}
+.storie .orange .wrapper:after, .storie-dettaglio header.row.orange:after { background:#f9b000; background:linear-gradient(to right, #f9b000, #ee7203);}*/
+.storie .orange .title h2, .storie .orange .title h3, .storie .orange blockquote  {color:#faaa1e;}
+.storie .orange .thumb .video {background-position: -55px top; } 
+.storie .orange .thumb .text {background-position: -55px bottom;}
+/*.storie .purple .wrapper:after, .storie-dettaglio header.row.purple:after { background:#db1965; background:linear-gradient(to right, #ea649a, #db1965);}*/
+.storie .purple .title h2, .storie .purple .title h3, .storie .purple blockquote  {color: #E8357A;}
+.storie .purple .thumb .video {background-position: -110px top; } 
+.storie .purple .thumb .text { background-position: -110px bottom;}
+/*.storie .blue .wrapper:after, .storie-dettaglio header.row.blue:after { background:linear-gradient(to right, #1961ac, #164194);}*/
+.storie .blue .title h2, .storie .blue .title h3, .storie .blue blockquote  {color: #0654A5;}
+.storie .blue .thumb .video {background-position: -165px top; } 
+.storie .blue .thumb .text { background-position: -163px bottom;}
+
+@media screen and (max-width:991px) {
+	.storie .thumb { margin-bottom:30px; height: 270px;overflow: hidden;}
+	.storie .copy { padding-bottom:30px; }
+}
+
+@media screen and (max-width:767px) {
+	.storie .container-fluid {  padding: 0;}
+}
+
+@media screen and (max-width:559px) {
+	.storie header [class*="col-"] {width:100%; display:block;}
+	.storie .thumb { text-align:center;}
+}
+
+
+
+ 
+/*--------------------------------------------------
+Finestra modale 
+--------------------------------------------------*/
+.storie .modal { }
+.storie .modal-body { padding: 20px 30px;}
+.storie .modal-footer { text-align: center;} 
+.storie .modal iframe { width: 100%; margin-bottom:30px;} 
+.storie .modal h4 { font-size:24px;}
+
+ 
+
+
+
+
+
+/*--------------------------------------------------
+Dettaglio
+--------------------------------------------------*/
+.storie-dettaglio { }
+.storie-dettaglio .thumb img {max-width:100%; width: 100%;}
+.storie-dettaglio .thumb .btn { right: auto;left: calc(50% - 48px);top: calc(50% - 50px);width: 96px;height: 96px;background-size: 412px;}
+.storie-dettaglio .orange .thumb .btn {background-position:-106px top; }
+.storie-dettaglio .azure .thumb .btn {background-position:0 top; }
+.storie-dettaglio .blue .thumb .btn {background-position:96px top; }
+.storie-dettaglio .purple .thumb .btn {background-position:-211px top; }
+.storie-dettaglio .title { /*border-bottom:1px solid #999;*/ padding-bottom:20px; margin-bottom:20px;}
+.storie-dettaglio .title h2 { font-size:30px; font-weight: 100;margin: 0; }
+.storie-dettaglio .title h1 { font-size:36px; font-weight:600;color: #0096D3;line-height: 1;margin: 0 0 5px;}
+.storie-dettaglio .title h3 { font-size:20px; font-weight:300; color: #333333; line-height: 1;margin: 0;}
+.storie-dettaglio header { margin-bottom:20px;}
+/*.storie-dettaglio header.row:after { background:#0561c2; background:linear-gradient(to right, #378ecd, #0561c2); height: 8px; width: calc(100% - 30px); margin: 0 auto;}*/
+.storie-dettaglio #visual-case-history .copy {font-size: 20px; text-align: center; }
+.storie-dettaglio .intervento { margin-bottom: 30px;}
+.storie-dettaglio .intervento .thumb { height: 50px; /*background: url('/img/storie/btn-sprite.png') -6px bottom rgba(0, 0, 0, 0);background-size: 212px;*/width: 50px;}
+.storie-dettaglio .intervento h3 { font-size: 24px; font-family: lft-etica, arial; font-weight: 400; line-height: 34px;}
+.storie-dettaglio .text { font-size: 16px; line-height: 28px; /* font-family: arial; */}
+.storie-dettaglio .novideodettaglio { padding-bottom:20px; }
+.storie-dettaglio .novideodettaglio .container-fluid { padding:0; }
+
+
+
+
+
+@media screen and (max-width:1199px) {
+	.storie .thumbnail .abstract { height: 84px; }
+}
+@media screen and (max-width:991px) {
+	.storie .thumbnail .abstract { height: 84px; }
+}
+
+@media screen and (max-width:767px) {
+	.storie .thumb {height:60vw; }
+	.storie .thumb img { width: 100%;  height:auto;}
+}
+
+
+
+
+

@@ -1,0 +1,115 @@
+/*--------------------------------------------------
+Hero
+--------------------------------------------------*/
+.scheda .hero { min-height:315px; overflow:hidden; background: no-repeat center top;position: relative;}
+.scheda .hero .container {position:relative;}
+/*.scheda .hero ul {position:absolute; left: 300px; top: 85px;}*/
+.scheda .hero ul { padding-left: 0; margin-bottom: 30px; }
+.scheda .hero .wrapbomBody { padding-left: 285px; padding-top: 85px; max-width: 935px; }
+.scheda .hero .wrapbomBody h1 { margin-top:0; margin-bottom:10px; font-weight:200; font-size:22px; }
+.scheda .hero.smart { min-height:inherit; }
+.scheda .hero.smart .wrapbomBody { padding-left:0; padding-top:25px; padding-bottom:0; margin-bottom:0; }
+.scheda .hero li {font-size: 16px; font-weight: 600; list-style:none;background: url('../img/general/check_blue.png') no-repeat left 6px;padding-left: 32px;background-size: 16px;margin-bottom: 5px;line-height: 1.35;}
+
+
+/*--------------------------------------------------
+Main
+--------------------------------------------------*/
+.scheda .main { /*padding-top:50px;*/ padding-bottom: 50px;font-size: 18px;}
+.scheda .headline {font-size: 26px; color: #0095d5; text-align:left; margin-bottom: 20px; font-weight:400; line-height:32px; }
+.scheda .wrap_prezzoProd { font-size:30px; color:#0095d5; margin-bottom:20px; }
+.scheda .prezzoProd {  }
+.scheda .prezzoProd .txt {  }
+.scheda .prezzoProd .prezzo { font-weight:600; font-size:45px; }
+.scheda .video { margin-bottom: 30px;display: block;}
+
+
+/*--------------------------------------------------
+Hero
+--------------------------------------------------*/
+/*.scheda .hero { min-height: 255px; overflow:hidden; background: no-repeat center top;position: relative;}
+.scheda .hero .container {position:relative;}
+.scheda .hero ul {position:absolute; left: 300px; top: 90px;}
+.scheda .hero li {font-size:17px; font-weight: 600; list-style:none;background: url('../img/general/check_blue.png') no-repeat left 7px;padding-left: 32px;background-size: 16px;margin-bottom: 5px;}*/
+
+
+/*-------------------------------------------------- 
+Main
+--------------------------------------------------*/
+/*.scheda .main { min-height: 500px; padding-top:50px; padding-bottom: 50px;}
+.scheda .headline {font-size: 22px; color: #0094d5; text-align:center;}*/ 
+
+
+
+/*--------------------------------------------------
+Accordion
+--------------------------------------------------*/
+.accordion {}
+.accordion .panel {border-left: 0;border-right: 0;border-radius: 0; border-color: #ccc;border-bottom: 0;box-shadow: none;}
+.accordion .panel-heading a { background:#0096D6; background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(255, 255, 255, 0) 20%, rgba(255, 255, 255, 0) 100%), linear-gradient(to right, #0096D6 0%, #00B9EC 100%); overflow: hidden;  display: block;padding: 6px 0 6px;transition: all 300ms ease-out; -webkit-transition: all 300ms ease-out; -moz-transition: all 300ms ease-out; -o-transition: all 300ms ease-out; position:relative;}
+.accordion .panel-heading a.collapsed { background:#fff; background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 0) 20%, rgba(255, 255, 255, 0) 100%);}
+.accordion .panel-heading a.collapsed .panel-title { color: #0094d5;}
+.accordion .panel-heading a .panel-title .fa { position:absolute; right: 15px; top: calc(50% - 15px); /* text-shadow: 0 0 3px; */font-size: 30px;font-weight: 600; transition: transform 200ms ease-out; -webkit-transition: transform 200ms ease-out; -moz-transition: transform 200ms ease-out; -o-transition: transform 200ms ease-out; }
+.accordion .panel-heading a.collapsed .panel-title .fa { transform:rotate(180deg); -ms-transform:rotate(180deg); -webkit-transform:rotate(180deg); -moz-transform:rotate(180deg); -o-transform:rotate(180deg));
+   }
+.accordion .panel-title { font-size: 20px; color:#fff; font-weight: 600;}
+.accordion .panel-title .icon { display: inline-block; width: 8px; height: 8px; float: left;margin: 17px 20px 18px 0;border-radius: 10px;background: white;border: 2px solid #fff;}
+.accordion .collapsed .panel-title .icon { border:2px solid #0095d5; }
+.accordion .panel-title .anagrafica { background-position: -5px top; }
+.accordion .panel-title .pratiche { background-position: -48px -57px; }
+.accordion .panel-title .agenda { background-position: -48px -109px; }
+.accordion .panel-title .pct { background-position: -48px -160px; }
+.accordion .panel-title .docs { background-position: -48px -210px; }
+.accordion .panel-title .anagrafica { background-position: -48px -7px; }
+.accordion .panel-title .parcelle { background-position: -48px -262px; }
+.accordion .panel-title .portale { background-position: -48px -313px; }
+.accordion .collapsed .anagrafica { background-position: center top; }
+.accordion .collapsed .pratiche { background-position: -5px -57px; }
+.accordion .collapsed .agenda { background-position: -5px -109px; }
+.accordion .collapsed .pct { background-position: -5px -160px; }
+.accordion .collapsed .docs { background-position: -5px -210px; }
+.accordion .collapsed .anagrafica { background-position: -5px -7px; }
+.accordion .collapsed .parcelle { background-position: -5px -262px; }
+.accordion .collapsed .portale { background-position: -5px -313px; }
+.accordion .panel-title span { display:block; padding-top: 9px;}
+.accordion .panel-body { font-size:17px; font-weight: 500;line-height: 1.8;}
+.accordion .panel-heading { background:rgba(237,237,237,1); background: linear-gradient(to bottom, rgba(237,237,237,1) 0%, rgba(255,255,255,1) 20%, rgba(255,255,255,1) 100%); border-radius: 0;padding: 0;border-bottom: 1px solid #CCC;}
+.accordion .panel-collapse {
+    border-bottom: 1px solid #CCC;
+}
+.accordion .panel-collapse.in {  }
+.panel-group { margin-bottom:70px; }
+
+
+
+@media (max-width:1199px) {
+    .scheda .hero .wrapbomBody {padding-left: 180px; max-width:810px;}  
+}
+
+@media (max-width:1140px) {
+    .scheda .hero {position:relative; background-position: -373px -5px;}
+    .scheda .hero .container {position:static;}
+    .scheda .hero .wrapbomBody {padding-left: 240px;}
+}
+
+@media (max-width:991px) {
+    .scheda .hero .wrapbomBody { padding-left:260px; }   
+    .scheda .hero li {font-size:14px;} 
+}
+
+@media (max-width:679px) {
+    .scheda .hero {background-position: 19% top;}
+    .scheda .hero .wrapbomBody {display:none;}   
+}
+
+
+
+
+
+
+
+
+
+
+
+

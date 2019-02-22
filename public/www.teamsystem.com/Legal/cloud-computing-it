@@ -1,0 +1,917 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="it" xmlns class="no-js">
+<!--<![endif]-->
+<head>
+
+	  <script src="//cdn.optimizely.com/js/2179040045.js"></script>
+
+	  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6JCVCF');</script>
+<!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Cloud computing e dematerializzazione | TeamSystem Legal</title>
+    <meta name="description" content="Il Cloud Computing offre all’avvocato, servizi affidabili a costi accessibili anche per il piccolo studio legale. Scopri come fuziona il cloud computing">
+    <meta name="keywords" content="Cloud computing, la &amp;quot;grande svolta&amp;quot; dell’IT per l’avvocatura?, Novit&#224; e guide">
+    <meta name="robots" content="index,follow" />    
+                <link rel="alternate" href="https://www.teamsystem.com/Legal/cloud-computing-it" hreflang="it-it" />
+
+    <!-- Meta Social -->
+<meta property="og:image" content="https://www.teamsystem.com/Legal/media/immagini/268_z_cloud-computing.png" />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:title" content="Cloud computing e dematerializzazione | TeamSystem Legal" />
+    <meta property="og:description" content="Il Cloud Computing offre all’avvocato, servizi affidabili a costi accessibili anche per il piccolo studio legale. Scopri come fuziona il cloud computing" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.teamsystem.com/Legal/cloud-computing-it" />
+    <!-- Meta Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- Meta Specific Apple iOS (i seguenti meta rappresentano le funzionalità ios e android tasto "aggiungi ad home") -->
+    <meta name="apple-mobile-web-app-title" content="Cloud computing e dematerializzazione | TeamSystem Legal">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes">    
+    <!--[if !IE]><!-->
+<link rel="stylesheet" type="text/css" href="/Legal/min/Layout_0_1812131256185618.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+    <!--<![endif]-->
+    <!--[if lte IE 9]>
+<link rel="stylesheet" type="text/css" href="/Legal/min/Layout_1_160923154404444.css" />
+     <link rel="stylesheet" type="text/css" href="/Legal/css/main.css">
+     <link rel="stylesheet" type="text/css" href="/Legal/css/header.css">
+     <link rel="stylesheet" type="text/css" href="/Legal/css/slider.css">
+     <link rel="stylesheet" type="text/css" href="/Legal/css/home.css">
+    <![endif]-->
+
+    <script src="/Legal/js/vendor/modernizr.2.8.3.js"></script>
+   
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- TS Font -->
+    <script type="text/javascript" src="//use.typekit.net/xgp5dft.js"></script>
+    <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="shortcut icon" href="/Legal/img/favicon.ico" type="image/x-icon" />
+    
+    <link href="/Legal/css/azienda.css" rel="stylesheet" />
+
+
+
+    <!-- endcheck -->
+    
+
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-15887625-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1012405972132280');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1012405972132280&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Hotjar Tracking Code for https://www.teamsystem.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:165624,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+    </head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6JCVCF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+    <![endif]-->
+    <!-- Wrapper -->
+
+    <!-- Back to top -->
+    <a href="" class="back-to-top">
+        <i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+    </a>
+    <!-- Back to top -->
+    <!-- Search overlay -->
+    <div class="search-overlay">
+        <div class="close"><i class="fa fa-remove"></i><span>Chiudi</span></div>
+        
+        <form action="/Legal/pagineinterne/cerca_nel_sito" method="get" class="form-search" role="search">
+            <input type="search" id="search-input" name="txtSiteSearch" placeholder="Cerca nel sito" required>
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </form>
+    </div>
+ 
+
+        
+        <!-- Header -->
+        <section id="header">
+            <div class="container">
+                <div class="flexbox">
+                    <div class="sx">
+                        <a href="/Legal/">
+                            <img class="logo" src="/Legal/img/logo.png" alt="TeamSystem Legal">
+                        </a>
+                    </div>
+                    <div class="dx">
+                        <!-- Top Menu -->
+                        <ul class="top-menu hidden-xs">
+                                <li class="chi-siamo">
+        <a href="/Legal/azienda">Chi siamo </a>
+
+        
+    </li>
+
+                                <li class="dropdown area-riservata">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Area riservata<span class="caret"></span> </a>
+
+            <ul class="dropdown-menu">
+                        <li class="">
+
+                            <a href="http://assistenza.teamsystemlegal.it" target="_blank" data-track-event="Aree Riservate">
+                                Assistenza tecnica
+                            </a>
+                        </li>
+                        <li class="">
+
+                            <a href="http://lycenze.teamsystem.com/swp/" target="_blank" data-track-event="Aree Riservate">
+                                Area rivenditori
+                            </a>
+                        </li>
+            </ul>
+    </li>
+
+                            
+                            <li class="contatti">
+                                <a href="https://www.teamsystem.com/store/studi-legali/" target="_blank">ACQUISTA </a>
+                            </li>
+                           
+                        </ul>
+                        <!-- Second Menu -->
+                        <ul class="top-menu hidden-xs">
+                            
+                                <li class="acquista">
+        <a href="/Legal/contatti">Contatti </a>
+    </li>
+
+                            <ul class="second-top-menu hidden-xs">
+                                <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                            </ul>
+                        </ul>
+                            
+                        <!-- Main Menu -->
+                        <ul class="main-menu hidden-xs">
+                            
+                                <li class="dropdown area-riservata">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">NETLEX<span class="caret"></span> </a>
+
+            <ul class="dropdown-menu">
+                        <li class="">
+
+                            <a href="/Legal/netlex-fatturazione">
+                                NETLEX Fatturazione
+                            </a>
+                        </li>
+                        <li class="">
+
+                            <a href="/Legal/netlex-pda">
+                                NETLEX PDA	
+                            </a>
+                        </li>
+                        <li class="">
+
+                            <a href="/Legal/netlex">
+                                NETLEX Standard
+                            </a>
+                        </li>
+                        <li class="">
+
+                            <a href="/Legal/netlex-plus">
+                                NETLEX Plus
+                            </a>
+                        </li>
+                        <li class="">
+
+                            <a href="/Legal/sistema-software-gestionale-netlex">
+                                Sistema NETLEX
+                            </a>
+                        </li>
+            </ul>
+    </li>
+
+
+
+                                    <li class="dropdown ">
+
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Software <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+
+            <li class="dropdown-submenu">
+                <a href="/Legal/gestione-studio-legale" class="dropdown-toggle" data-toggle="">
+                    Gestione Studio Legale
+                </a>
+
+
+
+                <ul class="dropdown-menu">
+                                            <li>
+                            <a href="/Legal/netlex-fatturazione">
+                                NETLEX Fatturazione <br />
+                                <small> Gestionale fatturazione elettronica </small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Legal/netlex">
+                                NETLEX Standard <br />
+                                <small> Gestionale cloud per gli studi legali </small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Legal/netlex-plus">
+                                NETLEX Plus <br />
+                                <small> Funzioni avanzate per la gestione dello studio </small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Legal/easylex">
+                                EASYLEX GSL <br />
+                                <small> Gestionale Studio Legale </small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Legal/credit-management">
+                                EASYLEX CM <br />
+                                <small> Credit Management - Gestione dei crediti in sofferenza </small>
+                            </a>
+                        </li>
+                </ul>
+            </li>
+            <li class="dropdown-submenu">
+                <a href="/Legal/adempimenti-telematici" class="dropdown-toggle" data-toggle="">
+                    Adempimenti telematici
+                </a>
+
+
+
+                <ul class="dropdown-menu">
+                                            <li>
+                            <a href="/Legal/netlex-pda">
+                                NETLEX PDA <br />
+                                <small> Punto di accesso per il Processo Civile Telematico </small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Legal/easynota">
+                                EASYNOTA <br />
+                                <small> Genera le tue note di iscrizioni al ruolo su codice a barre </small>
+                            </a>
+                        </li>
+                </ul>
+            </li>
+            <li class="dropdown-submenu">
+                <a href="/Legal/strumenti-per-avvocato" class="dropdown-toggle" data-toggle="">
+                    Strumenti per l’Avvocato
+                </a>
+
+
+
+                <ul class="dropdown-menu">
+                        <li><a href="https://www.4clegal.com/" target="_blank"> <span>4CLegal</span>
+                              <br/>  <small>  Sofware online per beauty contest legali</small>
+                            </a></li>
+                                            <li>
+                            <a href="/Legal/conservazione-cloud">
+                                Conservazione in Cloud <br />
+                                <small> Conservazione PEC in Cloud </small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Legal/agyo-fatturazione">
+                                AGYO Fatturazione <br />
+                                <small> La piattaforma online per l’invio e la ricezione delle fatture elettroniche </small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Legal/agyo-privacy-avvocati">
+                                AGYO Privacy <br />
+                                <small> Software per la gestione della Privacy ai sensi del nuovo Regolamento Europeo 2016/679 </small>
+                            </a>
+                        </li>
+                </ul>
+            </li>
+
+
+            
+        </ul>
+        </li>
+        <li class="dropdown ">
+
+                    <a href="/Legal/software-trial">
+                        SOFTWARE TRIAL
+                    </a>
+        </li>
+        <li class="dropdown ">
+
+                    <a href="http://media.teamsystem.com/legal/" target="_blank">
+                        Media Catalogo
+                    </a>
+        </li>
+        <li class="dropdown active44">
+
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Approfondimenti <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+        <li class="dropdown active44">
+
+                    <a href="/Legal/news-guide">
+                        Novit&#224; e guide
+                    </a>
+        </li>
+        <li class="dropdown ">
+
+                    <a href="/Legal/storie-di-successo">
+                        Storie di Successo
+                    </a>
+        </li>
+        <li class="dropdown ">
+
+                    <a href="/Legal/domande-frequenti">
+                        F.A.Q.
+                    </a>
+        </li>
+        </ul>
+        </li>
+        <li class="dropdown ">
+
+                    <a href="/Legal/eventi">
+                        Eventi
+                    </a>
+        </li>
+
+                          
+                        </ul>
+                        <!-- Open Main Menu Mobile -->
+                        <button class="hamburger hamburger--htx visible-xs">
+                            <span>toggle menu</span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- /Header -->
+
+    <!-- Menu Mobile -->
+    <section id="menu-mobile">
+        <div class="container">
+            <!-- Main Menu Mobile -->
+            <ul class="main-menu-m">
+                        <li class="dropdown ">
+
+                <a href="#" class="drop">Software <i class="fa fa-angle-down"></i></a>
+        <ul style="display: none;" class="second-level">
+
+                <li>
+                    <a href="#" class="drop" data-toggle="">
+                        Gestione Studio Legale <i class="fa fa-angle-down"></i>
+                    </a>
+
+
+
+                    <ul style="display: none;" class="third-level">
+                                                    <li>
+                                <a href="/Legal/netlex-fatturazione">
+                                    NETLEX Fatturazione <br />
+                                  
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Legal/netlex">
+                                    NETLEX Standard <br />
+                                  
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Legal/netlex-plus">
+                                    NETLEX Plus <br />
+                                  
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Legal/easylex">
+                                    EASYLEX GSL <br />
+                                  
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Legal/credit-management">
+                                    EASYLEX CM <br />
+                                  
+                                </a>
+                            </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="drop" data-toggle="">
+                        Adempimenti telematici <i class="fa fa-angle-down"></i>
+                    </a>
+
+
+
+                    <ul style="display: none;" class="third-level">
+                                                    <li>
+                                <a href="/Legal/netlex-pda">
+                                    NETLEX PDA <br />
+                                  
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Legal/easynota">
+                                    EASYNOTA <br />
+                                  
+                                </a>
+                            </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="drop" data-toggle="">
+                        Strumenti per l’Avvocato <i class="fa fa-angle-down"></i>
+                    </a>
+
+
+
+                    <ul style="display: none;" class="third-level">
+                            <li><a href="https://www.4clegal.com/" target="_blank"> <span>4CLegal</span>
+                                   
+                                </a></li>
+                                                    <li>
+                                <a href="/Legal/conservazione-cloud">
+                                    Conservazione in Cloud <br />
+                                  
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Legal/agyo-fatturazione">
+                                    AGYO Fatturazione <br />
+                                  
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Legal/agyo-privacy-avvocati">
+                                    AGYO Privacy <br />
+                                  
+                                </a>
+                            </li>
+                    </ul>
+                </li>
+
+
+            
+        </ul>
+        </li>
+        <li class="dropdown ">
+
+                        <a href="/Legal/software-trial">
+                        SOFTWARE TRIAL
+                    </a>
+        </li>
+        <li class="dropdown ">
+
+                        <a href="http://media.teamsystem.com/legal/" target="_blank">
+                        Media Catalogo
+                    </a>
+        </li>
+        <li class="dropdown active">
+
+                <a href="#" class="drop" >Approfondimenti 
+                    <i class="fa fa-angle-down"></i>
+            </a>
+        <ul style="display: none;" class="second-level">
+        <li class="dropdown active44">
+
+                    <a href="/Legal/news-guide">
+                        Novit&#224; e guide
+                    </a>
+        </li>
+        <li class="dropdown ">
+
+                    <a href="/Legal/storie-di-successo">
+                        Storie di Successo
+                    </a>
+        </li>
+        <li class="dropdown ">
+
+                    <a href="/Legal/domande-frequenti">
+                        F.A.Q.
+                    </a>
+        </li>
+        </ul>
+        </li>
+        <li class="dropdown ">
+
+                        <a href="/Legal/eventi">
+                        Eventi
+                    </a>
+        </li>
+
+                
+                    <li class="other-menu">
+        <a href="/Legal/azienda"  role="button" aria-haspopup="true" aria-expanded="false">Chi siamo
+            
+         </a>
+
+        
+    </li>
+
+                    <li class="other-menu dropdown">
+        <a href="#" class="drop">Area riservata <i class="fa fa-angle-down"></i></a> 
+
+            <ul style="display: none;" class="second-level">
+                        <li class="">
+
+                            <a href="http://assistenza.teamsystemlegal.it" target="_blank" data-track-event="Aree Riservate">
+                                Assistenza tecnica
+                            </a>
+                        </li>
+                        <li class="">
+
+                            <a href="http://lycenze.teamsystem.com/swp/" target="_blank" data-track-event="Aree Riservate">
+                                Area rivenditori
+                            </a>
+                        </li>
+            </ul>
+    </li>
+
+                
+                <li class="other-menu"><a href="https://www.teamsystem.com/store/studi-legali/" target="_blank">Acquista</a></li>
+                    <li class="other-menu">
+        <a href="/Legal/contatti">Contatti </a>
+    </li>
+
+                
+            </ul>
+            <div class="search-mobile">
+                <form action="/Legal/pagineinterne/cerca_nel_sito" method="get" class="navbar-form" role="search">
+                    <input type="search" class="form-control" id="search-input" name="txtSiteSearch" placeholder="Cerca nel sito" required>
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </form>
+
+               
+            </div>
+        </div>
+    </section>
+        <!-- Subnav -->
+        <div id="subnav">
+            <div id="subnav-content">
+                <!-- Contenuto inserito dinamicamente -->
+                <div class="container">
+                </div>
+            </div>
+        </div>
+        <!-- /Subnav -->
+
+        
+
+
+<section id="visual-case-guide">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>Cloud computing, la &quot;grande svolta&quot; dell’IT per l’avvocatura?</h1>
+                
+            </div>
+        </div>
+    </div>
+</section><!-- Main -->
+
+
+
+
+<section class="main pad-v-m bom-text">
+    <div class="container">
+        <div class="row">
+                    <div class="col-xs-12 col-sm-5" style="margin-bottom:30px;">
+                        <img src="/Legal/media/immagini/268_z_cloud-computing.png" alt="Cloud computing, la &quot;grande svolta&quot; dell’IT per l’avvocatura?" class="img-responsive" />
+                    </div>
+
+            <div class="col-xs-12 col-sm-7" style="margin-bottom:30px;">
+                
+                <h2>Il Cloud Computing offre all’avvocato, che dovrà affrontare la rivoluzione della de materializzazione della sua attività, servizi affidabili, al top delle performance ma a costi accessibili anche per il piccolo studio legale, perché legati a logiche on demand ed alle risorse di cui effettivamente si usufruisce.
+Entriamo nel dettaglio per capire insieme di cosa si tratta e cosa significa dal punto di vista pratico e operativo.</h2>
+            </div>
+            <div class="col-xs-12 col-sm-12"><p>Ma partiamo da una domanda fondamentale:&nbsp;<strong>spezzare il binomio tra informazione e tecnologia in modo da poterci occupare solo di “cosa” vogliamo fare senza preoccuparci del “come”. Mettere tutto, hardware, software, applicazioni e dati, sulla grande “nuvola” che è oggi internet, dalla quale estrarre i servizi desiderati quando ne abbiamo bisogno.<br />
+Un sogno?&nbsp;Niente affatto: </strong>una possibilità molto concreta che, anche se non possiamo ancora dire quando e in che misura, sta per imprimere all’IT come la conosciamo oggi una svolta epocale che cambierà lavoro, organizzazione e modelli di business sia degli utenti sia dei fornitori. E il mercato comincia a rispondere.</p>
+
+<h2>Vi siete mai chiesti perché il Cloud Computing si chiama così e viene rappresentato con una nuvoletta?</h2>
+
+<p>Quando in un grafico illustrante l<strong>’architettura di un sistema occorre rappresentare un’entità</strong> cui il sistema fa riferimento, ma che risulta esterna ad esso, <strong>il simbolo che viene usato è una nuvoletta</strong>. E siccome la più comune di queste entità esterne è l’Internet, ecco che questa, assieme alle intranet ed extranet (che, ricordiamo, sono reti chiuse, o aperte solo a certi gruppi di utenti, ma che si presentano al browser come se fossero parte dell’internet globale) è identificata dalla nuvola. Ed è forse questa la ragione per cui, trattandosi di un qualcosa dove la Rete ha un ruolo fondamentale, si è battezzato “<strong>Cloud Computing</strong> ”quello di cui stiamo per parlare. Abbiamo usato il termine “qualcosa” perché <strong>una definizione chiara ed univoca di Cloud Computing non c’è.</strong> Sono tante le definizioni di Cloud Computing che si possono trovare, ma tutte diverse e nessuna che non ammettesse d’essere limitativa, che non richiedesse una spiegazione e, soprattutto, sulla quale tutti fossero d’accordo. Se è vero che “nomina sunt rerum”, ci si perdoni il gioco di parole, ma il Cloud Computing pare davvero nebuloso.</p>
+
+<p>La mancanza di una definizione riconosciuta e condivisa non è una questione accidentale. Né si può attribuire solamente al fatto che il termine sia così recente (secondo Wikipedia, si è diffuso solo a metà del 2007) da non aver ancora catalizzato attorno a sé da parte degli analisti del settore una precisa corrente di pensiero. In realtà quello che il Cloud Computing rappresenta, o quanto meno propone, comporta tali e tante implicazioni sul fronte dell’IT intesa come realtà economica e industriale, da far sì che ciascuna delle forze in gioco lo interpreti secondo il proprio punto di vista e secondo il vantaggio (o la minaccia) che può configurare.</p>
+
+<p>C’è infatti un concetto che pervade l’intero argomento. Ed è quello della totale separazione tra le funzionalità e i servizi IT offerti all’utente e le relative tecnologie abilitanti. Questaseparazione viene attuata tramite lo spostamento sia delle soluzioni software sia delle infrastrutture hardware dall’utente ad uno o più fornitori esterni in grado di erogare attraverso la Rete (ecco la “nuvola”) e sotto forma di servizio ciò di cui l’utente ha bisogno. Si tratta, insomma, di applicare all’IT il concetto che informa la fornitura delle cosiddette “utility”. <strong>Come nessuno oggi si scava pozzi e tiene in casa generatori elettrici se non in casi particolari, così nessuno dovrà domani comprare risorse server e storage ed installare e mantenere applicazioni se non in casi altrettanto particolari.</strong> Ma IT significa Information Technology e finora è stata un binomio inscindibile. Rompere questa coppia, facendo vivere la tecnologia (hardware e software), da una parte e l’informazione da questa elaborata dall’altra, non è una cosa da poco. È un mutamento epocale.</p>
+
+<h2>Le origini</h2>
+
+<p>La storia delle rivoluzioni ci insegna che se queste si fanno manifeste attraverso fatti evidenti e talvolta clamorosi, si sviluppano però per somma di eventi spesso non immediatamente percepibili ma che vanno tutti verso una stessa direzione. Così, l’idea configurata dal Cloud Computing di utilizzare risorse distribuite e accessibili dalla Rete non nasce sei o sette mesi fa, quando questo termine incomincia a farsi sentire, ma anni addietro. Addirittura, si può dire, quando a metà degli anni ‘90, dopo che Tim Berners-Lee ha inventato il <strong>World Wide Web</strong> e l’Internet si è trasformata da insieme eterogeneo di basi dati private alla rete globale che conosciamo, compaiono i browser grafici che permettono di accedere facilmente a questa nuova risorsa. Per dieci anni e più però <strong>il Web rimane, e per molti lo è ancora, un immenso patrimonio d’informazione</strong>, <strong>con milioni di “pagine” da consultare, ma fruito in modo passivo.</strong> <strong>Sulla Rete si è andati fino ad oggi soprattutto per conoscere e vedere, non per “fare”.</strong></p>
+
+<h2>Eppure le applicazioni web-based ci sono state da sempre</h2>
+
+<p>Quando si cercava qualcosa con Altavista (uno dei primi motori di ricerca) si usava tramite il browser un’applicazione che risiedeva altrove, sul server che ospitava il sito di Altavista. E lo stesso quando si ordina un libro su Amazon.com, il che si fa, se ricordiamo bene, da una decina d’anni almeno. Ovviamente, se per utilizzare queste applicazioni, che coinvolgono lo scambio di un limitato volume d’informazioni era, ed è, sufficiente la capacità di trasferimento dati offerta dalle connessioni dial-up, per un’applicazione più complessa occorre poter contare sulla connettività a banda larga. Ma questa è oramai largamente diffusa e oggi anche nel nostro Paese, dove pure permangono delle sacche non coperte da fibra ottica e reti Adsl, si può dire che raggiunga praticamente ogni centro di attività.</p>
+
+<p><strong>Carr è l’autore del famoso articolo “It doesn’t matter”</strong>, pubblicato nel maggio 2003 dall’<strong>Harvard Business Review, nel quale sosteneva la perdita di rilevanza dell’IT quale fattore di competitività per l’impresa a causa della sua tendenza a diventare una “commodity” ubiqua, fungibile e, in sostanza, indifferenziata.</strong> L’articolo, inutile dirlo, suscitò un vespaio di polemiche (come era certamente nell’intento dell’autore), ma oggi, si può dire che in questa visione c’era una buona dose di verità, nel senso che se resta strategico l’impiego dell’IT, <strong>ha sempre meno importanza come questa risorsa venga resa disponibile</strong>. Siamo infatti alla soglia di un mutamento fondamentale nella natura stessa dell’IT, che da risorsa privata, che le imprese utenti devono procurarsi a loro cura, con una propria infrastruttura e un proprio software, diventa (può diventare) una utility pubblica, fornita da risorse centralizzate e distribuite in rete.</p>
+
+<p><strong>Carr paragona tale cambiamento a quello che è avvenuto ai primi del ‘900, quando le fabbriche hanno rinunciato alle proprie centrali elettriche per rivolgersi a fornitori esterni.</strong> “Se questo è potuto accadere per una risorsa vitale come l’energia – dice – può benissimo accadere per l’informatica. Tanto più ora che questa diventa una tecnologia “general purpose”, buona cioè ad ogni scopo”.<br />
+Trasliamo adesso questo concetto al processo di informatizzazione degli studi legali. Il livello di informatizzazione dell’attività legale non è mai stato particolarmente elevato e, adesso, sotto la spinta dell’informatizzazione della P.A. in generale, della grande clientela (banche, assicurazioni, grandi imprese, ecc…) e soprattutto del Processo telematico, sarà possibile un passaggio immediato dello studio legale direttamente all’erogazione di servizi telematici piuttosto che ad investimenti per installare e gestire sistemi informatici all’interno dello stesso.</p>
+
+<h2>Quali possono essere i vantaggi per l’avvocato di un approccio dell’informatizzazione attraverso il cluod computing?</h2>
+
+<p><strong>Gestire l’IT di uno studio legale</strong>, che<strong> vuol dire affidare ai sistemi informatici il bene più prezioso</strong>, comporta necessariamente rivolgersi a strumenti e sistemi tecnologici di fascia medio alta, che garantiscano:</p>
+
+<ul>
+	<li style="font-size: 16px;"><strong>sicurezza</strong></li>
+	<li style="font-size: 16px;"><strong>performance</strong></li>
+	<li style="font-size: 16px;"><strong>funzionalità </strong></li>
+	<li style="font-size: 16px;"><strong>affidabilità. </strong></li>
+</ul>
+
+<p style="font-size: 16px;"><strong>Occorre poi che tali sistemi siano correttamente presidiati, aggiornati e mantenuti </strong>da personale qualificato che non è assolutamente facile trovare all’interno dello studio legale. In poche parole, se pensiamo ad un sistema informatico interno allo studio legale che soddisfi i requisiti di affidabilità e sicurezza richiesti, dobbiamo preventivare robusti investimenti in hardware, in software e in assistenza tecnica. Inoltre, si dovranno anche aumentare le competenze tecniche all’interno dello studio per potere gestire anche solo da utenti tale complessità tecnologica. Saranno a carico dell’avvocato i costi per l’obsolescenza dei computer e dei software, per la sicurezza informatica, per lo storage e per il backup, per le novità e le modifiche nella gestione dei flussi informativi con gli uffici giudiziari.</p>
+
+<p style="font-size: 16px;"><strong>Il Cloud Computing offre all’avvocato, che dovrà affrontare la rivoluzione della de materializzazione della sua attività, servizi affidabili, al top delle performance ma a costi accessibili anche per il piccolo studio legale, perché legati a logiche on demand ed alle risorse di cui effettivamente si usufruisce.</strong></p>
+
+<p><strong>I costi dell’aggiornamento, della complessità, della sicurezza, dell’affidabilità e della scalabilità dei sistemi rimarranno a carico degli erogatori dei servizi utili al mondo legale.</strong></p>
+
+<p><strong>Così ci sarà una vera separazione tra la gestione, lo scambio e la fruizione delle informazioni e le tecnologie</strong> che vengono utilizzate per farlo: le prime rimarranno oggetto dell’attività dell’avvocato che non dovrà curarsi delle seconde, a tutto vantaggio della semplicità e dell’economicità di esercizio di uno studio legale moderno, funzionale ed efficiente. In un’ottica del Cloud Computing i sistemi informatici dello studio legale si smaterializzano e si delocalizzano: l’infrastruttura tecnologica interna allo studio potrà limitarsi a device capaci di collegarsi ad internet e di seguire l’avvocato nel suo lavoro ovunque egli ne abbia necessità.</p>
+
+<p><strong>Il Cloud Computing non è assolutamente un’alternativa tipo prendere-o-lasciare, ma una scelta in più. </strong>Ritengo che i suoi effetti saranno molto probabilmente più dirompenti per il mondo dell’offerta, che infatti, e non da ora, si sta preparando a cambiare i suoi modelli di business, che per quello della domanda di IT nel settore legale.</p>
+
+<p>Quello che si può dire è di stare all’erta, ovviamente, ma di non pensare al Cloud Computing come a qualcosa di negativo né tanto meno vedervi una minaccia all’autonomia e indipendenza operativa delle imprese e della stessa funzione IT.</p>
+
+<p><strong>Tale scenario va visto come un’opportunità per spostare a favore degli investimenti il rapporto tra questi e le spese correnti e liberare nel contempo risorse utili per quelle attività relative non a ‘come’ fornire servizi IT all’Avvocatura, ma a “cosa” farne ai fini della competitività. Che è quello che conta.</strong></p>
+
+<hr />
+<p><span style="font-size:18px; font-weight:bold">Scopri NETLEX, il gestionale CLOUD completo e potente per il lavoro degli avvocati e degli studi legali: </span><br />
+<br />
+<a class="btn btn-ghost invert gradient-grey" href="https://www.teamsystem.com/Legal/netlex">NETLEX</a></p></div>
+        </div>
+    </div>
+</section>
+
+<section class="cta mar-v-m">
+       <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            
+              </div>
+            </div>
+           </div>
+    </section>
+
+
+<!-- /Main -->
+
+<div class="modal fade" id="myModalaz" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                
+            </div>
+            <div class="modal-body">
+
+
+                <iframe width="560" height="315"  frameborder="0" allowfullscreen></iframe>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+        <!-- Bottom Link -->
+        <section id="footer" class="footer-links">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <img src="/Legal//img/logo-footer.png" />
+                    </div>
+                </div>
+                <div class="row widget-footer">
+                    <div class="col-md-4 col-sm-8">
+                        <h4>Software</h4>
+                        <ul style="column-count:2">
+                                            <li><a href="/Legal/netlex-fatturazione">NETLEX Fatturazione</a></li>
+                                            <li><a href="/Legal/netlex-pda">NETLEX PDA</a></li>
+                                            <li><a href="/Legal/netlex">NETLEX Standard</a></li>
+                                            <li><a href="/Legal/netlex-plus">NETLEX Plus</a></li>
+                                            <li><a href="/Legal/sistema-software-gestionale-netlex">Sistema NETLEX</a></li>
+                                            <li><a href="/Legal/easylex">EASYLEX GSL</a></li>
+                                            <li><a href="/Legal/credit-management">EASYLEX CM</a></li>
+                                            <li><a href="/Legal/easynota">EASYNOTA</a></li>
+                                            <li><a href="/Legal/conservazione-cloud">Conservazione in Cloud</a></li>
+                                    <li><a href="https://www.4clegal.com/" target=_blank>4CLegal</a></li>
+                                            <li><a href="/Legal/agyo-fatturazione">AGYO Fatturazione</a></li>
+                                            <li><a href="/Legal/agyo-privacy-avvocati">AGYO Privacy</a></li>
+
+                        </ul>
+
+                    </div>
+                                                            <div class="col-md-2 col-sm-4">
+                        <h4>Store</h4>
+                        <ul>
+                                    <li><a href="https://www.teamsystem.com/store/studi-legali/easy-pda/" target=>NETLEX PDA</a></li>
+                                    <li><a href="http:\\www.teamsystem.com/store/soluzioni-cloud/note-iscrizione-ruolo/" target=>EASY Nota</a></li>
+                                            <br/>
+                                            <h4>TRIAL</h4>
+                                            <li><a href="/Legal/trial-netlex">TRIAL NETLEX</a></li>
+                                            <li><a href="/Legal/trial-netlex-pda">TRIAL NETLEX PDA</a></li>
+
+                        </ul>
+                    </div>
+                                        <div class="col-md-2 col-sm-4">
+                        <h4>Link Utili</h4>
+                        <ul>
+                                    <li><a href="http://media.teamsystem.com/legal/" target=_blank>Media Catalogo</a></li>
+                                        <li><a href="/Legal/contatti">Contatti</a></li>
+                                        <li><a href="/Legal/partners">Partners</a></li>
+                                        <li><a href="/Legal/diventa-software-partner">Diventa Software Partner</a></li>
+                                        <li><a href="/Legal/lunico-software-per-avvocati-in-convenzione-con-la-cassa-forense-">Convenzione Cassa Forense</a></li>
+                                    <li><a href="https://www.teamsystem.com/privacy-policy" target=>Privacy</a></li>
+                                    <li><a href="https://www.teamsystem.com/gestione_cookie" target=>Cookie Policy</a></li>
+                                        <li><a href="/Legal/mappa_del_sito">Mappa del Sito</a></li>
+                                        <li><a href="/Legal/networkteamsystem">Network TeamSystem</a></li>
+                                    <li><a href="http://www.eclegal.it/" target=_blank>Euroconference Legal</a></li>
+                                    <li><a href="https://www.teamsystem.com/Legal/domande-frequenti" target=>F.A.Q. Domande frequenti</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-2 col-sm-4">
+                        <h4>Seguici su</h4>
+                        <ul class="socials">
+                            <li><a href="https://www.facebook.com/teamsystemlegal/" target="_blank"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+                            <li><a href="https://www.linkedin.com/company/teamsystem/" target="_blank"><i class="fa fa-linkedin"></i><span>Linkedin</span></a></li>
+                            <li><a href="http://www.youtube.com/channel/UCZxZDtDmzIkI_k_LMZlTzSw" target="_blank"><i class="fa fa-youtube"></i><span>Youtube</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="divider"></div>
+                <div class="row newsletter-footer">
+                    <div class="col-sm-12">
+                        <h4>Iscriviti alla Newsletter</h4>
+                       
+                            <form class="form-inline">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="Indirizzo email" id="emailNL" name="emailNL">
+                                </div><a href="/Legal/newsletter" id="link" name="link" data-toggle="modal" data-target="#myModalNL" >
+                                <button type="submit" class="btn btn-default">Iscriviti</button></a>
+                             
+</form>
+                      
+                    </div>
+                    
+                </div>
+
+                <div class="row copy">
+                    <div class="col-sm-12">
+                        <p>
+                           © Copyright 2018 - TeamSystem S.p.A. società con socio unico soggetta all’attività di direzione e coordinamento di TeamSystem Holding S.p.A. Cap. Soc. € 24.000.000 I.v. C.C.I.A.A.<br />di Pesaro n. 103483 Reg. Soc. Tribunale di Pesaro n. 8327 - P.I. 01035310414 - Sede Legale: Via Sandro Pertini, 88 - 61122 Pesaro (PU) - Tutti i diritti riservati
+                        </p>
+                        <div class="credits">
+                            web agency <a class="websolute-link" title="Digital Marketing" target="_blank" href="https://www.websolute.com"><img src="/Legal//img/firma.png" alt="Digital Marketing"> websolute</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /Bottom Link -->
+
+  
+
+    
+
+
+<!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          
+          
+
+          </div>
+        </div>
+      </div>
+
+    <div class="modal fade" id="myModalNL" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            </div>
+        </div>
+    </div>
+    
+    <!-- /Modal -->
+      
+    
+    <!-- /Wrapper -->
+   
+   
+
+        <script type="text/javascript">
+            if (navigator.cookieEnabled) {
+                $.ajax({
+                    url: "/Legal/browserInfo.ashx"
+                    , data: {
+                        'width': window.screen.width,
+                        'height': window.screen.height,
+                        'pxRatio': window.devicePixelRatio === undefined ? 1 : window.devicePixelRatio
+                    }
+                });
+            }
+        </script>
+   
+    
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+   
+<script type="text/javascript" src="/Legal/min/Layout_2_1810251326422642.js"></script>
+
+
+    <script src="//tt.mbww.com/tt-b312d5fbcfab403a28f259ab3d2b333ae2412727528b63ae3c032be535410ed5.js" async></script>
+     
+
+    
+
+
+    
+
+    
+
+
+
+
+    <!-- begin SnapEngage code -->
+
+    <script type="text/javascript">
+
+        (function () {
+
+            var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+            se.src = '//storage.googleapis.com/code.snapengage.com/js/79ba3739-4151-4b9b-8366-03a8cf2f2d8b.js';
+            var done = false;
+
+            se.onload = se.onreadystatechange = function () {
+
+                if (!done && (!this.readyState || this.readyState === 'loaded' || this.readyState === 'complete')) {
+                    done = true;
+
+                    /* Place your SnapEngage JS API code below */
+                    /* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
+
+                }
+            };
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+
+        })();
+
+    </script>
+    <!-- end SnapEngage code -->
+</body>
+
+
+
+</html>

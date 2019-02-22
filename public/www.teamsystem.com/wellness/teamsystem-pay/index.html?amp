@@ -1,0 +1,828 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="TeamSystem Pay è la piattaforma di pagamento per farsi pagare in modo semplice con carta di credito e SEPA direct debit già attiva su InforYou e FlipTonic" />
+<meta name="twitter:title" content="TeamSystem Pay | TeamSystem Wellness" />
+<meta name="twitter:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2018/05/logo_TS-PAY-300x166.png" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="TeamSystem Pay | TeamSystem Wellness" />
+<meta property="og:description" content="TeamSystem Pay è la piattaforma di pagamento per farsi pagare in modo semplice con carta di credito e SEPA direct debit già attiva su InforYou e FlipTonic" />
+<meta property="og:url" content="//www.teamsystem.com/wellness/teamsystem-pay/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+<meta property="og:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2018/05/logo_TS-PAY-300x166.png" />
+	<title>TeamSystem Pay | TeamSystem Wellness</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/teamsystem-pay/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<script type='text/javascript' src='//cdn.ampproject.org/v0/amp-form-0.1.js' async custom-element="amp-form"></script>
+<script type='text/javascript' src='//cdn.ampproject.org/v0/amp-mustache-0.2.js' async custom-template="amp-mustache"></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/teamsystem-pay\/","headline":"TeamSystem Pay","datePublished":"2018-07-11T09:31:42+00:00","dateModified":"2018-11-13T16:01:07+00:00","author":{"@type":"Person","name":"Roberto Di Giacomo"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/07\/WellnessTown-300x57.png","width":300,"height":57},"description":"TeamSystem Pay \u00e8 la piattaforma di pagamento per farsi pagare in modo semplice con carta di credito e SEPA direct debit gi\u00e0 attiva su InforYou e FlipTonic"}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-30b1365{color:#f90}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-fecfcac{list-style-type:disc}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-af18eac{font-size:20px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-beab583{font-size:16px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-224b51a{display:none}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">TeamSystem Pay</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		
+		<div id="fws_5c3613d843240" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div id="corpo_1">
+<p><amp-img class="alignnone wp-image-7796 size-medium amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/05/logo_TS-PAY-300x166.png" alt="TeamSystem Pay" width="300" height="166" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/05/logo_TS-PAY-300x166.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/05/logo_TS-PAY-768x425.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/05/logo_TS-PAY-1024x567.png 1024w, //www.teamsystem.com/wellness/wp-content/uploads/2018/05/logo_TS-PAY.png 1030w" sizes="(max-width: 300px) 100vw, 300px" layout="intrinsic"></amp-img></p>
+</div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d843573" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2 class="entry-title"><strong>Farsi pagare, <span class="amp-wp-30b1365">semplicemente</span></strong></h2>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d843756" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<ul class="amp-wp-fecfcac"><li><span class="amp-wp-af18eac"><strong>Crea</strong> i tuoi piani di pagamento</span></li>
+<li><span class="amp-wp-af18eac"><strong>Condividi</strong> i link per farti pagare</span></li>
+<li><span class="amp-wp-af18eac"><strong>Incassa</strong> in modo ricorrente o immediato</span></li>
+</ul><p><a class="nectar-button large see-through has-icon" target="_blank" href="//www.youtube.com/watch?v=z2q-LXbjAS4" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scopri come nel video</span><i class="icon-button-arrow"></i></a><br><a class="nectar-button large extra-color-1 has-icon regular-button" href="//securepay.teamsystem.com/it/User/Register" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Registrati ora ed inizia ad incassare</span><i class="icon-button-arrow"></i></a></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><amp-img class="alignleft size-medium wp-image-8384 amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/ecosistema_TS_pay-300x258.jpg" alt="" width="300" height="258" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/ecosistema_TS_pay-300x258.jpg 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/ecosistema_TS_pay.jpg 697w" sizes="(max-width: 300px) 100vw, 300px" layout="intrinsic"></amp-img></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d843ada" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d843c6a" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-video-box" data-color="default-accent-color" data-hover="defaut" data-shadow="none"><a href="//www.youtube.com/watch?v=Tq_v7wYiBSo" class="full-link pp"></a><amp-img width="1221" height="689" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/MarcoCasali.png" class="attachment-full size-full amp-wp-enforced-sizes" alt="Marco Casali" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/MarcoCasali.png 1221w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/MarcoCasali-300x169.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/MarcoCasali-768x433.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/MarcoCasali-1024x578.png 1024w" sizes="(max-width: 1221px) 100vw, 1221px" layout="intrinsic"></amp-img><a href="//www.youtube.com/watch?v=Tq_v7wYiBSo" data-color="default" class="play_button_2 large nectar_video_lightbox pp"><span class="play"><span class="inner-wrap"><svg version="1.1" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewbox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve"><path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path></svg></span></span></a></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<blockquote><p>
+E’ un sistema semplice, immediato e ci consente con poco sforzo di creare gli strumenti di cui abbiamo bisogno per processare i pagamenti dei nostri clienti.<br>
+Si tratta di un’azienda che parla italiano.
+</p></blockquote>
+<p><em>Marco Casali</em></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-video-box" data-color="default-accent-color" data-hover="defaut" data-shadow="none"><a href="//www.youtube.com/watch?v=YJ5EdiCXvTU" class="full-link pp"></a><amp-img width="1349" height="757" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/GianLucaBracciali.png" class="attachment-full size-full amp-wp-enforced-sizes" alt="Gian Luca Bracciali" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/GianLucaBracciali.png 1349w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/GianLucaBracciali-300x168.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/GianLucaBracciali-768x431.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/GianLucaBracciali-1024x575.png 1024w" sizes="(max-width: 1349px) 100vw, 1349px" layout="intrinsic"></amp-img><a href="//www.youtube.com/watch?v=YJ5EdiCXvTU" data-color="default" class="play_button_2 large nectar_video_lightbox pp"><span class="play"><span class="inner-wrap"><svg version="1.1" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewbox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve"><path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path></svg></span></span></a></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<blockquote><p>
+TeamSystem Pay è un sistema di pagamenti che permette al nostro cliente di pagare in comodità con carta di credito o anche rateizzare. Non si può essere più veloci di cosi.
+</p></blockquote>
+<p><em>Gian Luca Bracciali</em></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d8444df" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span class="amp-wp-30b1365">Cosa puoi fare con</span> <strong>TeamSystem Pay</strong></h2>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d8446c7" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row  vc_row-o-equal-height vc_row-flex standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="57" width="56" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/ricorrenti.png" alt="" layout="intrinsic"></amp-img></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div id="corpo_1">
+<h3><strong>Pagamenti ricorrenti</strong></h3>
+<p><b>Utilizzabili per</b>:</p>
+<ul><li>Pagamento dei servizi rateizzati</li>
+<li>Ideale per servizi a rinnovo automatico</li>
+<li>Addebito servizi «Pay per use» automatico</li>
+</ul><p><b>Benefici con l’integrazione nei software InforYou e FlipTonic: </b></p>
+<ul><li>Ricevute o fatture automatiche</li>
+<li>Notifiche e azioni automatiche di scadenze o mancati pagamenti</li>
+<li>Automazioni e controllo accessi sincronizzato</li>
+<li>Possibilità di eseguire unica transazione per nucleo familiare</li>
+</ul></div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div style="" class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="56" width="65" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/immediato-1.png" alt="" layout="intrinsic"></amp-img></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div id="corpo_1">
+<h3><strong>Pagamenti diretti</strong></h3>
+<p><b>Utilizzabili per</b>:</p>
+<ul><li>Acquisti online</li>
+<li>Pagamento rate online</li>
+<li>Pos virtuale</li>
+</ul><p><b>Benefici con l’integrazione nei software InforYou e FlipTonic: </b></p>
+<ul><li>Servizio segreteria 24/24h e 7/7gg</li>
+<li>Allineamento dati in tempo reale</li>
+<li>Ricevute o fatture automatiche</li>
+<li>Notifiche e azioni automatiche su operazioni online</li>
+</ul></div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="56" width="56" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/linktopay.jpg" alt="" layout="intrinsic"></amp-img></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div id="corpo_1">
+<h3><strong>Link to Pay</strong></h3>
+<p><b>Utilizzabili per</b>:</p>
+<ul><li>Iscrizione a corsi, gare e ingresso singolo</li>
+<li>Last minute a scadenza (solo per i primi 100 o fino al…)</li>
+<li>Advertising sul web e social</li>
+<li>Gift card</li>
+<li>Sottoscrizione e acquisto servizio ricorrente (es. abbonamento mensile con rinnovo automatico)</li>
+</ul><p><b>Utilizzo del link to pay : </b></p>
+<ul><li>SMS, WhatsApp, Email</li>
+<li>Sito internet e social</li>
+<li>Documenti elettronici e QR code</li>
+</ul></div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d84519f" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3><span class="amp-wp-30b1365">I plus</span> di TeamSystem Pay</h3>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d845380" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div id="corpo_1">
+<ul><li>Automatizza i pagamenti</li>
+<li>Facilita la gestione del flusso di cassa</li>
+<li>Utilizzi il tuo conto corrente bancario attuale</li>
+<li>Piena integrazione nativa con le soluzioni InforYou e FlipTonic</li>
+<li>Scegli tu le scadenze delle rate ed il numero di rate</li>
+<li>Accetta tutte le carte di credito sia nazionali che internazionali</li>
+<li>Servizio di avviso e gestione rinnovo carte in scadenza</li>
+<li>Un unico sistema per addebiti su carte di credito e SEPA</li>
+<li>Vendi direttamente da InforYou e FlipTonic come sei abituato a fare e selezioni il pagamento con TeamSystem Pay</li>
+</ul></div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d845599" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>Condizioni speciali di TeamSystem Pay riservate ai clienti InforYou e FlipTonic</h3>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d84576d" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Addebiti su carte di credito e debito</p>
+<p><span class="amp-wp-af18eac"><span class="amp-wp-beab583"><amp-img class="size-medium wp-image-8416 alignnone amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/creditcard-300x247.png" alt="" width="300" height="247" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/creditcard-300x247.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/creditcard-768x631.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/creditcard-1024x841.png 1024w" sizes="(max-width: 300px) 100vw, 300px" layout="intrinsic"></amp-img><br>
+Costo processo di elaborazione a transazione</span></span><br><span class="amp-wp-af18eac">1,80% sul transato + € 0,24 fisso a transazione<br></span>Unica tariffa per tutte le carte (VISA, MASTERCARD, AMERICAN EXPRESS)</p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Addebiti su conto corrente</p>
+<p><span class="amp-wp-af18eac"><span class="amp-wp-beab583"><amp-img class="size-medium wp-image-8406 alignnone amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/sepa-300x104.png" alt="" width="300" height="104" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/sepa-300x104.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/sepa.png 381w" sizes="(max-width: 300px) 100vw, 300px" layout="intrinsic"></amp-img><br>
+Costo processo di elaborazione a transazione</span><br>
+0,00 % sul transato + € 0,66 fisso a transazione</span></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d845a92" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>Attivazione € 0<br>
+Canone mensile € 0 </h3>
+<p>Tutti gli importi si intendono al netto di IVA</p>
+<p> </p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-af18eac"><strong>L’attivazione di TeamSystem Pay è  semplice e immediata.</strong></span></p>
+<p><span class="amp-wp-af18eac">Clicca sul pulsante,  inserisci la tua email aziendale ed inizia a incassare</span></p>
+<p><span class="amp-wp-af18eac"> <a class="nectar-button large extra-color-1 has-icon regular-button" href="//securepay.teamsystem.com/it/User/Register" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Attiva ora</span><i class="icon-button-arrow"></i></a></span></p>
+<p><span class="amp-wp-af18eac"><a class="nectar-button large see-through has-icon" href="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Istruzioni-attivazione-TeamSystem-Pay.pdf" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scarica la guida per l'attivazione</span><i class="icon-button-arrow"></i></a></span></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d845d58" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>Alcuni clienti che<strong> stanno già usando</strong> TeamSystem Pay</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_gallery wpb_content_element clearfix">
+		<div class="wpb_wrapper"><div class="wpb_gallery_slidesflickity_style" data-interval="5"><div class="nectar-flickity not-initialized" data-shadow="none" data-autoplay="true" data-autoplay-dur="" data-free-scroll="true" data-controls="pagination" data-desktop-columns="5" data-small-desktop-columns="5" data-tablet-columns="3"><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Acrobatic-Fitness-300x82.png" width="300" height="82" alt="Acrobatic Fitness" title="Acrobatic Fitness" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/WellnessTown-300x57.png" width="300" height="57" alt="Wellness Town" title="Wellness Town" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/wellness-creative.png" width="95" height="85" alt="Wellness Creative" title="Wellness Creative" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Universo.png" width="119" height="85" alt="Universo" title="Universo" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Prime-300x73.png" width="300" height="73" alt="Prime" title="Prime" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Palestre-Italiane.png" width="260" height="85" alt="Palestre italiane" title="Palestre Italiane" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Nadir.png" width="148" height="85" alt="Nadir" title="Nadir" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Movimenti.png" width="243" height="85" alt="Movimenti" title="Movimenti" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/monteverde-600x400.png" width="600" height="400" alt="Monteverde Club" title="Monteverde Club" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Logo_SevenInfinity-600x400.jpg" width="600" height="400" alt="Seven Infinity" title="Seven Infinity" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/logo_orange.png" width="245" height="40" alt="Orange Palestre" title="Orange Palestre" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/logo-header-2.png" width="360" height="213" alt="Club Interamnia" title="Club Interamnia" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/heaven-group-logo-600x219.png" width="600" height="219" alt="Heaven Group" title="Heaven Group" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/fivevillage_logo_res2.png" width="181" height="98" alt="Five Village" title="Five Village" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/content_Schermata_2016-08-17_alle_14.55.55.png" width="284" height="81" alt="Villa Flaminia centro sportivo" title="Villa Flaminia Centro Sportivo" layout="intrinsic"></amp-img></div><div class="cell"><amp-img class="amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/BeArtStudio.png" width="131" height="85" alt="Be Art Studio" title="Be Art Studio" layout="intrinsic"></amp-img></div></div></div>
+		</div> 
+	</div> 
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d84dc0a" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>Richiedi subito maggiori informazioni</h3>
+
+		</div>
+	</div>
+<div role="form" class="wpcf7" id="wpcf7-f7614-o1" lang="it-IT" dir="ltr">
+<div class="screen-reader-response"></div>
+<form method="post" class="wpcf7-form cf7-style" novalidate="novalidate" action-xhr="//www.teamsystem.com/wellness/teamsystem-pay/?amp&amp;_wp_amp_action_xhr_converted=1#wpcf7-f7614-o1" target="_top">
+<div class="amp-wp-224b51a">
+<input type="hidden" name="_wpcf7" value="7614"><input type="hidden" name="_wpcf7_version" value="5.1.1"><input type="hidden" name="_wpcf7_locale" value="it_IT"><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7614-o1"><input type="hidden" name="_wpcf7_container_post" value="0"><input type="hidden" name="g-recaptcha-response" value=""></div>
+<p><label> Nome e Cognome*<br><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Azienda*<br><span class="wpcf7-form-control-wrap azienda"><input type="text" name="azienda" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Telefono/Cellulare*<br><span class="wpcf7-form-control-wrap telefono"><input type="tel" name="telefono" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Email*<br><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Messaggio*<br><span class="wpcf7-form-control-wrap messaggio"><textarea name="messaggio" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </label></p>
+<p id="text_privacy">È una questione di fiducia!<br>
+Leggi la nostra <a href="//www.teamsystem.com/wellness/privacy">informativa sulla privacy</a> e scegli i consensi che desideri rilasciare a TeamSystem WELLNESS. Potrai sempre cambiare idea scrivendo a <a href="mailto:privacy@tswellness.it">privacy@tswellness.it</a>.
+</p><p id="text_privacy">Vorremmo scriverti via e-mail o contattarti al telefono per aggiornarti su novità e offerte commerciali di TeamSystem WELLNESS.<br><span class="wpcf7-form-control-wrap acceptance"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">Sono d'accordo*</span></label></span></span></span><br>
+Vorremmo condividere i tuoi contatti con le altre società del Gruppo TeamSystem e con i suoi partner, per aggiornarti su novità e offerte commerciali.<br><span class="wpcf7-form-control-wrap condivisione"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="condivisione[]" value="Sono d'accordo"><span class="wpcf7-list-item-label">Sono d'accordo</span></span></span></span><br><input type="submit" value="Invia Richiesta" class="wpcf7-form-control wpcf7-submit"></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div><div submit-error=""><template type="amp-mustache">{{{error}}}</template></div></form></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.192 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:31:36 -->

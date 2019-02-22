@@ -1,0 +1,771 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Tutti i nostri dispositivi elettronici per la tua palestra, sauna, piscina o centro polifunzionale. Scopri i prodotti dedicati a te." />
+<meta name="twitter:title" content="Dispositivi elettronici per palestre e centri fitness | Teamsystem Wellness" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Dispositivi elettronici per palestre e centri fitness | Teamsystem Wellness" />
+<meta property="og:description" content="Tutti i nostri dispositivi elettronici per la tua palestra, sauna, piscina o centro polifunzionale. Scopri i prodotti dedicati a te." />
+<meta property="og:url" content="//www.teamsystem.com/wellness/dispositivi/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+	<title>Dispositivi elettronici per palestre e centri fitness | Teamsystem Wellness</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/dispositivi/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/dispositivi\/","headline":"Dispositivi","datePublished":"2017-06-22T12:04:13+00:00","dateModified":"2018-07-19T13:19:55+00:00","author":{"@type":"Person","name":"Habra"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/automazione.png","width":2013,"height":1106},"description":"Tutti i nostri dispositivi elettronici per la tua palestra, sauna, piscina o centro polifunzionale. Scopri i prodotti dedicati a te."}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-c3f62eb{padding-top:4%;padding-bottom:3%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-9817bca{background-color:#f4f4f4}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-c0d855f{font-size:48px;line-height:57px;text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-07830ff{color:rgba(10,10,10,.65);text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e88eba2{padding-top:10px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a0d43da{font-size:50px;line-height:50px;height:50px;width:50px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ee3daf4{background-color:#fff}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-f7e1d90{font-size:40px;line-height:50px;text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-eb1cc7a{color:rgba(10,10,10,.6);text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6880bd3{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/tessere.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6f05f57{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/portachiavi-minicard.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-0b9449f{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/02/Schermata-2017-06-16-alle-11.42.40.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-d57b351{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/lettore.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-1b46c04{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/tornello.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-5ec86f9{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/serrature.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6dfd00e{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/automazione.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-992f1e2{margin-top:60px}:root:not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-992f1e2{margin-bottom:30px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-2925362{font-size:40px;color:#000;text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-87b02b9{padding-top:10px;padding-bottom:60px}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">Dispositivi</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		
+		<div id="fws_5c3613d0adee6" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-c3f62eb"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-9817bca" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.5" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0ae294" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-c0d855f">I migliori dispositivi per<br>
+Controllo Accessi e Automazione</h2>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c3613d0ae699" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<p class="vc_custom_heading amp-wp-07830ff">Materiali di alta qualità e tecnologia all'avanguardia si uniscono grazie a competenza ed esperienza dei nostri tecnici.</p>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0ae93b" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0aeaf5" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-e88eba2"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text has-animation padding-3-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap" data-style="default" data-draw="" data-border-thickness="2px" data-padding="0px" data-color="grey" style="">
+		<div class="nectar_icon"><i class="iconsmind-Gears amp-wp-a0d43da"></i></div>
+	</div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1498133777123">
+		<div class="wpb_wrapper">
+			<h5>Installazione</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text has-animation padding-3-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="100">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap" data-style="default" data-draw="" data-border-thickness="2px" data-padding="0px" data-color="grey" style="">
+		<div class="nectar_icon"><i class="iconsmind-Check amp-wp-a0d43da"></i></div>
+	</div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1498133790828">
+		<div class="wpb_wrapper">
+			<h5>Configurazione e formazione</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text has-animation padding-3-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="200">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap" data-style="default" data-draw="" data-border-thickness="2px" data-padding="0px" data-color="grey" style="">
+		<div class="nectar_icon"><i class="iconsmind-Consulting amp-wp-a0d43da"></i></div>
+	</div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1498133807107">
+		<div class="wpb_wrapper">
+			<h5>Supporto post-vendita</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0af0c1" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-5-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#f4f4f4" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0af219" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-f7e1d90">Tessere RF-ID e magnetiche</h2><p class="vc_custom_heading amp-wp-eb1cc7a">È l'elemento di fidelizzazione per eccellenza: elegante, personalizzato e sempre in tasca al tuo cliente. Nella scelta della tessera non lasciamo nulla al caso, dalla qualità della materia prima ai dettagli esclusivi delle finiture, per rendere unica e speciale la tua tessera.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding amp-wp-6880bd3" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0af663" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding amp-wp-6f05f57" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-5-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0af98f" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-f7e1d90">Portachiavi e minicard</h2><p class="vc_custom_heading amp-wp-eb1cc7a">Un accessorio convenzionale dalle dimensioni ridotte ma dal grande valore aggiunto.<br>
+Impossibile da dimenticare, può essere attaccato alle chiavi di casa o della macchina o più semplicemente alla zip della borsa per fare sport.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0afc00" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-5-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#f4f4f4" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0afd45" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-f7e1d90">Bracciali</h2><p class="vc_custom_heading amp-wp-eb1cc7a">Belli, alla moda, colorati e comodi da portare, i bracciali sono tra i dispositivi più richiesti e graditi dai clienti finali che spesso li indossano anche fuori dalla struttura.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding amp-wp-0b9449f" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0b0155" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding amp-wp-d57b351" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-5-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0b0453" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-f7e1d90">Lettori</h2><p class="vc_custom_heading amp-wp-eb1cc7a">Dispositivi esclusivi progettati e realizzati per garantire i massimi standard di funzionamento e robustezza con un design moderno e materiali di alta qualità.<br>
+Indispensabili per il controllo accessi della struttura e compatibili con diverse tipologie di varchi.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0b06c4" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-5-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#f4f4f4" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0b080a" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-f7e1d90">Tornelli e varchi</h2><p class="vc_custom_heading amp-wp-eb1cc7a">Progettati per le massime prestazioni di funzionamento e realizzati con materiali di alta qualità, grazie al loro design moderno ed elegante diventano anche un elemento di arredo che si integra perfettamente nella struttura del centro.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding amp-wp-1b46c04" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0b0c37" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding amp-wp-5ec86f9" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-5-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0b0f33" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-f7e1d90">Serrature elettroniche per armadietti</h2><p class="vc_custom_heading amp-wp-eb1cc7a">Abbiamo selezionato i migliori fornitori per garantire prodotti ad alta affidabilità e sicurezza, in grado di funzionare per anni senza manutenzione. Sono disponibili sia in versione cablata che stand alone a batteria.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0b11b7" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-5-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613d0b12ff" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading amp-wp-f7e1d90">Sistemi di automazione per docce e phon</h2><p class="vc_custom_heading amp-wp-eb1cc7a">Attraverso specifici punti di lettura, gli utenti possono utilizzare la loro tessera o il loro bracciale per richiedere l'utilizzo del servizio con l'eventuale addebito direttamente dal borsellino elettronico.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding amp-wp-6dfd00e" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0b1717" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-9817bca" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding amp-wp-992f1e2" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h2 class="vc_custom_heading amp-wp-2925362">Vuoi saperne di più?</h2>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613d0b1974" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-87b02b9"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-9817bca" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col centered-text force-tablet-text-align-center force-phone-text-align-center no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<a class="nectar-button jumbo regular accent-color  regular-button" style="" href="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/catalogo_controllo-accessi_TeamSystem.pdf" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scarica il nostro catalogo</span></a>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col centered-text force-tablet-text-align-center force-phone-text-align-center no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<a class="nectar-button jumbo regular accent-color  regular-button" style="" href="mailto:info@tswellness.it" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Maggiori informazioni</span></a>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.322 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:31:28 -->

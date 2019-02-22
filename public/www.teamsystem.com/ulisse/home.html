@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>TeamSystem - Sede Ancona</title>
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<meta http-equiv="PRAGMA" value="NO-CACHE">
+<meta http-equiv="Expires" content="Mon, 01 Jan 1990 12:00:00 GMT">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<!--<link rel="stylesheet" href="./css/bootstrap-responsive.min.css">-->
+<link rel="stylesheet" href="css/main.css">
+<script src="js/modernizr-2.6.1-respond-1.1.0.min.js"></script>
+<link rel="shortcut icon" href="../img/favicon.ico" >
+
+<!---     
+	<script src="http://maps.google.com/?file=api&amp;v=2.x&amp;key=ABQIAAAAlXdLTH10X-twRYIDkURKuhSJrz55qNCAis-xG7PjlX7_YCKk8RRzRyEjCk5uX4tY-7nRM7UYEebLAA" type="text/javascript" language="javascript"></script>	    
+	<script language="javascript" type="text/javascript" >
+		var map;
+		var gdir;
+		var geocoder = null;
+		var addressMarker;
+		
+		function LoadMap()
+		{
+		  if (GBrowserIsCompatible() && document.getElementById("divMap") != null) {
+		    map = new GMap2(document.getElementById("divMap"));
+		
+		    gdir = new GDirections(map);
+		    GEvent.addListener(gdir, "error", handleErrors);
+		    
+		    geocoder = new GClientGeocoder();
+		    showAddress('Via Grandi 8, 60027 Aspio di Osimo (AN)');
+		    
+		    map.addControl(new GSmallMapControl());
+		    //map.addControl(new GLargeMapControl());
+		    
+		//    map.addControl(new GOverviewMapControl(),
+		//    new GControlPosition(G_ANCHOR_BOTTOM_RIGHT, new GSize(9, 9)));
+		  }
+		}
+		
+		function showAddress(address)
+		{
+		    var point = new GLatLng(43.527611, 13.51799);
+		    map.setCenter(point, 12);
+		    var marker = new GMarker(point);
+		    map.addOverlay(marker);
+		    //marker.openInfoWindowHtml('<img alt="TeamSystem ANCONA" src="http://213.255.78.40/gm/img/bysisteda.gif" /><span style="line-height: 120%"><br />Via Grandi, 8<br/>60027 Aspio di Osimo (AN)</span>');
+			marker.openInfoWindowHtml('<img alt="TeamSystem ANCONA" src="http://web.teamsystem-ancona.com/flash/palazzo_sfondo.jpg" />');
+		}
+		
+		
+		function setDirections(fromAddress, toAddress, locale)
+		{
+		  gdir.load("from: " + fromAddress + " to: " + toAddress,
+		            { "locale": locale });
+		}
+		
+		function handleErrors()
+		{
+		   if (gdir.getStatus().code == G_GEO_UNKNOWN_ADDRESS)
+		     //alert("No corresponding geographic location could be found for one of the specified addresses. This may be due to the fact that the address is relatively new, or it may be incorrect.\nError code: " + gdir.getStatus().code);
+		     alert("Non Ã¨ stato possibile trovare nessun luogo geografico per l'indirizzo di partenza specificato. CiÃ² potrebbe essere dovuto al fatto che l'indirizzo Ã¨ relativamente nuovo o forse non corretto." );
+		   else if (gdir.getStatus().code == G_GEO_SERVER_ERROR)
+		     //alert("A geocoding or directions request could not be successfully processed, yet the exact reason for the failure is not known.\n Error code: " + gdir.getStatus().code);
+		     alert("Non Ã¨ stato possibile calcolare il percorso richiesto. Errore imprevisto e sconosciuto.");
+		   else if (gdir.getStatus().code == G_GEO_MISSING_QUERY)
+		     //alert("The HTTP q parameter was either missing or had no value. For geocoder requests, this means that an empty address was specified as input. For directions requests, this means that no query was specified in the input.\n Error code: " + gdir.getStatus().code);
+		     alert("Non Ã¨ stato specificato nessun percorso da calcolare.");
+		   else if (gdir.getStatus().code == G_GEO_BAD_KEY)
+		     //alert("The given key is either invalid or does not match the domain for which it was given. \n Error code: " + gdir.getStatus().code);
+		     alert("La chiave di Google data Ã¨ invalida o non corrisponde al dominio a cui Ã¨ stata assegnata.");
+		   else if (gdir.getStatus().code == G_GEO_BAD_REQUEST)
+		     //alert("A directions request could not be successfully parsed.\n Error code: " + gdir.getStatus().code);    
+		     alert("Inserisci un punto di partenza valido.");
+		   else //alert("An unknown error occurred.");
+		        alert("Inserisci un punto di partenza valido.");
+		   
+		}
+		
+		function onGDirectionsLoad()
+		{ 
+		      // Use this function to access information about the latest load()
+		      // results.
+		
+		      // e.g.
+		  // document.getElementById("getStatus").innerHTML = gdir.getStatus().code;
+		  // and yada yada yada...
+		}	
+	</script>
+ --->
+
+<!--- http://www.developerdrive.com/2012/01/developing-a-responsive-website-background-images/ --->
+<style>
+.homeContent { height: 100%; width: 100%; position: relative; margin: 0 auto; }
+#mainBG { background: url(./img/background.png) no-repeat scroll; background-position: center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; }
+ @media only screen and (max-width: 1024px) and (orientation:landscape) {
+#mainBG { background: url(./img/background.png) 50% 0 no-repeat scroll !important; background-position: center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+#mainBG { background: url(./img/background.png) 50% 80% no-repeat scroll !important; background-position: center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; }
+}
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+#mainBG { background: url(./img/background.png) no-repeat scroll; background-position: center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; }
+</style>
+</head>
+<body style="background: url(./img/background.png)">
+<!--- onload="LoadMap()" onunload="GUnload()" --->
+<div id="mainBG" class="homeContent" data-type="background"> 
+	
+	<!--[if lt IE 7]>
+	<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+<![endif]-->
+	<div class="header"></div>
+	<!--<div class="container">
+        <form class="form-container" name="access" action="#" method="get">
+            <div class="access-label">Area riservata Clienti</div>
+            <input type="text" class="access-input" placeholder="Username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
+            <input type="password" class="access-input" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+            <input type="submit" class="access-btn" value="Accedi" onClick="">
+        </form>
+    </div>--> 
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
+	<script>window.jQuery || document.write('<script src="./js/vendor/jquery-1.8.3.min.js"><\/script>')</script> 
+	<script src="js/bootstrap.min.js"></script> 
+	<script src="js/main.js"></script>
+	<style>
+	table{width: 1020px; font-family: Verdana; font-size: 13pt; color: #707173; 
+	height: 100%; height: auto !important;  height: 320px; min-height: 320px; 
+	}
+	td{border: 1px solid #707173;}
+	
+h4.chi {font:22px/22px "lft-etica",verdana; font-style: normal; font-weight: 200; color:#fff; text-transform:uppercase; display:block; width:100%;}
+h4.trova {font:17px/16px "lft-etica",verdana; font-style: normal; font-weight: 200; color:#FFF; display:block; width:100%;}	
+span.chi {font:22px/22px "lft-etica",verdana; font-style: normal; font-weight: 200; color:#fff; text-transform:uppercase; display:block; width:100%;}
+span.trova {font:17px/16px "lft-etica",verdana; font-style: normal; font-weight: 200; /*color:#FFF;*/ display:block; width:100%;}	
+.chisei {/*-webkit-border-radius: 5px;-moz-border-radius: 5px; border-radius: 5px;*/ /*background:url(./img/bg_tsotto3.jpg) repeat-x top left; width:164px;*/ height:45px; padding:10px 31px 0 10px;}
+</style>
+	<table width="80%"  align="center" cellpadding="10" cellspacing="10">
+		<tr>
+			<td valign="top" style="width: 250px; border-top:0px"><!--- width="27%"  --->
+				
+				<div class="chisei" style=" margin-left: -10px; margin-top: -10px; margin-right: -10px; background:url(./img/bg_tsotto5.jpg) repeat-x top left;"> 
+					<!--- <span class="chi">Chi sei?</span>  ---> 
+					<!--- <span class="trova"><h4 style="font:15px/15px Verdana, Geneva, sans-serif; color:#656665;">Menu'&nbsp;principale</h4></span>  --->
+					<h4 style=" font-weight: normal; ">Menu'&nbsp;principale</h4>
+				</div>
+				<br>
+				<div> 
+					<!--- <h4 class="trova" style="background:url(./img/bg_tsotto.jpg) repeat-x top left; color: white; margin-left: -10px; ">Menu' principale</h4> --->
+					<ul class="menu" style="font:15px/15px Verdana, Geneva, sans-serif; ">
+						<!--<li class="item11"><a href="/http://www.ulissetecno.it/pag_novita.html" target="_blank"><span>News</span></a></li>-->
+						<li class="item11"><a href="http://www.ulissetecno.it/new/aggiorn.html" target="_blank"><span>FiscoMac 2015</span></a></li>
+						<li class="item13"><a href="http://www.ulissetecno.it/new/aggiorn_2014.html" target="_blank"><span>FiscoMac 2014</span></a></li>
+					</ul>
+					<br>
+					
+					
+					
+					
+					<br>
+					&nbsp; </div></td>
+			<td  valign="top" style="border-top:0px"><!--- width="73%" ---> 
+				<!--- <div  style="font:15px/18px Verdana, Geneva, sans-serif; ">
+				<h4 style="color:#0697D5; font-weight: normal; ">Chiusura aziendale venerd&igrave; 29.03.2013</h4> 
+				<br>									
+				<p>Nella giornata di venerd&igrave; 29.03.2013, l&rsquo;azienda rimarr&agrave; chiusa.</p>
+				<br>
+				<p>Il servizio di assistenza ai clienti &egrave; garantito tramite la procedura <a href="http://webrecall.teamsystem.com/" title="WEB RECALL" target="_blank">WEBRECALL</a> .</p>				
+				<br>
+			</div>
+			<hr style="border-bottom: 1px solid #707173;"> ---> 
+				<!--- 
+			<div  style="font:15px/18px Verdana, Geneva, sans-serif; ">
+				<h4 style="color:#0697D5; font-weight: normal; ">Evento 10.04.2013</h4> 
+				<br>									
+				<img src="./img/evento_20130410.jpg">
+			</div>
+			<hr style="border-bottom: 1px solid #707173;"> --->
+				
+				<div  style="font:15px/18px Verdana, Geneva, sans-serif; ">
+					<h4 style="color:#0697D5; font-weight: normal; ">News</h4><hr>
+					<h4 style="color:#0697D5; font-weight: normal; "></h4>
+					<div>
+						Ulisse Tecnologie s.r.l. è stata acquisita da TeamSystem S.p.A, software house leader nel mercato italiano delle soluzioni per aziende e professionisti; dal 31.12.2015 Ulisse Tecnologie s.r.l. è stata quindi incorporata all’interno di TeamSystem S.p.A..<br>
+Per maggiori informazioni si prega di contattare l’indirizzo email <a href="mailto:clientiulisse@teamsystem.com">clientiulisse@teamsystem.com</a>
+					</div>
+					
+					<!--- 
+				<br>
+				<p>Accedi al servizio all'indirizzo<br><a href="http://webrecall.teamsystem.com/" title="WEB RECALL" target="_blank">http://webrecall.teamsystem.com/</a></p>
+				<br> ---> 
+					
+				</div>
+				
+				<!--- 2014.07.29 per chiusura ferie estive ---> 
+				<!--- 
+			<div  style="font:15px/18px Verdana, Geneva, sans-serif; ">
+				<h4 style="color:#0697D5; font-weight: normal; ">Nuova procedura per la richiesta di assistenza WEB RECALL</h4> 
+				<br>									
+				<p>Al fine di migliorare il livello di servizio e la qualit&agrave; dell&rsquo;assistenza,<br>
+				il gruppo TEAMSYSTEM si &egrave; dotato di un nuovo strumento ed una nuova metodologia per l&rsquo;erogazione del servizio di assistenza ai propri clienti.</p>
+				<br>
+				<p>Consulta la</p> ---> 
+				
+				<!--
+				<ul>
+				<li><a href="./pdf/webrecall TeamSystem Ancona.pdf" target="_blank">circolare informativa</a></li>
+				<br>
+				ATTENZIONE: recuperare il codice cliente dalle fatture antecedenti al 01.07.2013<br>
+				<em><font color="#AD0000"><u>novit&agrave;</u></font>: invio richieste di assistenza tramite email</em> <img src="./img/frecceani.gif" title="novità: invio richieste di assistenza tramite em@il"><br>
+				<font color="#AD0000">&raquo;</font>&nbsp;<a href="./pdf/CircolareAttivazioneEmailWRC-AZI-GAMMA.pdf" target="_blank" title="novità: invio richieste di assistenza tramite email - gamma plus/evolution">gamma plus/evolution</a><br>
+				<font color="#AD0000">&raquo;</font>&nbsp;<a href="./pdf/CircolareAttivazioneEmailWRC-AZI-GE.pdf" target="_blank" title="novità: invio richieste di assistenza tramite email - gamma enterprise">gamma enterprise</a><br>
+				<font color="#AD0000">&raquo;</font>&nbsp;<a href="./pdf/CircolareAttivazioneEmailWRC-AZI-GS.pdf" target="_blank" title="novità: invio richieste di assistenza tramite email - gamma sprint">gamma sprint</a><br>
+				<br><br>
+				<li><a href="./pdf/Web Recall - Quick Guide Clienti.pdf" target="_blank">guida operativa dell'utente</a></li>
+				</ul>
+				--> 
+				
+				<!--- 
+				<ul>
+				<li><a href="./pdf/webrecall TeamSystem Ancona.pdf" target="_blank">circolare informativa</a></li>
+				<li><a href="./pdf/Web Recall - Quick Guide Clienti.pdf" target="_blank">guida operativa dell'utente</a></li>
+				<br>
+				<font color="#AD0000"><u>ATTENZIONE</u>: recuperare il codice cliente dalle fatture antecedenti al 01.07.2013</font><br>
+				<br>
+				<li><em><font color="#AD0000"><u>novit&agrave;</u></font>: invio richieste di assistenza tramite email</em> <img src="./img/frecceani.gif" title="novità: invio richieste di assistenza tramite em@il"><br>
+				<font color="#AD0000">&raquo;</font>&nbsp;<a href="./pdf/CircolareAttivazioneEmailWRC-AZI-GAMMA.pdf" target="_blank" title="novità: invio richieste di assistenza tramite email - gamma plus/evolution">gamma plus/evolution</a><br>
+				<font color="#AD0000">&raquo;</font>&nbsp;<a href="./pdf/CircolareAttivazioneEmailWRC-AZI-GE.pdf" target="_blank" title="novità: invio richieste di assistenza tramite email - gamma enterprise">gamma enterprise</a><br>
+				<font color="#AD0000">&raquo;</font>&nbsp;<a href="./pdf/CircolareAttivazioneEmailWRC-AZI-GS.pdf" target="_blank" title="novità: invio richieste di assistenza tramite email - gamma sprint">gamma sprint</a><br>
+				</li>
+				</ul>
+				
+				<br>
+				<p>Accedi al servizio all'indirizzo<br><a href="http://webrecall.teamsystem.com/" title="WEB RECALL" target="_blank">http://webrecall.teamsystem.com/</a></p>
+				<br>
+			</div>
+			 ---> 
+				<!--- /2014.07.29 per chiusura ferie estive ---></td>
+		</tr>
+		<tr>
+			<td colspan="2" align="left" style="font-size: 8pt;line-height: 9pt"  id="footer_bottom"><style>
+		#footer_bottom {/*height:78px;*/ background:/*url(./img/bg_bottom.jpg) repeat-x top left*/ #505050;}
+		.clearfix { position:relative; width:200px; height:30px; margin-bottom:15px;}
+		.w960 {/*width:960px; margin:0 auto; */position:relative;}
+		.credits {width:700px; margin:10px 10px 0px 20px; }/*width:630px; margin:25px 30px 12px 30px; */
+		.credits p {font:11px/14px 'ProximaNovaRegular', Arial, sans-serif; color:#DDE0E2;}		
+		.fl {float:left;}
+		.logo_footer {background: url(./img/footer_logo.png) no-repeat top left; width:185px; height:38px;margin:5px 0 0px 35px;}/*margin:20px 0 10px 35px;*/
+		.fr {float:right;}
+		</style>
+				
+				<!--- <div id="footer_bottom">
+        <div class="clearfix w960"> --->
+				
+				<div class="credits fl" >
+					<p> &copy; Copyright 2013 - TeamSystem S.p.A. società con socio unico soggetta all’attività di direzione e coordinamento di TeamSystem Holding S.p.A. <br>Cap. Soc. € 24.000.000 I.v. - C.C.I.A.A. di Pesaro e Urbino - P.I. 01035310414 - Sede Legale: Via Gagarin, 205 - 61122 Pesaro (PU) <br>Tutti i diritti riservati</p>
+				</div>
+				<div class="logo_footer fr"> </div></td>
+		</tr>
+	</table>
+</div>
+<!--end div "mainBG"-->
+</body>
+</html>

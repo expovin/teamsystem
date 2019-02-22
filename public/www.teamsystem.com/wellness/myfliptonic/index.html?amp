@@ -1,0 +1,676 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="MyFlipTonic è l&#039;estensione del gestionale cloud per centri fitness che rende self service la tua struttura. Con l&#039;APP, il portale web e il totem il cliente diventa autonomo nel prenotare, acquistare e chattare con il centro fitness" />
+<meta name="twitter:title" content="MyFlipTonic: APP clienti, web, shop online e totem | Teamsystem Wellness" />
+<meta name="twitter:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2017/02/fliptonic_call.jpg" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="MyFlipTonic: APP clienti, web, shop online e totem | Teamsystem Wellness" />
+<meta property="og:description" content="MyFlipTonic è l&#039;estensione del gestionale cloud per centri fitness che rende self service la tua struttura. Con l&#039;APP, il portale web e il totem il cliente diventa autonomo nel prenotare, acquistare e chattare con il centro fitness" />
+<meta property="og:url" content="//www.teamsystem.com/wellness/myfliptonic/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+<meta property="og:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2017/02/fliptonic_call.jpg" />
+<meta property="og:image:width" content="1100" />
+<meta property="og:image:height" content="747" />
+	<title>MyFlipTonic: APP clienti, web, shop online e totem | Teamsystem Wellness</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/myfliptonic/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/myfliptonic\/","headline":"My FlipTonic &#8211; APP per i clienti, il portale web ed il totem","datePublished":"2018-08-28T13:26:26+00:00","dateModified":"2018-11-15T22:33:51+00:00","author":{"@type":"Person","name":"Roberto Di Giacomo"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2017\/02\/fliptonic_call.jpg","width":1100,"height":747},"description":"MyFlipTonic \u00e8 l'estensione del gestionale cloud per centri fitness che rende self service la tua struttura. Con l'APP, il portale web e il totem il cliente diventa autonomo nel prenotare, acquistare e chattare con il centro fitness"}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6d0c0ea{padding-top:6%;padding-bottom:10%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ca6b6ad{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/flip_sfondo.jpg");background-position:left top;background-repeat:no-repeat;background-color:#000}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ca5fda2{font-size:36px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-af18eac{font-size:20px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-871e537{height:30px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-84cea37{height:20px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6e7c31b{padding-top:3%;padding-bottom:3%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ee3daf4{background-color:#fff}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-bd56abc{height:25px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-55490d6{padding-top:2%;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-5443cfc{color:#000}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-31114d1{font-size:20px;color:#000}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-99ba907{height:60px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-c745142{height:70px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e09a762{height:50px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-4d1e5c7{max-width:600px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-cc68ddc{color:#f00}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-beb4ce2{height:100px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-5e7790d{height:150px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-003b2fe{max-width:3200px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-0cdff6c{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-15.37.59.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-0f7ff64{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-15.38.28.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e75c90d{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-15.39.00.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-46fdfab{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-17.58.28.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-8c041ef{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/foto-profilo-PNG-203x300.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a6dc6bb{padding-top:3%;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b69ffa6{background-color:#50b4fc}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-7bf3d78{font-size:20px;color:rgba(255,255,255,.8);line-height:36px;text-align:center;font-family:Roboto;font-weight:400;font-style:normal}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-1561554{padding-top:0px;padding-bottom:80px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-c47187a{margin-top:10px;margin-right:10px;margin-bottom:10px;margin-left:10px}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">My FlipTonic &#8211; APP per i clienti, il portale web ed il totem</h1>
+	</header>
+
+	<figure class="amp-wp-article-featured-image wp-caption">
+	<amp-img width="1024" height="695" src="//www.teamsystem.com/wellness/wp-content/uploads/2017/02/fliptonic_call-1024x695.jpg" class="attachment-large size-large wp-post-image amp-wp-enforced-sizes" alt="" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2017/02/fliptonic_call-1024x695.jpg 1024w, //www.teamsystem.com/wellness/wp-content/uploads/2017/02/fliptonic_call-300x204.jpg 300w, //www.teamsystem.com/wellness/wp-content/uploads/2017/02/fliptonic_call-768x522.jpg 768w, //www.teamsystem.com/wellness/wp-content/uploads/2017/02/fliptonic_call.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" layout="intrinsic"></amp-img>	</figure>
+
+	<div class="amp-wp-article-content">
+		
+		<div id="fws_5c36140b39600" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle parallax_section    amp-wp-6d0c0ea"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg using-image using-bg-color   amp-wp-ca6b6ad" data-parallax-speed="fast" data-color_overlay="#00518e" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.95" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h1><span class="amp-wp-ca5fda2">My FlipTonic</span></h1>
+<h2>My FlipTonic è il pacchetto di funzionalità che porta il centro fitness direttamente nelle mani del tuo cliente o contatto.</h2>
+<h3><span class="amp-wp-af18eac">Con My FlipTonic il cliente del centro fitness diventa autonomo rispetto alla segreteria.</span></h3>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-871e537"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-af18eac"><strong>Scopri subito</strong> come portare la tua palestra nello smartphone del tuo cliente!</span></p>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-84cea37"></div></div><a class="nectar-button jumbo regular extra-color-1  regular-button" style="" href="//www.teamsystem.com/wellness/richiesta-info-fliptonic/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Richiedi subito informazioni!</span></a>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="567" width="794" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/11/FlipTonic-prenotazioni-autonomia.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/11/FlipTonic-prenotazioni-autonomia.png 794w, //www.teamsystem.com/wellness/wp-content/uploads/2018/11/FlipTonic-prenotazioni-autonomia-300x214.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/11/FlipTonic-prenotazioni-autonomia-768x548.png 768w" sizes="100vw" alt="FlipTonic Prenotazioni Shop online APP" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c36140b39d9a" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-6e7c31b"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="#ffffff" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.95" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="divider-wrap"><div class="divider amp-wp-bd56abc"></div></div>
+	<div id="fws_5c36140b3a229" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row  vc_row-o-equal-height vc_row-flex  vc_row-o-content-top standard_section     amp-wp-55490d6"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h4><span class="amp-wp-5443cfc">L’app per i clienti del tuo centro fitness</span></h4>
+
+		</div>
+	</div>
+<div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="256" width="256" data-animation="fade-in-from-left" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-APP.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-APP.png 256w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-APP-150x150.png 150w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-APP-100x100.png 100w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-APP-75x75.png 75w" sizes="100vw" alt="MyFlipTonic - APP" layout="intrinsic"></amp-img></div></div>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h4><span class="amp-wp-5443cfc">L’accesso dal sito internet</span></h4>
+
+		</div>
+	</div>
+<div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="128" width="128" data-animation="grow-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-WEB.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-WEB.png 128w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-WEB-100x100.png 100w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-WEB-75x75.png 75w" sizes="100vw" alt="MyFlipTonic - WEB" layout="intrinsic"></amp-img></div></div>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h4><span class="amp-wp-5443cfc">Il totem nel centro fitness</span></h4>
+
+		</div>
+	</div>
+<div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="200" width="200" data-animation="grow-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-Totem.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-Totem.png 200w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-Totem-150x150.png 150w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-Totem-100x100.png 100w, //www.teamsystem.com/wellness/wp-content/uploads/2018/08/MyFlipTonic-Totem-75x75.png 75w" sizes="100vw" alt="MyFlipTonic - Totem" layout="intrinsic"></amp-img></div></div>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c36140b3add4" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar-fancy-ul" data-list-icon="icon-ok" data-animation="true" data-animation-delay="0" data-color="accent-color" data-alignment="left"> 
+<ul><li><span class="amp-wp-5443cfc">Iscrizione nuovi utenti</span></li>
+<li><span class="amp-wp-5443cfc">Acquisto dell’abbonamento</span></li>
+<li><span class="amp-wp-5443cfc">Area riservata per i clienti</span></li>
+<li><span class="amp-wp-5443cfc">Prenotazioni appuntamenti con trainer</span></li>
+<li><span class="amp-wp-5443cfc">Prenotazioni classi</span></li>
+</ul></div>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar-fancy-ul" data-list-icon="icon-ok" data-animation="true" data-animation-delay="0" data-color="accent-color" data-alignment="left"> 
+<ul><li><span class="amp-wp-5443cfc">Pagamento con carta di credito</span></li>
+<li><span class="amp-wp-5443cfc">Partecipazione a sondaggi</span></li>
+<li><span class="amp-wp-5443cfc">Chat con il centro fitness (con il pacchetto <a href="//www.teamsystem.com/wellness/fliptonic-club/" class="amp-wp-5443cfc">Club</a>)</span></li>
+<li><span class="amp-wp-5443cfc">Notifiche personalizzate</span></li>
+<li><span class="amp-wp-5443cfc">Prenotazioni classi</span></li>
+</ul></div>
+		</div> 
+	</div>
+	</div> 
+</div></div><div class="divider-wrap"><div class="divider amp-wp-bd56abc"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-31114d1"><strong>Rendi subito self service</strong> il tuo centro fitness, scopri com’è <strong>semplice!</strong></span></p>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-99ba907"></div></div><a class="nectar-button jumbo regular extra-color-1  regular-button" style="" href="//www.teamsystem.com/wellness/richiesta-info-fliptonic/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Richiedi informazioni per far diventare autonomo il tuo cliente!</span></a><div class="divider-wrap"><div class="divider amp-wp-c745142"></div></div><div class="divider-wrap"><div class="divider amp-wp-e09a762"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span class="amp-wp-5443cfc">Lo Shop Online in My FlipTonic</span></h2>
+<p><figure class="aligncenter amp-wp-4d1e5c7"><amp-img class="size-full wp-image-9367 amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/My-FlipTonic-shop-online.jpg" alt="My FlipTonic Shop Online e sistemi di pagamento" width="600" height="400" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/My-FlipTonic-shop-online.jpg 600w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/My-FlipTonic-shop-online-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" layout="intrinsic"></amp-img></figure></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-5443cfc">My FlipTonic mette a disposizione del centro sportivo <strong>uno <span class="il">shop</span> online completo.</strong></span></p>
+<p><span class="amp-wp-5443cfc">E’ possibile vendere abbonamenti e articoli direttamente <span class="il">online</span>, consentendo grazie all’integrazione con il sistema di pagamento <a id="m_6821121992452835844" href="//www.teamsystem.com/wellness/teamsystem-pay/" target="_blank" data-saferedirecturl="//www.google.com/url?q=//tswellness.musvc1.net/e/t?q%3D0%253dWVKYQ%2526F%253dC%2526K%253dPVHY%2526C%253dWD%2526R%253d6N6MG_Lczn_Wm_Oowb_Y4_Lczn_VrTKQ.6ByG5VGNqJ.1Iy_Oowb_Y4QqI0HqPG_Lczn_VrQ35yPMM6BA-JmV_Fuew_8y5mP0%2526p%253dJIM80O.HqQ%25267M%253dEfWU&amp;source=gmail&amp;ust=1542384458185000&amp;usg=AFQjCNHTsJqZhkK27mAEy9H7L7l7SLIlzg" class="amp-wp-5443cfc">TeamSystem PAY</a> una completa gestione dell’acquisto compresa la fase di <strong>pagamento con carta di credito.</strong></span></p>
+<p><span class="amp-wp-5443cfc">Chi non è ancora cliente del centro sportivo potrà scegliere una delle soluzioni da te proposte in vetrina o sfogliare l’intero catalogo e trovare, dal tuo listino, il servizio che desidera acquistare.</span></p>
+<p><span class="amp-wp-5443cfc">Chi è invece già cliente potrà direttamente <span class="il">online</span> procedere al <strong>rinnovo del proprio abbonamento</strong> con lo stesso servizio o convertendolo in una soluzione diversa.</span></p>
+<p><span class="amp-wp-5443cfc">FlipTonic si occuperà delle seguenti operazioni:</span></p>
+<ul><li><span class="amp-wp-5443cfc"><strong>Iscrizione</strong></span></li>
+<li><span class="amp-wp-5443cfc"><strong>Raccolta dati</strong></span></li>
+<li><span class="amp-wp-5443cfc"><strong>Raccolta consensi informati sulla privacy</strong></span></li>
+<li><span class="amp-wp-5443cfc"><strong>Accettazione dei regolamenti</strong></span></li>
+<li><span class="amp-wp-5443cfc"><strong>Processo di pagamento</strong></span></li>
+<li><span class="amp-wp-5443cfc"><strong>Invio automatico del documento fiscale o non fiscale</strong></span></li>
+</ul><p><span class="amp-wp-cc68ddc"><strong>Veloce, semplice e sicuro.</strong></span><strong><br></strong></p>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-beb4ce2"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-31114d1">Vorresti avere<strong> subito attivo lo shop online per </strong>il tuo centro fitness, <strong>non aspettare!</strong></span></p>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-99ba907"></div></div><a class="nectar-button jumbo regular extra-color-1  regular-button" style="" href="//www.teamsystem.com/wellness/richiesta-info-fliptonic/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Richiedi informazioni per attivare lo shop online</span></a><div class="divider-wrap"><div class="divider amp-wp-5e7790d"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><figure class="aligncenter amp-wp-003b2fe"><amp-img class="size-full wp-image-9368 amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/scegli-paga.jpg" alt="Scegli Acquista Iscriviti Paga" width="3200" height="800" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/scegli-paga.jpg 3200w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/scegli-paga-300x75.jpg 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/scegli-paga-768x192.jpg 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/scegli-paga-1024x256.jpg 1024w" sizes="(max-width: 3200px) 100vw, 3200px" layout="intrinsic"></amp-img></figure></p>
+<p> </p>
+<p><span class="amp-wp-5443cfc">E’ possibile gestire anche il <strong>“Link to buy”</strong>: un link che porta all’acquisto diretto di un prodotto o servizio e che <strong>non per forza deve essere incluso tra quelli venduti nel negozio <span class="il">online.</span></strong></span></p>
+<p><span class="amp-wp-5443cfc">In questo modo è possibile inviare ai tuoi migliori clienti delle soluzioni specifiche per loro e <strong>non visibili agli altri visitatori</strong>, o creare offerte limitate solo a determinate categorie di clientela.</span></p>
+<p><span class="amp-wp-5443cfc">Tutto questo è perfettamente integrato con il potente<strong> CRM di FlipTonic</strong> in modo da poter inviare un <strong>“link to buy”</strong> sulla base di condizioni che si verificheranno nel tempo: </span></p>
+<p><span class="amp-wp-5443cfc"><strong>Per esempio:</strong></span></p>
+<ol><li><span class="amp-wp-5443cfc"><strong> Ti sta scadendo l’abbonamento?<br><strong> Ti mando una mail con il link al prodotto per il rinnovo</strong><br></strong></span></li>
+<li><span class="amp-wp-5443cfc"><strong> Sei arrivato a 2 soli ingressi nel tuo pacchetto ad ingressi?<br><strong> Ti invio una notifica in app con il link per l’acquisto di un nuovo pacchetto ingressi.</strong><br></strong></span></li>
+<li><strong><span class="amp-wp-5443cfc">Hai fatto una prova di un determinato servizio?</span><br><span class="amp-wp-5443cfc"><strong>Ti mando una offerta speciale per l’acquisto dell’upgrade…</strong></span><br></strong></li>
+</ol></div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-beb4ce2"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-5443cfc"><span class="amp-wp-af18eac">Desideri poter inviare l’<strong>offerta dedicata ad ogni cliente</strong> e farlo <strong>sentire unico</strong>?</span></span></p>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-99ba907"></div></div><a class="nectar-button jumbo regular extra-color-1  regular-button" style="" href="//www.teamsystem.com/wellness/richiesta-info-fliptonic/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Vorrei attivare la funzione Link To Buy subito nel mio centro fitness!</span></a><div class="divider-wrap"><div class="divider amp-wp-bd56abc"></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c36140b3b4c2" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content standard_section    amp-wp-6e7c31b"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="col span_12 testimonial_slider " data-color="extra-color-1-dark" data-rating-color="accent-color" data-add-border="" data-autorotate="" data-style="multiple_visible"><div class="slides"><blockquote> <div class="image-icon has-bg amp-wp-0cdff6c">“</div> <p>Poter inviare email a tutti i contatti presenti nel programma è una cosa molto utile. <span class="bottom-arrow"></span></p><span>Marco</span><span class="title">Fit-express, Latina</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-0f7ff64">“</div> <p>L’interfaccia è semplice e gradevole, il calendario intuitivo e il sistema è stabile ed affidabile. <span class="bottom-arrow"></span></p><span>Paolo Maistri</span><span class="title">Club Energy, Trento</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-e75c90d">“</div> <p>Grande disponibilità ed efficienza nell'effettuare modifiche per le nostre esigenze sempre in divenire. <span class="bottom-arrow"></span></p><span>Federica</span><span class="title">Officina del movimento, Abano Terme</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-46fdfab">“</div> <p>Eccezionale: una vera rivoluzione nel mondo dei gestionali per palestre. Facile, intuitivo, veloce e completissimo… <span class="bottom-arrow"></span></p><span>Giovanni Andolfato</span><span class="title">Hellofit, Vicenza</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-8c041ef">“</div> <p>FlipTonic è un prodotto intuitivo e di facile utilizzo, anche per chi non ha grande familiarità con i prodotti software. <span class="bottom-arrow"></span></p><span>Barbara Talini</span><span class="title">Zer03 Fitness Club / CrosFit Deed - Proprietaria, Coach ed Allieva</span></blockquote></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="flipcall" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-a6dc6bb"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-b69ffa6" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.8" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-1 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-10 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-split-heading"><div class="heading-line"> <div><h2>Create la palestra</h2> </div> </div><div class="heading-line"> <div><h2>dei vostri sogni</h2> </div> </div></div>
+	<div id="fws_5c36140b3c19f" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="300">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h5 class="vc_custom_heading vc_custom_1504882646468 amp-wp-7bf3d78">Cambia il modo di gestire la tua palestra con la soluzione cloud pensata per facilitare le attività quotidiane di titolari, gestori, consulenti, istruttori e clienti dei centri sportivi</h5>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c36140b3c5f5" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-1561554"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="450">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<a class="nectar-button large see-through-2  amp-wp-c47187a" href="//teamsystem.com/wellness/richiedi-demo-fliptonic/" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000"><span>Prova Demo</span></a><a class="nectar-button large regular extra-color-3  regular-button amp-wp-c47187a" href="//teamsystem.com/wellness/acquista-ora-FlipTonic/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Acquista Ora</span></a>
+		</div> 
+	</div>
+	</div> 
+</div></div><div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="495" width="1100" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip.png 1100w, //www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip-300x135.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip-768x346.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip-1024x461.png 1024w" sizes="100vw" alt="FlipTonic - Il gestionale per palestre e centri fitness" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 1.414 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:32:28 -->

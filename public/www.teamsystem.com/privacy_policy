@@ -1,0 +1,1331 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+
+	  <script src="//cdn.optimizely.com/js/2179040045.js"></script>
+
+	  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6JCVCF');</script>
+<!-- End Google Tag Manager -->
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>privacy policy</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="robots" content="index,follow" />    
+    <link rel="canonical" href="https://www.teamsystem.com/privacy-policy">
+                <link rel="alternate" href="/privacy-policy" hreflang="it" />
+
+    <meta name="format-detection" content="telephone=no" />
+    <!-- Meta Social -->
+
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:title" content="privacy policy" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.teamsystem.com/privacy-policy" />
+    <!-- Meta Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- Meta Specific Apple iOS (i seguenti meta rappresentano le funzionalità ios e android tasto "aggiungi ad home") -->
+    <meta name="apple-mobile-web-app-title" content="privacy policy">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes" />
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cms.teamsystem.com/home-2018/build/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cms.teamsystem.com/home-2018/build/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cms.teamsystem.com/home-2018/build/favicon-16x16.png">
+
+    <meta name="theme-color" content="#ffffff">
+    <meta http-equiv="content-language" content="it" />
+
+           <link href="https://cms.teamsystem.com/home-2018/build/css/bootstrap/bootstrap.css" type="text/css" rel="stylesheet" />
+            <link href="https://cms.teamsystem.com/home-2018/build/css/main.css" type="text/css" rel="stylesheet" />
+            <link href="https://cms.teamsystem.com/home-2018/build/css/shame.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="https://cms.teamsystem.com/min/layoutMenuV2_0_1803131034363436.css" />
+    <style>
+        .fancybox-slide--iframe .fancybox-content {
+            width: 700px;
+            height: 600px;
+            max-width: 80%;
+            max-height: 80%;
+            margin: 20px;
+        }
+    </style>
+    <link rel="shortcut icon" href="//www.teamsystem.com/favicon.ico" type="image/x-icon" />
+    
+
+    <!--[if lt IE 9]>
+            <script type="text/javascript" src="https://cms.teamsystem.com/js/vendor/jquery-1.11.1.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 9]>
+            <script type="text/javascript" src="https://cms.teamsystem.com/js/vendor/jquery-2.1.1.min.js"></script>
+    <![endif]-->
+    
+
+    
+<script type="text/javascript" src="https://cms.teamsystem.com/min/layoutMenuV2_1_1803131143464346.js"></script>
+        <script type="text/javascript" src="https://cms.teamsystem.com/home-2018/build/vendor/fancyapps/fancybox/dist/jquery.fancybox.js"></script>
+        <script type="text/javascript" src="https://cms.teamsystem.com/home-2018/build/js/main.js"></script>
+
+    <!-- endcheck -->
+    
+
+    <script type="text/javascript" src="//use.typekit.net/xgp5dft.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>   
+
+
+<script type="text/javascript" src="https://cms.teamsystem.com/min/layoutMenuV2_2_1806071629402940.js"></script>
+    
+
+    
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-15887625-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<!-- Hotjar Tracking Code for https://www.teamsystem.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:165624,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+    </head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6JCVCF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+    <![endif]-->
+    <!-- Wrapper -->
+
+                    <!-- Back to top -->
+    <div class="backtotop">
+        <svg height="8" width="22">
+            <polygon points="0,8 11,0 22,8"></polygon>
+        </svg>
+        top
+    </div>
+    <!-- Main nav -->
+    <section class="main-nav" role="navigation">
+        <nav class="navbar fixed-top navbar-expand-lg">
+            <div class="container-fluid position-relative">
+
+                <a class="navbar-brand" href="/">
+                    <img src="https://cms.teamsystem.com/home-2018/build/img/ui/ts-white.svg" alt="" />
+                </a>
+
+                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon">
+                        <span class="main-nav__hamburger">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+                    </span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <!-- Secondary -->
+                    <ul class="main-nav__secondary navbar-nav mr-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+                                Siti del gruppo
+
+                            </a>
+                            <div class="dropdown-menu">
+                                    <a href="http://www.aliaslab.net/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Aliaslab</a>
+                                    <a href="http://www.prontocaf.com/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>CAF e PA</a>
+                                    <a href="https://www.danea.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Danea</a>
+                                    <a href="http://www.esasoftware.com" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>ESA Software</a>
+                                    <a href="http://www.euroconference.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Euroconference</a>
+                                    <a href="http://h-umus.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>H-umus</a>
+                                    <a href="https://mondora.com/#!/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Mondora</a>
+                                    <a href="http://www.nuovamacut.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Nuovamacut</a>
+                                    <a href="http://www.str.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>STR</a>
+                                    <a href="http://www.voispeed.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>TeamSystem Communication</a>
+                                    <a href="https://www.teamsystem.com/Legal/" class="dropdown-item" target="_blank" >TeamSystem Legal</a>
+                                    <a href="https://www.teamsystem.com/Wellness/" class="dropdown-item" target="_blank" >TeamSystem Wellness</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+                                Aree Riservate
+
+                            </a>
+                            <div class="dropdown-menu">
+                                    <a href="http://marketing.teamsystem.com/" class="dropdown-item" target="_blank" >Area rivenditori</a>
+                                    <a href="http://licenze.sisteda.it/log/pcontrollo/login.cfm?dt=20171205153335&amp;CKS=0D612F1B7823325099A974B22935EAEB&amp;CFID=13847674&amp;CFTOKEN=49381425" class="dropdown-item" target="_blank" >Clienti accessreport.it</a>
+                                    <a href="http://clienti.esanapoli.it/" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://clienti.mondoesasud.com/home.aspx']); ">Clienti Sede Esa Napoli</a>
+                                    <a href="http://web.teamsystem-ancona.com" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://web.teamsystem-ancona.com']);">Clienti sede TeamSystem Ancona</a>
+                                    <a href="http://intraweb.teamsystememilia.it/intranet" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://intraweb.teamsystememilia.it/intranet']); ">Clienti sedi TeamSystem Emilia e Mantova</a>
+                                    <a href="https://www.teamsystem.com/ulisse/home.html" class="dropdown-item" target="_blank" >Clienti Ulisse Tecnologie</a>
+                                    <a href="https://mysupport.teamsystem.com" class="dropdown-item" target="_blank" onclick="_gaq.push(['_trackEvent', 'My support', 'http://mysupport.teamsystem.com/']);">MySupport</a>
+                                    <a href="http://bbs09.teamsystem.com/bbshome/bbs.htm" class="dropdown-item" target="_blank" >Software partner Euro 09 (Area rivenditore)</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="http://investors.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://investors.teamsystem.com/']);">Investors</a>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="http://international.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://international.teamsystem.com/']);">English site</a></li>
+
+                        <li class="nav-item main-nav__search">
+
+                            <form method="get" action="/ricerca_sito" class="" name="siteSearch" id="siteSearch">
+                                <div class="input-group">
+                                    <input type="text" id="iq1" class="form-control" name="q" placeholder="Cerca nel sito">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-secondary" type="submit" id="ib1">
+                                            <img src="https://cms.teamsystem.com/home-2018/build/img/ui/menu-search.svg" alt="" />
+                                        </button>
+                                    </span>
+                                </div>
+                            </form>
+                        </li>
+
+                        <li class="nav-item"><a class="btn btn-azure" href="/contatti" rel="nofollow">CONTATTACI</a></li>
+                    </ul>
+
+                    <!-- Primary -->
+                    <ul class="main-nav__primary navbar-nav mr-auto">
+                        <li class="nav-item d-lg-none mnucontatti"><a class="nav-link" href="/contatti" rel="nofollow"> Contattaci </a></li>
+
+
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Prodotti
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="263">
+                                        
+
+                                                <a href="/alyante" target="_self">
+                                                        <strong>ALYANTE</strong>
+                                                        <span>Soluzione ERP completa per la gestione dell’Impresa</span>
+                                                </a>
+                                    </li>
+                                    <li class="264">
+                                        
+
+                                                <a href="/lynfa_studio" target="_self">
+                                                        <strong>LYNFA Studio</strong>
+                                                        <span>Soluzione gestionale integrata per il Professionista</span>
+                                                </a>
+                                    </li>
+                                    <li class="265">
+                                        
+
+                                                <a href="/agyo" target="_self">
+                                                        <strong>Agyo</strong>
+                                                        <span>Fatturazione elettronica e servizi digitali</span>
+                                                </a>
+                                    </li>
+                                    <li class="266">
+                                        
+
+                                                <a href="/reviso-software-cloud" target="_self">
+                                                        <strong>Reviso</strong>
+                                                        <span>Contabilit&#224; e fatturazione in cloud per PMI</span>
+                                                </a>
+                                    </li>
+                                    <li class="267">
+                                        
+
+                                                <a href="/fatture_in_cloud" target="_self">
+                                                        <strong>Fatture In Cloud</strong>
+                                                        <span>Fatturazione online per Micro Aziende e Startup</span>
+                                                </a>
+                                    </li>
+                                    <li class="270">
+                                        
+
+                                                <a href="https://www.teamsystem.com/Legal/netlex" target="_blank">
+                                                        <strong>NETLEX</strong>
+                                                        <span>Gestionale cloud per gli Studi Legali</span>
+                                                </a>
+                                    </li>
+                                    <li class="271">
+                                        
+
+                                                <a href="http://www.vialibera.it/" target="_blank">
+                                                        <strong>ViaLibera</strong>
+                                                        <span>Contabilit&#224;, dichiarazioni fiscali, bilancio</span>
+                                                </a>
+                                    </li>
+                                    <li class="268">
+                                        
+
+                                                <a href="/acg-enterprise-erp-azienda" target="_self">
+                                                        <strong>ACG Enterprise</strong>
+                                                        <span>Soluzione ERP per il mondo Power i</span>
+                                                </a>
+                                    </li>
+                                    <li class="269">
+                                        
+
+                                                <a href="/lynfa_azienda" target="_self">
+                                                        <strong>LYNFA Azienda</strong>
+                                                        <span>Il gestionale che collega Aziende e Studi Professionali</span>
+                                                </a>
+                                    </li>
+                                    <li class="272">
+                                        
+
+                                                <a href="">
+                                                        <strong>Soluzioni Specializzate</strong>
+                                                        <span>Il completamento delle esigenze di Studi e Aziende</span>
+                                                </a>
+                                                <ul>
+                                                            <li class="7762">
+                                                                <a href="/alyante-ambiente" target="_self">
+                                                                        <strong>ALYANTE Ambiente</strong>
+                                                                        <span>La filiera della raccolta rifiuti diventa digitale</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7763">
+                                                                <a href="/alyante-olio" target="_self">
+                                                                        <strong>ALYANTE Olio</strong>
+                                                                        <span>Gestione completa della filiera Olivicola</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7771">
+                                                                <a href="/alyante-retail" target="_self">
+                                                                        <strong>ALYANTE Retail</strong>
+                                                                        <span>Il gestionale per negozi e franchising</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7772">
+                                                                <a href="/alyante-service" target="_self">
+                                                                        <strong>ALYANTE Service</strong>
+                                                                        <span>Gestionale per assistenza e manutenzione</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7764">
+                                                                <a href="https://www.voispeed.com/" target="_blank">
+                                                                        <strong>Centralino Software</strong>
+                                                                        <span>Centralino cloud per aziende e studi</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7765">
+                                                                <a href="/software_crm" target="_self">
+                                                                        <strong>CRM</strong>
+                                                                        <span>Marketing, vendite, supporto post vendita</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7766">
+                                                                <a href="/dms_e_archiviazione_documentale" target="_self">
+                                                                        <strong>DMS e Archiviazione Documentale</strong>
+                                                                        <span>Gestione e archiviazione documentale</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7767">
+                                                                <a href="https://www.teamsystem.com/store/gestione-sito-web" target="_blank">
+                                                                        <strong>E-Commerce</strong>
+                                                                        <span>MYTHO: vendita online</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7768">
+                                                                <a href="https://www.cassanova.it/" target="_blank">
+                                                                        <strong>Gestione Cassa</strong>
+                                                                        <span>Il registratore di cassa per iPad e tablet Android</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7769">
+                                                                <a href="/hr-gestione-personale" target="_self">
+                                                                        <strong>HR</strong>
+                                                                        <span>Gestione e amministrazione del personale</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7770">
+                                                                <a href="/impresa-40-officine-meccaniche" target="_self">
+                                                                        <strong>Impresa 4.0</strong>
+                                                                        <span>Soluzione gestionale per il settore manufatturiero</span>
+                                                                </a>
+                                                            </li>
+                                                </ul>
+                                    </li>
+                                    <li class="280">
+                                        
+
+                                                <a href="">
+                                                        <strong>Altri Prodotti</strong>
+                                                        <span>Altre soluzioni gestionali TeamSystem</span>
+                                                </a>
+                                                <ul>
+                                                            <li class="7773">
+                                                                <a href="https://www.danea.it/software/easyfatt/" target="_blank">
+                                                                        <strong>Danea Easyfatt</strong>
+                                                                        <span>Fatturazione per micro imprese, artigiani e negozianti</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7774">
+                                                                <a href="/embyon-erp" target="_self">
+                                                                        <strong>Embyon</strong>
+                                                                        <span>L&#39;ERP progettato per gestire e controllare le PMI</span>
+                                                                </a>
+                                                            </li>
+                                                </ul>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Mercati
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="281">
+                                        
+
+                                                <a href="/alyante" target="_self">
+Aziende                                                </a>
+                                    </li>
+                                    <li class="283">
+                                        
+
+                                                <a href="/lynfa_studio" target="_self">
+Commercialisti e Consulenti del Lavoro                                                </a>
+                                    </li>
+                                    <li class="284">
+                                        
+
+                                                <a href="https://www.teamsystem.com/Legal/" target="_blank">
+Avvocati                                                </a>
+                                    </li>
+                                    <li class="285">
+                                        
+
+                                                <a href="/alyante-vitivinicolo-gestionale" target="_self">
+Agroalimentare                                                </a>
+                                    </li>
+                                    <li class="286">
+                                        
+
+                                                <a href="/astute" target="_self">
+Associazioni                                                </a>
+                                    </li>
+                                    <li class="287">
+                                        
+
+                                                <a href="http://www.prontocaf.com/" target="_blank">
+CAF e Pubbliche Amministrazioni                                                </a>
+                                    </li>
+                                    <li class="288">
+                                        
+
+                                                <a href="/domustudio" target="_self">
+Condomini                                                </a>
+                                    </li>
+                                    <li class="289">
+                                        
+
+                                                <a href="https://www.str.it/" target="_blank">
+Costruzioni                                                </a>
+                                    </li>
+                                    <li class="290">
+                                        
+
+                                                <a href="/alyante-fashion-gestionale-moda" target="_self">
+Fashion                                                </a>
+                                    </li>
+                                    <li class="291">
+                                        
+
+                                                <a href="https://www.teamsystem.com/wellness/" target="_blank">
+Fitness e Wellness                                                </a>
+                                    </li>
+                                    <li class="292">
+                                        
+
+                                                <a href="http://www.evols.it/it/home/#/home" target="_blank">
+Hospitality                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Il Gruppo
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="294">
+                                        
+
+                                                <a href="/il_gruppo" target="_self">
+Il gruppo - la storia                                                </a>
+                                    </li>
+                                    <li class="295">
+                                        
+
+                                                <a href="/organigramma_direzione_generale" target="_self">
+Direzione generale                                                </a>
+                                    </li>
+                                    <li class="296">
+                                        
+
+                                                <a href="/come_raggiungerci" target="_self">
+Come raggiungerci                                                </a>
+                                    </li>
+                                    <li class="297">
+                                        
+
+                                                <a href="/ricerca_casi" target="_self">
+Casi di successo                                                </a>
+                                    </li>
+                                    <li class="299">
+                                        
+
+                                                <a href="/ricerca_press" target="_self">
+Marketing &amp; Press                                                </a>
+                                    </li>
+                                    <li class="316">
+                                        
+
+                                                <a href="/formazione_personalizzata_swp" target="_self">
+Formazione personalizzata                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Education
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+
+
+                                    <li class="iddoc7930">
+
+                                            <a href="/formazione-catalogo-partner" target="_self">
+Formazione a Catalogo Partner                                                
+                                            </a>
+
+                                    </li>
+                                    <li class="iddoc7979">
+
+                                            <a href="/formazione-a-catalogo-clienti" target="_self">
+Formazione a Catalogo Clienti Diretti                                                
+                                            </a>
+
+                                    </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Partner
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="305">
+                                        
+
+                                                <a href="/system-integrator" target="_self">
+System Integrator                                                </a>
+                                    </li>
+                                    <li class="307">
+                                        
+
+                                                <a href="/rivenditori" target="_self">
+Aderenti campagna marketing 2019                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/eventi" target="_self">
+                                Eventi
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/careers" target="_self">
+                                Careers
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.teamsystem.com/store/" target="_blank">
+                                Store
+                            </a>
+                        </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Magazine
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="312">
+                                        
+
+                                                <a href="http://alyante.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=menu" target="_blank">
+Azienda                                                </a>
+                                    </li>
+                                    <li class="313">
+                                        
+
+                                                <a href="https://lynfa.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=menu" target="_blank">
+Studio                                                </a>
+                                    </li>
+                                    <li class="314">
+                                        
+
+                                                <a href="http://www.energiadigitale.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=menu" target="_blank">
+Energia Digitale                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                        
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link" href="#" data-toggle="dropdown">
+                                Siti del gruppo
+
+                            </a>
+                            <div class="dropdown-menu">
+                                <ul class="menu">
+                                        <li>
+                                            <a href="http://www.aliaslab.net/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Aliaslab</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.prontocaf.com/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>CAF e PA</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.danea.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Danea</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.esasoftware.com" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>ESA Software</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.euroconference.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Euroconference</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://h-umus.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>H-umus</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://mondora.com/#!/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Mondora</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.nuovamacut.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Nuovamacut</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.str.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>STR</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.voispeed.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>TeamSystem Communication</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.teamsystem.com/Legal/" class="dropdown-item" target="_blank" >TeamSystem Legal</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.teamsystem.com/Wellness/" class="dropdown-item" target="_blank" >TeamSystem Wellness</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item  d-lg-none">
+                            <a class="nav-link " href="#" data-toggle="dropdown">
+                                Aree Riservate
+
+                            </a>
+                            <div class="dropdown-menu">
+                                <ul class="menu">
+                                        <li>
+                                            <a href="http://marketing.teamsystem.com/" class="dropdown-item" target="_blank" >Area rivenditori</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://licenze.sisteda.it/log/pcontrollo/login.cfm?dt=20171205153335&amp;CKS=0D612F1B7823325099A974B22935EAEB&amp;CFID=13847674&amp;CFTOKEN=49381425" class="dropdown-item" target="_blank" >Clienti accessreport.it</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://clienti.esanapoli.it/" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://clienti.mondoesasud.com/home.aspx']); ">Clienti Sede Esa Napoli</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://web.teamsystem-ancona.com" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://web.teamsystem-ancona.com']);">Clienti sede TeamSystem Ancona</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://intraweb.teamsystememilia.it/intranet" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://intraweb.teamsystememilia.it/intranet']); ">Clienti sedi TeamSystem Emilia e Mantova</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.teamsystem.com/ulisse/home.html" class="dropdown-item" target="_blank" >Clienti Ulisse Tecnologie</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://mysupport.teamsystem.com" class="dropdown-item" target="_blank" onclick="_gaq.push(['_trackEvent', 'My support', 'http://mysupport.teamsystem.com/']);">MySupport</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://bbs09.teamsystem.com/bbshome/bbs.htm" class="dropdown-item" target="_blank" >Software partner Euro 09 (Area rivenditore)</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link" href="http://investors.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://investors.teamsystem.com/']);">Investors</a>
+                        </li>
+                        <li class="nav-item d-lg-none"><a class="nav-link" href="http://international.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://international.teamsystem.com/']);">English site</a></li>
+
+
+
+                        <li class="nav-item  d-lg-none">
+
+                            <form method="get" action="/ricerca_sito" class="" name="siteSearch" id="siteSearch">
+                                <div class="input-group">
+                                    <input type="text" id="iq1" class="form-control" name="q" placeholder="Cerca nel sito">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-secondary" type="submit" id="ib1">
+                                            <img src="https://cms.teamsystem.com/home-2018/build/img/ui/menu-search.svg" alt="" />
+                                        </button>
+                                    </span>
+                                </div>
+                            </form>
+                        </li>
+                        
+                    </ul>
+
+                </div>
+
+            </div>
+        </nav>
+    </section>
+
+
+
+                
+<link href="/network/network.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" src="https://cms.teamsystem.com/min/LayoutBuilderConLayoutMenuVuoto_0_181030173903393.js"></script>
+
+
+
+<section class="hero hero--small hero--prodotto">
+    <div class="hero__slider mb-0">
+        <div class="hero__slide hero__noclaim">
+            <div class="hero__wrapper">
+                <div class="hero__image" style="background-image: url('/media/immagini/3425_z_26928_037_generica_3.jpg')"> </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /Hero -->
+
+<div class="intro-gruppo">
+    <!-- Breadcumbs -->
+    <section id="breadcrumb">
+        <div class="container-fluid position-relative">
+            <ul>
+
+
+                    <li>
+                        privacy policy
+                    </li>
+                
+            </ul>
+        </div>
+    </section>
+    <!-- /Breadcumbs -->
+
+    <div class="container-fluid">
+        <div class="pre-title">Privacy policy</div>
+        <div class="title">
+            <h2></h2>
+        </div></div>
+
+</div>
+
+
+
+<div id="content-generico" class="hub-ts w960 clearfix">
+
+
+
+ 
+    
+                <div class="LayoutBuilder">
+                    <section class="  ">
+                        <div class="container-fluid">
+                            <div class="row">
+                                    <div class="col-md-12 wow ">
+
+        <div class="html">
+            <style type="text/css">.icone img {cursor: pointer; max-width: 70px;}
+    table {border: 0; font-family: "lft-etica",verdana !important;}
+b { font-weight: bold; }
+.WordSection1 p, .MsoBodyText, .msobodytext { font: 14px/24px "lft-etica",verdana !important }
+    #tab1, #tab2, #tab3, #tab4, #tab5, #tab6, #tab7, #tab8, #tab9 {display: none;}
+    #tab1.view, #tab2.view, #tab3.view, #tab4.view, #tab5.view, #tab6.view, #tab7.view, #tab8.view, #tab9.view {display: block;}
+    #icon1, #icon2, #icon3, #icon4, #icon5, #icon6, #icon7, #icon8, #icon9 { margin: 20px 0; border-bottom: 1px solid #ccc; }
+    .view { display: block;}
+    .hide { display: none; }
+    .icone span { cursor: pointer; font-size: 18px; position: relative; top: -17px; margin-left: 10px; color: #0088cc; line-height: 26px; max-width: 800px; display: inline-block; }
+    #apri, #apri2, #apri3, #apri4, #apri5, #apri6, #apri7, #apri8, #apri9, #chiudi, #chiudi2, #chiudi3, #chiudi4, #chiudi5, #chiudi6, #chiudi7, #chiudi8, #chiudi9 { font-size: 12px; text-align: right; position: relative; float: right; top: 15px; }
+    td { border: 1px dashed #758aa5; }
+    ul { margin: 0; padding: 0;}
+</style>
+<div class="WordSection1">
+<p align="center" class="MsoBodyText" style="text-align:center">&nbsp;</p>
+
+<p class="MsoBodyText">Gentile Utente,</p>
+
+<p>la società, TeamSystem S.p.A. (di seguito “TeamSystem”, "noi", "nostro" o la "Società"), con sede legale in in Via Sandro Pertini, 88, 61122 Pesaro (PU), contattabile all'indirizzo <a href="mailto:privacy@teamsystem.com">privacy@teamsystem.com</a>, in qualità di titolare del trattamento, ti fornisce di seguito le informazioni relative alle modalità di gestione dei tuoi dati personali attraverso il nostro sito web <a href="https://www.teamsystem.com/" target="_blank">www.teamsystem.com</a> (di seguito il "Sito") ai sensi del Regolamento (UE) n. 2016/679 (di seguito il "<strong>Regolamento</strong>" o "<strong>GDPR</strong>")&nbsp;</p>
+
+<p>Forniamo questa informativa non solo per adempiere agli obblighi di legge in materia di protezione dei dati personali previsti dal GDPR, ma anche perché crediamo che la tutela dei dati personali sia un valore fondamentale della nostra attività di impresa e vogliamo fornirti ogni informazione che possa aiutarti a tutelare la tua privacy e a controllare l’utilizzo che viene fatto dei tuoi dati in relazione all’esperienza di navigazione sul nostro Sito.</p>
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Responsabile della Protezione dei Dati</b><o:p></o:p></span></p>
+
+<p>Il Responsabile della Protezione dei Dati di TeamSystem, che è la figura incaricata della sorveglianza dell'osservanza del Regolamento, è disponibile per rispondere alle tue richieste su come trattiamo i tuoi dati e può essere contattato presso la sede di TeamSystem o all'indirizzo email&nbsp;<a href="mailto:privacy@teamsystem.com">privacy@teamsystem.com</a>.</p>
+&nbsp;
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Informazioni sui trattamenti dei dati personali</b><o:p></o:p></span></p>
+
+<p>Quando visiti, consulti o utilizzo i servizi disponibili su questo Sito possiamo trattare le seguenti categorie di dati personali (cioè qualsiasi informazione relativa a persone fisiche identificate o identificabili) elencate di seguito.</p>
+
+<p>Per ciascuna categoria di dato personale, troverai - nella tabella che segue - le informazioni relative alla finalità del trattamento (una cui descrizione più dettagliata è fornita in calce alla tabella che segue), alla natura obbligatoria o facoltativa del conferimento dei dati, alle modalità e alla base giuridica del trattamento, nonché dei soggetti a cui i dati possono essere comunicati ed il relativo periodo di conservazione.<br><br></p>
+
+<div class="icone">
+	<div id="icon1"><img onclick="$('#tab1').toggleClass('view');$('#apri').toggleClass('hide');$('#chiudi').toggleClass('hide');" src="https://www.teamsystem.com/img/cookiepo/priv1.png" /> <span onclick="$('#tab1').toggleClass('view');$('#apri').toggleClass('hide');$('#chiudi').toggleClass('hide');"><b>Dati identificativi, di contatto e di accesso</b>, quali nome, cognome, username, indirizzo email, numero di telefono, TeamSystem ID </span>
+
+<p id="apri"><img onclick="$('#tab1').toggleClass('view');$('#apri').toggleClass('hide');$('#chiudi').toggleClass('hide');" src="/media/LayoutBuilder/9b633a30-ac41-54dc-d7ce-cd649941fee1_arrow-down.png" style="width:22px;" /></p>
+
+<p class="hide" id="chiudi"><img onclick="$('#tab1').toggleClass('view');$('#apri').toggleClass('hide');$('#chiudi').toggleClass('hide');" src="/media/LayoutBuilder/737348d4-fb99-9b9b-8741-1c0240482372_arrow-top.png" style="width:22px;" /></p>
+</div>
+
+<div id="tab1">
+<table width="auto">
+	<tbody>
+		<tr>
+			<td align="center" style="background:#C6D9F1">Finalità del trattamento</td>
+			<td align="center" style="background:#C6D9F1">Conferimento dei dati necessari o opzionale</td>
+			<td align="center" style="background:#C6D9F1">Base giuridica del trattamento dei dati</td>
+		</tr>
+		<tr style="text-align: left;">
+			<td style="vertical-align: top;">
+				- <a href="#fc">Finalità Contrattuali b), c), d), e)</a><br><br>
+				- <a href="#fli">Finalità di Legittimo Interesse di Business f), g), h)</a><br><br>
+				- <a href="#fm">Finalità di Marketing i), j), k), l)</a><br><br>
+				- <a href="#flim">Finalità di Legittimo Interesse di Marketing m)</a>
+			</td>
+			<td style="vertical-align: top;">
+			<ul>
+				<b>Necessario</b> con riferimento alle <b>Finalità Contrattuali</b> data la sua essenzialità al fine di:<br><br>
+				Permetterti di registrare e gestire il tuo account e fruire delle funzionalità offerte dallo stesso; <br>
+				Permetterti di usufruire del servizio da te richiesto; <br>
+				Adeguarsi alle disposizioni della normativa applicabile.<br><br>
+Qualora dovessi decidere di non fornire i dati necessari per le Finalità Contrattuali, la Società sarà impossibilitata a fornirti i servizi richiesti.<br><br>
+
+				<b>Opzionale</b> con riferimento alle <b>Finalità di Marketing</b>, pertanto in caso di opposizione alle comunicazioni di marketing o di rifiuto a fornire il relativo consenso, o di revoca dello stesso, non riceverai le comunicazioni di marketing. In ogni caso, potrai revocare i consensi al trattamento dei tuoi dati personali in qualsiasi momento, attraverso le modalità previste dalla presente informativa. <br><br>
+
+				<b>Opzionale</b> con riferimento alle <b>Finalità di Legittimo Interesse di Business</b> e di <b>Legittimo Interesse di Marketing</b> e potrai opporti a detto trattamento con le modalità di cui alla presente informativa, ma qualora dovessi decidere di opporti a tale trattamento, i tuoi dati personali non potranno essere utilizzati per Finalità di Legittimo Interesse di Business e non potrai più ricevere le rilevanti comunicazioni , fatto salvo il caso in cui la Società dimostri la presenza di motivi legittimi cogenti prevalenti o di esercizio o difesa di un diritto ai sensi dell’articolo 21 del GDPR.
+
+			</ul>
+			</td>
+			
+			<td style="vertical-align: top;">
+			- Per quanto riguarda le <b>Finalità Contrattuali</b>, i tuoi dati sono trattati per fornirti il servizio richiesto<br><br>
+				- Per quanto riguarda le <b>Finalità di Legittimo Interesse di Business</b>, i tuoi dati sono trattati ai sensi dell'articolo 6, lettera f) del GDPR per il perseguimento dell'interesse legittimo della Società che è equamente bilanciato con i tuoi interessi, diritti e libertà, in quanto l'attività di trattamento dei tuoi dati è limitata a quanto strettamente necessario per l'esecuzione delle operazioni indicate alle lettere e), f) e g)<br><br>
+				- Per quanto riguarda le <b>Finalità di Marketing</b> i tuoi dati personali sono trattati con riferimento alle attività di cui alla  lettera i), in base all'articolo 130 del Codice Privacy, che ci consente di inviarti comunicazioni di marketing inerenti servizi o prodotti analoghi a quelli a te forniti tramite e-mail, a condizione che non ti sia opposto a tali comunicazioni;<br>con riferimento alle attività di cui alle lettere j), k), l), in base al tuo consenso.<br><br>
+				- Per quanto riguarda le <b>Finalità di Legittimo Interesse di Marketing</b>, i tuoi dati sono trattati ai sensi dell'articolo 6, lettera f) del GDPR per il perseguimento dell'interesse legittimo della Società che è equamente bilanciato con i tuoi interessi, diritti e libertà, alla luce dei limiti di cui alla lettera l).
+			</td>
+			
+		</tr>
+	</tbody>
+</table>
+</div>
+
+	<div id="icon2"><img onclick="$('#tab2').toggleClass('view');$('#apri2').toggleClass('hide');$('#chiudi2').toggleClass('hide');" src="https://www.teamsystem.com/img/cookiepo/priv2.png" /> <span onclick="$('#tab2').toggleClass('view');$('#apri2').toggleClass('hide');$('#chiudi2').toggleClass('hide');"><b>Informazioni per la fatturazione e dati di pagamento</b>, quali eventuale Partita IVA,  codice fiscale, indirizzo, ed eventualmente la ragione sociale </span>
+
+<p id="apri2"><img onclick="$('#tab2').toggleClass('view');$('#apri2').toggleClass('hide');$('#chiudi2').toggleClass('hide');" src="/media/LayoutBuilder/9b633a30-ac41-54dc-d7ce-cd649941fee1_arrow-down.png" style="width:22px;" /></p>
+
+<p class="hide" id="chiudi2"><img onclick="$('#tab2').toggleClass('view');$('#apri2').toggleClass('hide');$('#chiudi2').toggleClass('hide');" src="/media/LayoutBuilder/737348d4-fb99-9b9b-8741-1c0240482372_arrow-top.png" style="width:22px;" /></p>
+</div>
+
+<div id="tab2">
+<table width="auto">
+	<tbody>
+		<tr>
+			<td align="center" style="background:#C6D9F1">Finalità del trattamento</td>
+			<td align="center" style="background:#C6D9F1">Conferimento dei dati necessario o opzionale</td>
+			
+			<td align="center" style="background:#C6D9F1">Base giuridica del trattamento dei dati</td>
+			
+		</tr>
+		<tr style="text-align: left;">
+			<td style="vertical-align: top;">
+				- <a href="#fc">Finalità Contrattuali b), c), e)</a><br><br>
+				- <a href="#fli">Finalità Di Legittimo Interesse di Business f), g), h)</a>
+			</td>
+			<td style="vertical-align: top;">
+				<p><b>Necessario</b> con riferimento alle <b>Finalità Contrattuali</b> data la sua essenzialità al fine di: 
+				<br>- Permetterti di registrare e gestire il tuo account e fruire delle funzionalità offerte dallo stesso;<br>
+					- Permetterti di usufruire del servizio da te richiesto;<br>
+					- Adeguarsi alle disposizioni della normativa applicabile. <br><br>
+Qualora dovessi decidere di non fornire i dati necessari per le Finalità Contrattuali, la Società sarà impossibilitata a fornirti i servizi richiesti.<br><br>
+
+				<b>Opzionale</b> con riferimento alle <b>Finalità di Legittimo Interesse di Business</b> e potrai opporti a detto trattamento con le modalità di cui alla presente informativa, ma qualora dovessi decidere di opporti a tale trattamento, i tuoi dati personali non potranno essere utilizzati per Finalità di Legittimo Interesse di Business, fatto salvo il caso in cui la Società dimostri la presenza di motivi legittimi cogenti prevalenti o di esercizio o difesa di un diritto ai sensi dell’articolo 21 del GDPR.</p>
+
+			</td>
+			
+			<td style="vertical-align: top;">
+				- Per quanto riguarda le <b>Finalità Contrattuali</b>, i tuoi dati sono trattati per fornirti il servizio richiesto<br><br>
+				Per quanto riguarda le <b>Finalità di Legittimo Interesse di Business</b>, i tuoi dati sono trattati ai sensi dell'articolo 6, lettera f) del GDPR per il perseguimento dell'interesse legittimo della Società che è equamente bilanciato con i tuoi interessi, diritti e libertà, in quanto l'attività di trattamento dei tuoi dati è limitata a quanto strettamente necessario per l'esecuzione delle operazioni indicate alle lettere e), f) e g).
+			</td>
+			
+		</tr>
+	</tbody>
+</table>
+</div>
+
+
+
+
+<div id="icon6"><img onclick="$('#tab6').toggleClass('view');$('#apri6').toggleClass('hide');$('#chiudi6').toggleClass('hide');" src="https://www.teamsystem.com/img/cookiepo/priv6.png" style="max-width: 72px; width: 74px; height: 74px;" /> <span onclick="$('#tab6').toggleClass('view');$('#apri6').toggleClass('hide');$('#chiudi6').toggleClass('hide');"><b>Dati di navigazione</b>, quali indirizzi IP, nomi a dominio ed altri parametri relativi al computer e al sistema operativo da te utilizzato</span>
+
+<p id="apri6"><img onclick="$('#tab6').toggleClass('view');$('#apri6').toggleClass('hide');$('#chiudi6').toggleClass('hide');" src="/media/LayoutBuilder/9b633a30-ac41-54dc-d7ce-cd649941fee1_arrow-down.png" style="width:22px;" /></p>
+
+<p class="hide" id="chiudi6"><img onclick="$('#tab6').toggleClass('view');$('#apri6').toggleClass('hide');$('#chiudi6').toggleClass('hide');" src="/media/LayoutBuilder/737348d4-fb99-9b9b-8741-1c0240482372_arrow-top.png" style="width:22px;" /></p>
+</div>
+
+<div id="tab6">
+<table width="auto">
+	<tbody>
+		<tr>
+			<td align="center" style="background:#C6D9F1">Finalità del trattamento</td>
+			<td align="center" style="background:#C6D9F1">Conferimento dei dati necessario o opzionale</td>
+			
+			<td align="center" style="background:#C6D9F1">Base giuridica del trattamento dei dati</td>
+			
+		</tr>
+		<tr style="text-align: left;">
+			<td style="vertical-align: top;">
+				- <a href="#fc">Finalità Contrattuali a), b), c), e)</a><br><br>
+				- <a href="#fli">Finalità di Legittimo Interesse di Business f), g), h)</a><br><br>
+				- <a href="#fm">Finalità di Marketing i), j), k), l)</a><br><br>
+				- <a href="#flim">Finalità di Legittimo Interesse di Marketing m)</a>
+			</td>
+			<td style="vertical-align: top;">
+				<p><b>Necessario</b> con riferimento alle <b>Finalità Contrattuali</b> data la sua essenzialità al fine di: 
+				<br>- Permetterti la navigazione sul Sito;<br>
+					- Permetterti di registrare e gestire il tuo account e fruire delle funzionalità offerte dallo stesso;<br>
+					- Permetterti di usufruire del servizio da te richiesto;<br>
+					- Adeguarsi alle disposizioni della normativa applicabile. <br><br>
+
+Qualora dovessi decidere di non fornire i dati necessari per le Finalità Contrattuali, la Società sarà impossibilitata a fornirti i servizi richiesti.<br><br>
+
+				<b>Opzionale</b> con riferimento alle <b>Finalità di Marketing</b>, pertanto in caso di opposizione alle comunicazioni di marketing o di rifiuto a fornire il relativo consenso, o di revoca dello stesso, non riceverai le comunicazioni di marketing. In ogni caso, potrai revocare i consensi al trattamento dei tuoi dati personali in qualsiasi momento, attraverso le modalità previste dalla presente informativa. <br><br>
+
+				<b>Opzionale</b> con riferimento alle <b>Finalità di Legittimo Interesse di Business</b> e di <b>Legittimo Interesse di Marketing</b> e potrai opporti a detto trattamento con le modalità di cui alla presente informativa, ma qualora dovessi decidere di opporti a tale trattamento, i tuoi dati personali non potranno essere utilizzati per Finalità di Legittimo Interesse di Business e non potrai più ricevere le rilevanti comunicazioni , fatto salvo il caso in cui la Società dimostri la presenza di motivi legittimi cogenti prevalenti o di esercizio o difesa di un diritto ai sensi dell’articolo 21 del GDPR.
+</p>
+			</td>
+			
+			<td style="vertical-align: top;">
+			- Per quanto riguarda le <b>Finalità Contrattuali</b>, i tuoi dati sono trattati per fornirti il servizio richiesto<br><br>
+				- Per quanto riguarda le <b>Finalità di Legittimo Interesse di Business</b>, i tuoi dati sono trattati ai sensi dell'articolo 6, lettera f) del GDPR per il perseguimento dell'interesse legittimo della Società che è equamente bilanciato con i tuoi interessi, diritti e libertà, in quanto l'attività di trattamento dei tuoi dati è limitata a quanto strettamente necessario per l'esecuzione delle operazioni indicate alle lettere e), f) e g).<br><br>
+				- Per quanto riguarda le <b>Finalità di Marketing</b> i tuoi dati personali sono trattati con riferimento alle attività di cui alla  lettera i), in base all'articolo 130 del Codice Privacy, che ci consente di inviarti comunicazioni di marketing inerenti servizi o prodotti analoghi a quelli a te forniti tramite e-mail, a condizione che non ti sia opposto a tali comunicazioni;<br>con riferimento alle attività di cui alle lettere j), k), l), in base al tuo consenso.<br><br>
+				- Per quanto riguarda le <b>Finalità di Legittimo Interesse di Marketing</b>, i tuoi dati sono trattati ai sensi dell'articolo 6, lettera f) del GDPR per il perseguimento dell'interesse legittimo della Società che è equamente bilanciato con i tuoi interessi, diritti e libertà, alla luce dei limiti di cui alla lettera l). </li>
+			</ul>
+			</td>
+			
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div id="icon7"><img onclick="$('#tab7').toggleClass('view');$('#apri7').toggleClass('hide');$('#chiudi7').toggleClass('hide');" src="https://www.teamsystem.com/img/cookiepo/priv7.png" style="max-width: 72px;" /> <span onclick="$('#tab7').toggleClass('view');$('#apri7').toggleClass('hide');$('#chiudi7').toggleClass('hide');"><b>Dati di prodotto</b> quali i dati relativi ai prodotti a te licenziati e/o servizi da te sottoscritti</span>
+
+<p id="apri7"><img onclick="$('#tab7').toggleClass('view');$('#apri7').toggleClass('hide');$('#chiudi7').toggleClass('hide');" src="/media/LayoutBuilder/9b633a30-ac41-54dc-d7ce-cd649941fee1_arrow-down.png" style="width:22px;" /></p>
+
+<p class="hide" id="chiudi7"><img onclick="$('#tab7').toggleClass('view');$('#apri7').toggleClass('hide');$('#chiudi7').toggleClass('hide');" src="/media/LayoutBuilder/737348d4-fb99-9b9b-8741-1c0240482372_arrow-top.png" style="width:22px;" /></p>
+</div>
+
+<div id="tab7">
+<table width="auto">
+	<tbody>
+		<tr>
+			<td align="center" style="background:#C6D9F1">Finalità del trattamento</td>
+			<td align="center" style="background:#C6D9F1">Conferimento dei dati necessario o opzionale</td>
+			
+			<td align="center" style="background:#C6D9F1">Base giuridica del trattamento dei dati</td>
+		
+		</tr>
+		<tr style="text-align: left;">
+			<td style="vertical-align: top;">
+				- <a href="#fc">Finalità Contrattuali c), d), e)</a><br><br>
+				- <a href="#fli">Finalità di Legittimo Interesse di Business f), g), h)</a><br><br>
+				- <a href="#fm">Finalità di Marketing i), j), k), l)</a><br><br>
+				- <a href="#flim">Finalità di Legittimo Interesse di Marketing</a>
+			</td>
+			<td style="vertical-align: top;">
+				<p><b>Necessario</b> con riferimento alle <b>Finalità Contrattuali</b> data la sua essenzialità al fine di:
+				<br>- Permetterti di usufruire del servizio da te richiesto;<br>
+					- Adeguarsi alle disposizioni della normativa applicabile.<br><br>
+Qualora dovessi decidere di non fornire i dati necessari per le Finalità Contrattuali, la Società sarà impossibilitata a fornirti i servizi richiesti.<br><br>
+
+				<b>Opzionale</b> con riferimento alle <b>Finalità di Marketing</b>, pertanto in caso di opposizione alle comunicazioni di marketing o di rifiuto a fornire il relativo consenso, o di revoca dello stesso, non riceverai le comunicazioni di marketing. In ogni caso, potrai revocare i consensi al trattamento dei tuoi dati personali in qualsiasi momento, attraverso le modalità previste dalla presente informativa. <br><br>
+
+				<b>Opzionale</b> con riferimento alle <b>Finalità di Legittimo Interesse di Business</b> e di <b>Legittimo Interesse di Marketing</b> e potrai opporti a detto trattamento con le modalità di cui alla presente informativa, ma qualora dovessi decidere di opporti a tale trattamento, i tuoi dati personali non potranno essere utilizzati per Finalità di Legittimo Interesse di Business e non potrai più ricevere le rilevanti comunicazioni , fatto salvo il caso in cui la Società dimostri la presenza di motivi legittimi cogenti prevalenti o di esercizio o difesa di un diritto ai sensi dell’articolo 21 del GDPR.
+</p>
+			</td>
+			
+			<td style="vertical-align: top;">
+			- Per quanto riguarda le <b>Finalità Contrattuali</b>, i tuoi dati sono trattati per fornirti il servizio richiesto<br><br>
+				- Per quanto riguarda le <b>Finalità di Legittimo Interesse di Business</b>, i tuoi dati sono trattati ai sensi dell'articolo 6, lettera f) del GDPR per il perseguimento dell'interesse legittimo della Società che è equamente bilanciato con i tuoi interessi, diritti e libertà, in quanto l'attività di trattamento dei tuoi dati è limitata a quanto strettamente necessario per l'esecuzione delle operazioni indicate alle lettere e), f) e g).<br><br>
+				- Per quanto riguarda le <b>Finalità di Marketing</b> i tuoi dati personali sono trattati con riferimento alle attività di cui alla  lettera i), in base all'articolo 130 del Codice Privacy, che ci consente di inviarti comunicazioni di marketing inerenti servizi o prodotti analoghi a quelli a te forniti tramite e-mail, a condizione che non ti sia opposto a tali comunicazioni;<br>con riferimento alle attività di cui alle lettere j), k), l), in base al tuo consenso.<br><br>
+				- Per quanto riguarda le <b>Finalità di Legittimo Interesse di Marketing</b>, i tuoi dati sono trattati ai sensi dell'articolo 6, lettera f) del GDPR per il perseguimento dell'interesse legittimo della Società che è equamente bilanciato con i tuoi interessi, diritti e libertà, alla luce dei limiti di cui alla lettera l).<br>
+			</td>
+			
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div>
+&nbsp;&nbsp;
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Finalità del trattamento</b><o:p></o:p></span></p>
+
+<p>Il trattamento delle categorie di dati personali di cui alla tabella che precede è effettuato dalla Società, nello svolgimento delle sue attività economiche e commerciali, per specifiche finalità, così come meglio descritto di seguito. 
+	<ol><li><b><a name="fc">Finalità Contrattuali</a></b><br>
+	a) Consentirti la navigazione sul Sito;<br>
+b) Registrazione e gestione dell'account (ivi incluse eventuali verifiche dell'account e recupero dello stesso, ove previsto) e fruizione delle funzionalità connesse all'account stesso; <br>
+	c)	Esecuzione delle attività necessarie alla conclusione ed esecuzione del contratto ai fini della fornitura del servizio da te richiesto (ad esempio iscrizione a webinar ed eventi, newsletter, preventivi) e fornitura del rilevante servizio;<br>
+d)	Gestione delle richieste da te formulate , ivi inclusi eventuali reclami e controversie;<br>
+	e)	Adempiere agli obblighi derivanti dalla legge vigente, regolamenti o normativa comunitaria (es. obblighi fiscali e contabili). </li>
+		<li><b><a name="fli">Finalità di Legittimo Interesse di Business</a></b><br>
+f)	Far valere e difendere i diritti della Società, anche nell'ambito di procedure di recupero crediti e di assegnazione dei crediti a società autorizzate, anche attraverso terze parti; <br>
+g)	Per l'analisi ed il miglioramento dei servizi e/o prodotti offerti; <br>
+	h)	Portare a termina una potenziale fusione, cessione di beni, cessione d'azienda o di ramo d'azienda divulgando e trasferendo i dati alla/e terza/e parte/i coinvolta/e. </li>
+		<li><b><a name="fm">Finalità di Marketing</a></b><br>
+i)	Fornirti, ai sensi dell'articolo 10 del Decreto Legislativo n. 196/2003 e successive modifiche (il "Codice Privacy"), comunicazioni di marketing tramite email su servizi e/o prodotti analoghi a quelli di cui hai usufruito, fermo restando che, in qualsiasi momento, avrai la possibilità di opporti all'invio di tali comunicazioni;<br>
+j)	Previo tuo consenso, per fornirti comunicazioni di marketing, per coinvolgerti in ricerche di mercato o altre iniziative di customer satisfaction tramite canali di comunicazione tradizionali quali la posta cartacea e tramite strumenti di comunicazioni automatizzati quali email, messaggi automatici e altri strumenti di comunicazione a distanza;<br>
+k)	Previo tuo consenso, per fornirti comunicazioni di marketing secondo le modalità di cui alle precedenti lettere j) e k) relative ai prodotti e servizi delle altre società del gruppo di cui la Società è parte e/o di partner commerciali appartenenti alla propria rete vendite , a cui i tuoi dati potranno essere comunicati e il cui elenco è disponibile contattando la Società tramite le modalità indicate in questa informativa;<br>
+	l)	Fermo restando quanto indicato alla successiva lettera n), per eseguire, con il tuo previo consenso, un’analisi delle tue preferenze, e dell’esperienza di navigazione al fine di inviare le comunicazioni di marketing sopra indicate, limitatamente ai dati di contatto, quelli relativi alla tua interazione con i nostri servizi (es. la richiesta di informazioni su un prodotto, le analisi relative alle richieste di supporto, ecc. con esclusione dei dati di sicurezza quali le credenziali di accesso e il codice fiscale).</li>
+
+		<li><b><a name="flim">Finalità di Legittimo Interesse di Marketing</a></b><br>
+	m)	Qualora sia possibile inviarti comunicazioni per Finalità di Marketing ai sensi della presente informativa, per lo svolgimento nei tuoi confronti di forme di segmentazione poco invasive, basate, tra l'altro, su categorie di appartenenza quali ad esempio la categoria professionale, la città/provincia/regione in cui operi e la tipologia di servizio e/o prodotto di cui hai richiesto informazioni.</li></ol>
+Potrai trovare ulteriori informazioni relative alle finalità del trattamento dei tuoi dati personali (ad esempio in relazione all'acquisto/sottoscrizione di prodotti o servizi di TeamSystem o di altre società del gruppo che erogano i servizi resi disponibile sul portale, i servizi di customer care, ecc.) nelle informative che sono disponibili in altre sezioni del Sito e che sono opportunamente evidenziate.
+</p><br>
+&nbsp;
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Comunicazione, diffusione e trasferimento dei Dati</b><o:p></o:p></span></p>
+
+<p>Per le <b>Finalità Contrattuali</b>, i tuoi dati possono essere trasferiti ai seguenti soggetti terzi che svolgono attività funzionali a quelle di cui alla fornitura dei servizi da te richiesti situati all'interno e all'esterno dell'Unione Europea: (a) terzi fornitori di servizi di assistenza e consulenza per la Società con riferimento alle attività dei settori (a titolo meramente esemplificativo) tecnologico, contabile, amministrativo, legale, assicurativo; (b) società del gruppo di cui la Società è parte; (c) soggetti ed autorità il cui diritto di accesso ai dati è espressamente riconosciuto dalla legge, da regolamenti o da provvedimenti emanati dalle autorità competenti. <br><br>
+	Per le <b>Finalità di Legittimo Interesse di Business</b>, i dati possono essere trasferiti alle seguenti categorie di destinatari, situati all'interno e all'esterno dell'Unione Europea: (a) terzi fornitori di servizi di assistenza e di consulenza per la Società con riferimento alle attività dei settori (a titolo meramente esemplificativo) tecnologico, contabile, amministrativo, legale, assicurativo, (b) società del gruppo di cui la Società è parte, (c) potenziali acquirenti della Società ed entità risultati dalla fusione o ogni altra forma di trasformazione riguardante la Società, (d) autorità competenti.<br><br> 
+	Per le <b>Finalità di Marketing</b> e per la <b>Finalità di Legittimo Interesse di Marketing</b>, i Dati possono essere trasferiti alle seguenti categorie di destinatari, situati all'interno e all'esterno dell'Unione Europea: (a) terzi incaricati del trattamento dei Dati fornitori di servizi di assistenza e consulenza per la Società con riferimento alle attività di invio delle comunicazioni marketing; (b) società del gruppo di cui la Società è parte. <br><br>
+Tali destinatari, a seconda dei casi, trattano i tuoi dati in qualità di titolari, responsabili o incaricati del trattamento. La lista completa e aggiornata dei soggetti che trattano i dati in qualità di responsabili del trattamento è disponibile su richiesta al Responsabile per la Protezione dei Dati, secondo le modalità di contatto indicate in questa informativa.
+</p><br><br>
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Modalità del trattamento dei dati </b><o:p></o:p></span></p>
+
+<p>I tuoi dati personali sono trattati dalla Società con sistemi elettronici e manuali secondo i principi di correttezza, lealtà e trasparenza previsti dalla normativa applicabile in materia di protezione dei dati personali e tutelando la tua riservatezza tramite misure di sicurezza tecniche ed organizzative per garantire un livello di sicurezza adeguato.<br><br>
+
+Tali trattamenti hanno luogo presso la sede della Società e/o presso i Responsabili esterni del trattamento che effettuano il trattamento per conto di TeamSystem all'interno e anche al di fuori dell’Unione europea e, in particolare, negli Stati Uniti. Con riferimento ai trasferimenti al di fuori del territorio dell'Unione europea verso Paesi non considerati adeguati dalla Commissione europea, la Società adotta le misure di sicurezza adatte ed appropriate per proteggere i tuoi Dati. Conseguentemente l'eventuale trasferimento dei Dati in Paesi situati al di fuori dell’Unione europea avverrà, in ogni caso, nel rispetto delle garanzie appropriate e opportune ai fini del trasferimento stesso, come le clausole contrattuali tipo di protezione dei dati, ai sensi della normativa applicabile e in particolare degli articoli 45 e 46 del GDPR.  <br><br>
+
+Nel caso in cui desiderassi ottenere maggiori informazioni in merito alle garanzie in essere e richiedere una copia delle stesse, puoi contattare in ogni momento la Società secondo le modalità indicate in questa informativa. 
+</p><br><br>
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Conservazione dei dati </b><o:p></o:p></span></p>
+
+<p>I dati saranno conservati per il periodo di tempo necessario per il perseguimento delle finalità per cui tali dati sono stati raccolti, come affermato in questa informativa. In ogni caso, i seguenti termini di conservazione si applicheranno con riferimento ai trattamenti dei dati per le finalità riportate di seguito:<br><br>
+	(i)	per le <b>Finalità Contrattuali</b> e di <b>Legittimo Interesse di Business</b> i dati vengono conservati per un periodo pari alla durata della fornitura dei servizi da te richiesti e per i 10 anni successivi, fatti salvi i casi in cui la conservazione per un periodo successivo sia richiesta per eventuali contenziosi, richieste delle autorità competenti o ai sensi della normativa applicabile;<br><br>
+	(ii) per le <b>Finalità di Marketing</b> di cui alle <b>lettere i) e j)</b> e per la <b>Finalità di Legittimo Interesse di Marketing</b> i dati vengono conservati per un periodo pari alla durata della fornitura del servizio richiesto e un periodo di 24 mesi successivi all'ultimo contatto con te da intendersi, tra gli altri, la partecipazione ad un evento della Società, la fruizione di un prodotto o servizio fornito dalla Società o l'apertura di una newsletter (congiuntamente definiti l'"<b>Ultimo Contatto</b>");<br><br>
+	(iii) per la <b>Finalità di Marketing</b> di cui alla <b>lettera k)</b>, i dati vengono conservati per un periodo di 12 mesi dalla creazione del tuo account o della fruizione di un servizio;<br><br>
+	(iv) per la <b>Finalità di Marketing</b> di cui alla <b>lettera l)</b>, i dati vengono conservati dalla Società per un periodo pari alla durata della fornitura del servizio richiesto e per un periodo di 12 mesi successivi all'Ultimo Contatto.
+
+</p><br><br>
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Modifica delle scelte e revoca del consenso</b><o:p></o:p></span></p>
+
+<p>Se cambi idea, puoi modificare in qualsiasi momento le scelte che hai fatto contattandoci nei modi indicati qui sotto o, qualora tu non voglia più ricevere le nostre comunicazioni commerciali, utilizzando il link di cancellazione disponibile in calce alle nostre comunicazioni commerciali. L'eventuale mancato rilascio o revoca del consenso non pregiudicano in alcun modo la fruizione dei nostri servizi come disponibili sul Sito.
+</p><br><br>
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Diritti degli interessati</b><o:p></o:p></span></p>
+
+<p>In relazione al trattamento dei dati descritto nella presente informativa, puoi esercitare in ogni momento i diritti previsti dal GDPR (artt. 15-21) ivi inclusi: 
+<ul><li>ricevere conferma dell’esistenza dei tuoi dati personali e accedere al loro contenuto (diritto di accesso);</li>
+	<li>aggiornare, modificare e/o correggere i tuoi dati personali (diritto di rettifica);</li>
+	<li>chiedere la cancellazione o la limitazione del trattamento dei tuoi dati personali trattati in violazione di legge compresi quelli di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti o altrimenti trattati (diritto all'oblio e diritto alla limitazione);</li>
+	<li>opporti al trattamento (diritto di opposizione);</li>
+	<li>revocare il consenso, ove prestato, senza pregiudizio per la liceità del trattamento basata sul consenso prestato prima della revoca;</li>
+	<li>proporre reclamo all'Autorità di controllo (Garante per la protezione dei dati personali <a href="https://www.garanteprivacy.it/" target="_blank">www.garanteprivacy.it</a>) in caso di violazione della disciplina in materia di protezione dei dati personali;</li>
+	<li>ricevere una copia in formato elettronico dei dati personali che ti riguardano, per trasferirli a te stesso o ad un diverso fornitore di servizi, nelle ipotesi in cui la Società effettui il trattamento di tali dati sulla base del tuo consenso o sulla base della circostanza che il trattamento è necessario per la fornitura dei servizi da te richiesti ed i dati sono trattati attraverso strumenti automatizzati (diritto alla portabilità dei dati).</li></ul>
+
+Per esercitare tali diritti puoi rivolgerti al Responsabile per della Protezione dei Dati, che è contattabile inviando una richiesta all'indirizzo <a href="mailto:privacy@teamsystem.com">privacy@teamsystem.com</a>, oppure indirizzando la comunicazione via posta a:<br>
+TeamSystem S.p.A.<br>
+Via Sandro Pertini 88<br>
+Pesaro<br>
+c.a.: Responsabile della Protezione dei Dati<br><br>
+Nel contattare la Società, accertati di includere il tuo nome, email/indirizzo postale e/o numero/i di telefono per essere sicuro che la tua richiesta possa essere gestita correttamente.<br><br></p>
+
+<p class="MsoBodyText"><span style="color:#548DD4;mso-themecolor:text2;
+        mso-themetint:153"><b>Modifiche e aggiornamenti</b><o:p></o:p></span></p>
+La presente informativa può essere soggetta a variazioni anche in conseguenza di eventuali modifiche e/o integrazioni normative. Le modifiche saranno notificate in anticipo e il testo dell'informativa costantemente aggiornato sarà disponibile sul sito web www.teamsystem.com.<br><br><br>
+
+<b>Consulta tutte le precedenti versioni delle informative privacy a <a href="https://www.teamsystem.com/privacy-policy-revs" target="_blank">questo link</a>.</b>
+
+
+</p></div>
+
+
+</div>
+</div>
+
+        </div>
+
+        <div class="html">
+            <p class="MsoBodyText"><o:p></o:p><o:p></o:p></p>
+
+        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+            </div>
+
+</div>
+
+
+           
+            
+                       <footer class="main-footer py-6 py-lg-6">
+            <div class="container-fluid">
+                <div class="row mb-5 mb-lg-5">
+
+                    <div class="order-lg-2 col-lg-6 col-xl-6 offset-lg-1 main-footer__links mb-5 mb-lg-0">
+                        <div class="row w-100">
+                            <!-- FOOTER -->
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">Prodotti</h5>
+<a href="https://www.teamsystem.com/alyante" title="Software ERP ALYANTE">ALYANTE</a> <a href="https://www.teamsystem.com/lynfa_studio" title="Software Gestionale Studio">LYNFA Studio</a> <a href="https://www.teamsystem.com/agyo" title="Software Fatturazione Elettronica e servizi digitali">Agyo</a> <a href="https://www.teamsystem.com/reviso-software-cloud" title="Contabilità e fatturazione in cloud per PMI">Reviso</a><a href="https://www.teamsystem.com/fatture_in_cloud" title="Fatturazione in cloud per micro imprese e start-up">Fatture In Cloud</a> <a href="https://www.teamsystem.com/Legal/netlex" title="Software gestionale per studi legali">NETLEX</a> <a href="http://www.vialibera.it/" title="Contabilità, dichiarazioni fiscali e bilancio">ViaLibera</a> <a href="https://www.teamsystem.com/acg-enterprise-erp-azienda" title="Soluzione ERP per il mondo Power i">ACG Enterprise</a> <a href="https://www.teamsystem.com/lynfa_azienda" title="Il gestionale che collega aziende e studi professionali">LYNFA Azienda</a></div>
+
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">Gruppo</h5>
+<a href="https://www.teamsystem.com/il_gruppo" title="">Il Gruppo</a> <a href="https://www.teamsystem.com/careers" title="">Careers</a> <a href="https://www.teamsystem.com/contatti" title="">Contatti</a> <a href="https://www.teamsystem.com/come_raggiungerci" title="">Come Raggiungerci</a> <a href="https://www.teamsystem.com/ricerca_casi" title="">Casi di Successo</a><a href="https://www.teamsystem.com/ricerca_press" title="">Marketing &amp; Press</a> <a href="https://www.teamsystem.com/privacy-policy" title="">Privacy</a> <a href="https://www.teamsystem.com/gestione_cookie" title="">Cookie Policy</a> <a href="https://www.teamsystem.com/compliance" title="">Compliance</a></div>
+
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">Link utili</h5>
+<a href="http://www.energiadigitale.com/" title="">Energia Digitale</a> <a href="http://alyante.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=footer" title="">Il Blog di ALYANTE</a> <a href="https://lynfa.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=footer" title="">Il Blog di LYNFA</a> <a href="https://www.teamsystem.com/store" title="">Store</a> <a href="http://international.teamsystem.com/" title="">International</a> <a href="https://www.teamsystem.com/rivenditori" title="">Aree rivenditori</a> <a href="https://www.teamsystem.com/link" title="">Link</a> <a href="https://www.teamsystem.com/terms-conditions" title="">Terms &amp; conditions</a> <a href="https://www.teamsystem.com/network-teamsystem" title="">Network</a> <a href="https://www.teamsystem.com/Mappa_del_Sito" title="">Mappa del sito</a></div>
+
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">GDPR</h5>
+<a href="https://www.teamsystem.com/gdpr/dpa" title="DPA">DPA</a> <a href="https://www.teamsystem.com/gdpr/faq" title="FAQ">FAQ</a></div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-8 col-lg-3 main-footer__newsletter mb-5 mb-md-0">
+                        <h4 class="main-footer__newsletter-title">
+                            Iscriviti alla Newsletter
+                        </h4>
+                        <form>
+                            <input type="email" class="form-control form-control-lg mb-3" placeholder="Il tuo indirizzo email" name="emailNL" id="emailNL">
+                            
+                            <a id="link" name="link" data-fancybox="" data-type="iframe" data-src="/iscrizione-newsletter" href="">
+                                <button type="submit" class="btn btn-lg d-block d-sm-inline-block btn-fucsia float-sm-right">Iscriviti »</button>
+                            </a>
+                        </form>
+                    </div>
+
+                    <div class="main-footer__socialize order-lg-3 col-md-3 col-lg-2">
+                        <h5 class="main-footer__title--sm mb-4">Seguici su</h5>
+                        <div class="main-footer__socials">
+                            <a href="https://it.linkedin.com/company/teamsystem" rel="nofollow" target="_blank" title="linkedin" class="main-footer__social mb-3">
+                                <i class="fa fa-linkedin"></i>
+                                <span>Linkedin</span>
+                            </a>
+                            <a href="http://www.youtube.com/user/TeamSystemChannel" rel="nofollow" target="_blank" title="youtube" class="main-footer__social mb-3">
+                                <i class="fa fa-youtube"></i>
+                                <span>YouTube</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <img src="https://cms.teamsystem.com/home-2018/build/img/ui/ts-white.svg" alt="">
+                    </div>
+                    <div class="col-md-8 main-footer__bottom">
+                        &#169; Copyright 2018 - TeamSystem S.p.A. societ&#224; con socio unico soggetta all’attivit&#224; di direzione e coordinamento di TeamSystem Holding S.p.A. - Cap. Soc. € 24.000.000 I.v. - C.C.I.A.A. di Pesaro e Urbino - P.I. 01035310414 - Sede Legale: Via Sandro Pertini, 88 - 61122 Pesaro (PU) - Tutti i diritti riservati
+
+                        <div class="firma home">
+                            <a title="Digital Marketing" target="_blank" href="https://www.websolute.com">Websolute <img src="https://cms.teamsystem.com/img/DigitalMarketing.png" alt="Digital Marketing" /></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <input type="hidden" id="hfScopriEsig" value="Scopri tutte le soluzioni che rispondono ad ogni tua esigenza" />
+        <div class="p_abs bg_menu"></div>
+        <script type="text/javascript">$(function () { $('a.wrap_link_slide[href*="attractivetour.teamsystem.com"]').click(function () { _gaq.push(['_trackEvent', 'clic', 'banner', 'attractivetour']); }); });</script>
+        <script src="//d2qp6cnfg3bg1d.cloudfront.net/tt-b312d5fbcfab403a28f259ab3d2b333ae2412727528b63ae3c032be535410ed5.js" async></script>
+<!-- Google Code per il tag di remarketing -->
+<!--------------------------------------------------
+I tag di remarketing possono non essere associati a informazioni di identificazione personale o inseriti in pagine relative a categorie sensibili. Ulteriori informazioni e istruzioni su come impostare il tag sono disponibili alla pagina: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    var google_conversion_id = 967931556;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/967931556/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script src="//tt.mbww.com/tt-b312d5fbcfab403a28f259ab3d2b333ae2412727528b63ae3c032be535410ed5.js" async></script>  
+           
+            
+      
+
+
+
+
+    
+    <!-- /Wrapper -->
+
+   
+    
+
+    
+
+    
+
+
+    
+    
+    <script>
+        (function (w, d, s, p) {
+			
+
+            var date1 = new Date(2019, 0, 1);
+            if (new Date() < date1) {
+
+				var v = []; if (p) for (var k in p)
+                if (p[k] != null) {
+                    if (Array.isArray(p[k]))
+                    {
+                        for (var i = 0; i < p[k].length; i++)
+                            v.push(encodeURIComponent(k) + "=" + encodeURIComponent(p[k][i]));
+                    }
+                    else
+                    {
+                        v.push(encodeURIComponent(k) + "=" + encodeURIComponent(p[k]));
+                    }
+                }
+                var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s);
+                j.async = true;
+                j.className = "popup-fatturazione-flusso";
+                j.src = 'https://cms.teamsystem.com/js/fatturazione/widget.js?' + v.join("&");  //https://cms.teamsystem.com/
+                f.parentNode.insertBefore(j, f);
+			}
+        })(window, document, "script",
+            {
+                url: 'https://cms.teamsystem.com/wizardFatt/wizard-com.html',
+                triggersRegExp: [/./]
+                , triggers: ["https://www.teamsystem.com", "https://www.teamsystem.com", "https://www.teamsystem.com/","http://localhost:8580/","/agyo-fatturazione", "/alyante", "/lynfa_studio", "/agyo", "/reviso-software-cloud", "/fatture_in_cloud", "/acg-enterprise-erp-azienda", "/lynfa_azienda"]//,
+                //,force: true
+            });
+    </script>
+
+
+
+
+
+ 
+
+
+<!-- begin SnapEngage code -->
+<script type="text/javascript">
+(function() {
+var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+se.src = '//storage.googleapis.com/code.snapengage.com/js/913a6b12-8197-419f-8b98-6ffee92890ae.js';
+var done = false;
+se.onload = se.onreadystatechange = function() {
+if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+done = true;
+/* Place your SnapEngage JS API code below */
+/* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
+var partUrlToHideButton = ["example.com/no-chat-page", "/iscrizione-newsletter",   ];
+ 
+var url = window.location.href;
+ 
+  function hideChatButtonOnThisPage() {
+      SnapEngage.hideButton();
+      SnapEngage.setCallback('Close', function (type, status) {
+          SnapEngage.hideButton();
+      });
+  };
+ 
+  partUrlToHideButton.forEach(function(partUrl) {
+      if(url.indexOf(partUrl) !== -1){
+          hideChatButtonOnThisPage();
+      }
+  });
+
+}
+};
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+})();
+</script>
+<!-- end SnapEngage code -->
+    </body>
+
+
+
+</html>

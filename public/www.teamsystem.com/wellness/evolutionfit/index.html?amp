@@ -1,0 +1,930 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="EvolutionFit è il software di schede palestra, plicometria, anamnesi, e piani alimentari. Scopri l&#039;app iOs, Android e la versione desktop." />
+<meta name="twitter:title" content="Software schede palestra, schede allenamento e diete | EvolutionFit" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Software schede palestra, schede allenamento e diete | EvolutionFit" />
+<meta property="og:description" content="EvolutionFit è il software di schede palestra, plicometria, anamnesi, e piani alimentari. Scopri l&#039;app iOs, Android e la versione desktop." />
+<meta property="og:url" content="//www.teamsystem.com/wellness/evolutionfit/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+	<title>Software schede palestra, schede allenamento e diete | EvolutionFit</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/evolutionfit/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/evolutionfit\/","headline":"EvolutionFit &#8211; Software schede palestra e app allenamento","datePublished":"2015-12-30T15:36:57+00:00","dateModified":"2018-12-18T20:34:43+00:00","author":{"@type":"Person","name":"Habra"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/06\/responsive-evolutionfit-software.png","width":1283,"height":705},"description":"EvolutionFit \u00e8 il software di schede palestra, plicometria, anamnesi, e piani alimentari. Scopri l'app iOs, Android e la versione desktop."}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-805e8b8{padding-top:13%;padding-bottom:5%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ea2e72d{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/01/sfondotestata.jpg");background-position:left top;background-repeat:no-repeat;background-color:#333}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a012aad{background-image:url("")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ac2246b{color:rgba(255,255,255,.74);text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-64cfd22{color:rgba(255,255,255,.7);text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-9ea50dd{padding-top:30px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b1193b6{padding-top:4%;padding-bottom:4%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ee3daf4{background-color:#fff}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-81faaca{padding-top:0px;padding-bottom:4%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-4632cff{color:#999}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-845f8fc{padding-top:4%;padding-bottom:5%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-3094cce{background-color:#f9f9f9}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-78beb92{font-size:16px;color:#000;line-height:32px;text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-fae47a4{color:#2885ff;text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-d8bf87e{margin-top:50px;width:120px;height:8px;margin-bottom:50px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-1ace59b{padding-top:5%;padding-bottom:10%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-d624e0a{color:#f9af0e;text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b77881f{padding-top:10%;padding-bottom:10%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-cbf5a9a{padding-top:0px;padding-bottom:40px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-cdd8ca0{text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-33e85a3{color:#fff}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-8cf7dca{padding-top:20px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a0d43da{font-size:50px;line-height:50px;height:50px;width:50px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-7023da7{text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-cc03ef3{height:40px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-f1801bb{padding-top:5%;padding-bottom:5%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b60506b{color:#1e83ec}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-3eb47d4{color:#f9af0e}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-adca58b{padding-top:15px;padding-bottom:25px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-7cf9ce0{padding-top:8%;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-4b419c2{background-color:#1c008c}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-1561554{padding-top:0px;padding-bottom:80px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-c47187a{margin-top:10px;margin-right:10px;margin-bottom:10px;margin-left:10px}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">EvolutionFit &#8211; Software schede palestra e app allenamento</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		
+		<div id="fws_5c3613bbe0b43" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section parallax_section    amp-wp-805e8b8"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg using-image using-bg-color   amp-wp-ea2e72d" data-parallax-speed="fast" data-color_overlay="#1c008c" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.8" data-enable_gradient="false"></div></div> </div><div class="video-color-overlay" data-color=""></div>
+			
+			<div class="mobile-video-image amp-wp-a012aad"></div>
+			<div class="nectar-video-wrap" data-bg-alignment="left top">
+					</div><div class="col span_12 light left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-ac2246b">EvolutionFit</h5><div class="nectar-split-heading"><div class="heading-line"> <div><h2>Software e App</h2> </div> </div><div class="heading-line"> <div><h2>per l’allenamento</h2> </div> </div><div class="heading-line"> <div><h2>per palestre</h2> </div> </div><div class="heading-line"> <div><h2>e personal trainer</h2> </div> </div></div>
+	<div id="fws_5c3613bbe11d3" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-10 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="300">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<p class="vc_custom_heading amp-wp-64cfd22">Il software per la gestione dell'allenamento dei tuoi clienti più avanzato di sempre</p>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c3613bbe14be" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-9ea50dd"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="500">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><a class="nectar-button large see-through has-icon" target="_blank" href="#flipfunz" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scopri di più</span><i class="icon-button-arrow"></i></a>   <a class="nectar-button large extra-color-3 has-icon regular-button" target="_blank" href="//teamsystem.com/wellness/acquista-ora-evolutionfit/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Attiva la demo gratuita</span><i class="icon-button-arrow"></i></a></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="top" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap center" data-max-width="125%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="705" width="1283" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/responsive-evolutionfit-software.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/responsive-evolutionfit-software.png 1283w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/responsive-evolutionfit-software-300x165.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/responsive-evolutionfit-software-768x422.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/responsive-evolutionfit-software-1024x563.png 1024w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="flipfunz" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-b1193b6"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>La soluzione on-line per l’allenamento più avanzata di sempre</h2>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bbe1cb9" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-81faaca"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="1" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-3"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_elaboration_smartphone_cloud.svg</span></div>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613bbe1fe1" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Archivio esercizi</h5>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-4632cff">Oltre 500 esercizi in grafica 3D, completi di immagini, video e mappe muscolari. In versione maschile e femminile</span></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-3"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/ecommerce_money.svg</span></div>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613bbe23af" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="400">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Schede allenamento</h5>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-4632cff">Scopri il modulo di EvolutionFit per creare le schede di allenamento dei tuoi clienti. Stampa, invia via mail o sull’APP</span></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-3"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_elaboration_browser_check.svg</span></div>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613bbe272e" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="800">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Valutazione clienti</h5>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-4632cff">Antropometira, anamnesi, valutazione patologie e grafici progressi per tenere sotto controllo i tuoi clienti</span></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-3"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_elaboration_browser_check.svg</span></div>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613bbe2aae" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="800">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Piani alimentari</h5>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-4632cff">Sfrutta l’archivio di +900 Alimenti per creare i piani alimentari. Calcola Kcalorie, proteine, carboidrati e grassi</span></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bbe2d16" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-845f8fc"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-3094cce" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap right" data-max-width="175%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="689" width="1946" data-animation="fade-in-from-left" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/software-schede-allenamento.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/software-schede-allenamento.png 1946w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/software-schede-allenamento-300x106.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/software-schede-allenamento-768x272.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/software-schede-allenamento-1024x363.png 1024w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading amp-wp-78beb92">Esercizi e schede di allenamento in versione maschile e femminile</h5><h2 class="vc_custom_heading amp-wp-fae47a4">EvolutionFit per palestre e Personal Trainer</h2><div class="divider-wrap"><div data-width="120" data-animate="yes" data-animation-delay="" data-color="default" class="divider-small-border amp-wp-d8bf87e"></div></div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1528799305319">
+		<div class="wpb_wrapper">
+			<div class="testo">
+<p>Un archivio di <strong>oltre 500 esercizi</strong> in versione maschile e femminile.<br>
+Ogni esercizio e completo di immagine iniziale e finale, video 3D e mappa muscolare.<br>
+Utilizzali per creare schede di allenamento che stupiscano i tuoi clienti</p>
+<p>EvolutionFit <b>in automatico</b> converte le immagini da uomo a donna a seconda del sesso del cliente.</p>
+<p>La stampa, l’invio via mail e sull’APP del tuo cliente sarà con le immagini ed i video del sesso del cliente!</p>
+</div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bbe33e5" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-1ace59b"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading amp-wp-78beb92">Oltre 60 parametri misurabili</h5><h2 class="vc_custom_heading amp-wp-d624e0a">Anamnesi, plicometria e valutazione dei tuoi clienti</h2><div class="divider-wrap"><div data-width="120" data-animate="yes" data-animation-delay="" data-color="default" class="divider-small-border amp-wp-d8bf87e"></div></div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1528799810796">
+		<div class="wpb_wrapper">
+			<p>Con il software EvolutionFit rilevi tutti i parametri fondamentali sullo stato di forma dei tuoi clienti :  circonferenze, diametri, perso, BMI, taglia morfologica, frequenze cardiache allenanti, patologie, annotazioni,…</p>
+<p>Confronta i dati delle varie rilevazioni, analizzali con report e grafici:</p>
+<ul><li>Valutazione antropometrica</li>
+<li>Plicometria 3, 4 e 7 punti</li>
+<li>Valutazione patologie</li>
+<li>Valutazione bioimpedenziometrica</li>
+</ul></div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap " data-max-width="175%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="600" width="800" data-animation="fade-in-from-right" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/evolutionfit-anamnesi-plicometria-computer-1.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/evolutionfit-anamnesi-plicometria-computer-1.png 800w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/evolutionfit-anamnesi-plicometria-computer-1-300x225.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/evolutionfit-anamnesi-plicometria-computer-1-768x576.png 768w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bbe39c0" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-845f8fc"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-3094cce" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap right" data-max-width="175%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="410" width="641" data-animation="fade-in-from-left" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/strumenti-piani-alimentari.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/strumenti-piani-alimentari.png 641w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/strumenti-piani-alimentari-300x192.png 300w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading amp-wp-78beb92">Crea le diete e i piani alimentari per i tuoi clienti</h5><h2 class="vc_custom_heading amp-wp-fae47a4">Gestisci i piani alimentari dei tuoi clienti</h2><div class="divider-wrap"><div data-width="120" data-animate="yes" data-animation-delay="" data-color="default" class="divider-small-border amp-wp-d8bf87e"></div></div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1528803253071">
+		<div class="wpb_wrapper">
+			<p>Hai a disposizione un archivio di oltre 900 alimenti completi dei valori dei macro-nutrimenti.</p>
+<p>Crea le diete personalizza, gestisci in automatico il calcolo delle calorie, proteine, carboidrati e grassi.</p>
+<p>Stampali, inviali via mail o consegnali sull’app dei tuoi clienti</p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bbe3f7d" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-b77881f"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="#1c008c" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="1" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613bbe41da" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-cbf5a9a"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element  vc_custom_1513005417300">
+		<div class="wpb_wrapper">
+			<h6 class="amp-wp-cdd8ca0"><span class="amp-wp-33e85a3">Scopri tutte le caratteristiche</span></h6>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2 class="amp-wp-cdd8ca0">L’app per il tuo allenamento</h2>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c3613bbe44ec" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section     amp-wp-8cf7dca"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text has-animation padding-3-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap" data-style="default" data-draw="" data-border-thickness="2px" data-padding="0px" data-color="white" style="">
+		<div class="nectar_icon"><a href="#"></a><i class="iconsmind-Bodybuilding amp-wp-a0d43da"></i></div>
+	</div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1528804112119">
+		<div class="wpb_wrapper">
+			<h4><strong>Schede di allenamento</strong></h4>
+
+		</div>
+	</div>
+<p class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-7023da7">Consegna in tempo reale i programmi di allenamento.<br>
+Accesso all'intero archivio esercizi con con istruzioni, mappe muscolari e video 3D.<br>
+I tuoi clienti potranno gestirsi il proprio diario di allenamento, tracciare esercizi, pesi utilizzati, serie e ripetizioni eseguite</p><div class="divider-wrap"><div class="divider amp-wp-cc03ef3"></div></div><div class="nectar_icon_wrap" data-style="default" data-draw="" data-border-thickness="2px" data-padding="0px" data-color="white" style="">
+		<div class="nectar_icon"><a href="#"></a><i class="iconsmind-Polo-Shirt amp-wp-a0d43da"></i></div>
+	</div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1528804339557">
+		<div class="wpb_wrapper">
+			<h4><strong>Diete e piani alimentari</strong></h4>
+
+		</div>
+	</div>
+<p class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-7023da7">I tuoi clienti avranno sempre a portata di mano le proprie diete</p>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="768" width="429" data-animation="none" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/smartphone.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/smartphone.png 429w, //www.teamsystem.com/wellness/wp-content/uploads/2018/06/smartphone-168x300.png 168w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text has-animation padding-3-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap" data-style="default" data-draw="" data-border-thickness="2px" data-padding="0px" data-color="white" style="">
+		<div class="nectar_icon"><a href="#"></a><i class="iconsmind-Pencil-Ruler amp-wp-a0d43da"></i></div>
+	</div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1528804898173">
+		<div class="wpb_wrapper">
+			<h4><strong>Misurazioni corporee</strong></h4>
+
+		</div>
+	</div>
+<p class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-7023da7">Tutti i propri dati corporei e progressi sul proprio smartphone</p><div class="divider-wrap"><div class="divider amp-wp-cc03ef3"></div></div><div class="nectar_icon_wrap" data-style="default" data-draw="" data-border-thickness="2px" data-padding="0px" data-color="white" style="">
+		<div class="nectar_icon"><a href="#"></a><i class="iconsmind-Speach-BubbleDialog amp-wp-a0d43da"></i></div>
+	</div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1528804986947">
+		<div class="wpb_wrapper">
+			<h4><strong>Messaggi e notifiche</strong></h4>
+
+		</div>
+	</div>
+<p class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-7023da7">Invia messaggi, notifiche, promemoria e post. La comunicazione ai massimi livelli.</p>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bbe5090" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-f1801bb"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-split-heading"><div class="heading-line"> <div><h2 class="amp-wp-b60506b"><span class="amp-wp-3eb47d4">EvolutionFit è integrato con InforYou e FlipTonic</span></h2> </div> </div></div>
+	<div id="fws_5c3613bbe52dd" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-adca58b"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>EvolutionFit è integrato con i software gestionali InforYou e  FlipTonic per offrirti una soluzione unica e completa per il tuo centro fitness:</p>
+<ul><li>Anagrafiche clienti sincronizzate</li>
+<li>Archiviazione automatica clienti con abbonamento scaduto</li>
+<li>Attivazione cliente al rinnovo abbonamento</li>
+<li>Attivazione APP Allenamento automatica</li>
+<li>Gestione istruttori condivisa</li>
+<li>Scadenzario attività condiviso</li>
+</ul></div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="1300" width="1604" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2017/09/unnamed.jpg" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2017/09/unnamed.jpg 1604w, //www.teamsystem.com/wellness/wp-content/uploads/2017/09/unnamed-300x243.jpg 300w, //www.teamsystem.com/wellness/wp-content/uploads/2017/09/unnamed-768x622.jpg 768w, //www.teamsystem.com/wellness/wp-content/uploads/2017/09/unnamed-1024x830.jpg 1024w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="flipcall" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-7cf9ce0"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-4b419c2" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.8" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-1 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-10 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613bbe5a93" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-1561554"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="450">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<a class="nectar-button large regular extra-color-3  regular-button amp-wp-c47187a" href="//goo.gl/TZSjT8" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Acquista Ora</span></a>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.186 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:31:08 -->

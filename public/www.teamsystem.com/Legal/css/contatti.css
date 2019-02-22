@@ -1,0 +1,16 @@
+﻿/*--------------------------------------------------
+Contatti
+--------------------------------------------------*/
+.contatti .mar-b-m { font-size:24px; margin-bottom:0; }
+.contatti h1 { margin-top:0; }
+.contatti h1, .contatti h2 { font-weight:200; font-size:36px; margin-bottom:0; }
+.contatti .footer-links h2 { font-size:21px; }
+.contatti .footer-links .area-riservata h2 { color:#34487b; margin-top:6px; font-weight:600; font-size:21px; margin-bottom:10px; }
+
+.contatti strong { font-weight:600; }
+
+.contatti ul { }
+.contatti ul li { font-size:14px; }
+
+.contatti .btnStorie { display:none; }
+.contatti .btnContatti { background:#0d9cce; background:linear-gradient(to bottom, #0d9cce , #007ebf); border:none; color:#ffffff; }

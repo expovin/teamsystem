@@ -1,0 +1,88 @@
+
+
+
+
+<!-- Cover -->
+
+<!-- /Cover -->
+<!-- Breadcrumb -->
+
+<!-- /Breadcrumb -->
+
+             
+ <script type="text/javascript">
+     $(function () {
+
+     //    _gaq.push(['_trackPageview', '/Legal/newsletter']);
+
+       
+
+            $('#form_15').validate({
+                callbackHandler: function (data, form) {
+                    if (data.d.Status) {
+                        _gaq.push(['_trackPageview', '/Legal/newsletter_ok']);
+                        console.log('_trackPageview' + '/Legal/newsletter_ok');
+                        $(form).find("button:submit").remove();
+                        $(form).find(".form_message_ko").remove();
+                        $(form).find(".form_message_ok").html(data.d.HTML).show();
+                    } else {
+                        $(form).find(".form_message_ko").html(data.d.HTML).show();
+                    }
+                }
+            });
+        });
+    </script>          
+                <!-- form -->
+
+                    <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Iscriviti alla newsletter</h4>
+          </div>
+                    <div class="modal-body">
+
+    <form class="" role="form" id="form_15" name="form_15" method="post" action="/Legal/ws/wsUsers.asmx/NewsletterSubscribe" autocomplete="off">
+        <h3>completa i tuoi dati</h3>
+        <div class="obbl_fields"><em>*</em> campi obbligatori</div>
+        <input name="TipoForm" type="hidden" value="IscrivitiNL" />
+
+
+        <div class="row">
+            <input type="hidden" name="form_doc_id" id="form_doc_id" value="15" />
+            <input type="hidden" id="form_cur_page" name="form_cur_page" value="/Legal/newsletter" />
+            <div class="col-xs-12 col-sm-12 form-group">
+                <label for="Nome">Nome *</label>
+                <input type="text" class="form-control " id="Nome" name="Nome" required value="" />
+                <input hidden id="TipoRich" name="TipoRich" />
+            </div>
+            <div class="col-xs-12 col-sm-12 form-group">
+                <label for="Cognome">Cognome *</label>
+                <input type="text" class="form-control" id="Cognome" name="Cognome" required value="" />
+            </div>
+            <div class="col-xs-12 col-sm-12 form-group">
+                <label for="Email">Email *</label>
+                <input type="email" class="form-control" id="Email" name="Email" required email value="" />
+            </div>
+            <div class="col-xs-12 col-sm-12 checkbox" style="visibility:hidden">
+                <label>
+                    Desidero iscrivermi alla newsletter
+                </label><input type="checkbox" name="Newsletter" id="Newsletter" value="1" checked required />
+            </div>
+                <div class="col-xs-12 col-sm-12">
+                    <div class="checkboxnew">
+                        <input type="hidden" name="privacy" required value="true" />
+                        <label><strong>È una questione di fiducia!</strong> <br/> Leggi la nostra <a href="/privacy_policy" class="privacypol" target="_blank" style="font-style: italic;">informativa sulla privacy</a> e scegli i consensi che desideri rilasciare a TeamSystem. Potrai sempre cambiare la tua scelta e opporti al trattamento dei tuoi dati per l'invio di comunicazioni commerciali per le finalità di interesse legittimo descritte nell’informativa contattandoci all’indirizzo <a href="mailto:privacy@teamsystem.com">privacy@teamsystem.com</a></label>
+                    </div>
+                </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-secondary">Iscriviti</button>
+            </div>
+
+        </div>
+
+        <div class="form_message_ok"></div>
+        <div class="form_message_ko"></div>
+        <div class="divNotify"></div>
+    </form>
+</div>
+
+                <!-- /form -->

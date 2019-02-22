@@ -1,0 +1,127 @@
+/*--------------------------------------------------
+N O M E D E L S I T O
+www.nomedelsito.it
+website by websolute
+--------------------------------------------------*/
+
+
+/*--------------------------------------------------
+Body & altro
+--------------------------------------------------*/
+html, body { height: 100%; }/*my*/
+/*
+body {
+	background:url(../img/background.png);
+	background-repeat:no-repeat;
+	background-position:center 0px;
+	color:#707173;
+}
+*/
+/*--------------------------------------------------
+Intestazione pagina
+--------------------------------------------------*/
+.header {
+	background:url(../img/header.png);
+	background-position:center -1px;
+	background-repeat:no-repeat;
+	height:100px;
+	width:inherit;
+}
+
+/*--------------------------------------------------
+Contenuto pagina
+--------------------------------------------------*/
+.form-container {
+	height:120px;
+	width:168px;
+	position:absolute;
+  	left: 50%;
+  	top: 0%;
+  	margin-left: -84px;
+  	margin-top: 270px; /* -(form-container.height)+header.height */
+}
+
+.form-container .access-label {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	width:168px;
+	height:24px;
+	padding:0;
+	margin:0;
+	text-align:center;
+}
+
+.form-container .access-input {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	width:154px;
+	height:12px;
+	color:#168BC8;
+	border:1px #D9DADB;
+	border-style:solid;
+	box-shadow:none;
+	padding:6px 6px 4px 6px;
+	margin:8px 0px 0px 0px;
+	text-align:left;
+}
+
+.form-container .access-btn {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	width:168px;
+	height:24px;
+	border:none;
+	border-style:none;
+	box-shadow:none;
+	padding:0px;
+	margin:8px 0px 0px 0px;
+	background:#138CD2;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background: #138CD2;
+	-webkit-border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	border-radius: 4px 4px 4px 4px;
+	color: #FFFFFF;
+	text-align:center;
+}
+
+
+
+/*--------------------------------------------------
+mediaquery
+--------------------------------------------------*/
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
+
+/* Medium desktop */
+@media (min-width: 980px) and (max-width: 1199px) {
+	
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+	
+}
+
+/* Landscape phones and down */
+@media (max-width: 767px) {
+	body {padding:0;}
+	.container {padding:0 20px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

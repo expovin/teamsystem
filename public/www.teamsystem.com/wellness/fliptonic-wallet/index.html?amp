@@ -1,0 +1,598 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Scala il credito al bar, negli shop interni al tuo centro sportivo e dovunque sia utile fare una vendita di prodotti in modo semplice veloce e sicuro scalando gli importi dal borsellino dell&#039;utente." />
+<meta name="twitter:title" content="FlipTonic Wallet - APP per vendere i prodotti al bar ed in mobilità e scalare il credito dalla tessera del cliente | Teamsystem Wellness" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="FlipTonic Wallet - APP per vendere i prodotti al bar ed in mobilità e scalare il credito dalla tessera del cliente | Teamsystem Wellness" />
+<meta property="og:description" content="Scala il credito al bar, negli shop interni al tuo centro sportivo e dovunque sia utile fare una vendita di prodotti in modo semplice veloce e sicuro scalando gli importi dal borsellino dell&#039;utente." />
+<meta property="og:url" content="//www.teamsystem.com/wellness/fliptonic-wallet/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+	<title>FlipTonic Wallet - APP per vendere i prodotti al bar ed in mobilità e scalare il credito dalla tessera del cliente | Teamsystem Wellness</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/fliptonic-wallet/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/fliptonic-wallet\/","headline":"FlipTonic Wallet &#8211; APP per vendere i prodotti al bar ed in mobilit\u00e0 e scalare il credito dalla tessera del cliente","datePublished":"2018-10-08T14:27:28+00:00","dateModified":"2018-10-09T20:05:51+00:00","author":{"@type":"Person","name":"Roberto Di Giacomo"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/10\/flusso-operativo.png","width":1200,"height":166},"description":"Scala il credito al bar, negli shop interni al tuo centro sportivo e dovunque sia utile fare una vendita di prodotti in modo semplice veloce e sicuro scalando gli importi dal borsellino dell'utente."}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6e7c31b{padding-top:3%;padding-bottom:3%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ee3daf4{background-color:#fff}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-5443cfc{color:#000}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-bd56abc{height:25px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-676b9ce{padding-top:1%;padding-bottom:1%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-3094cce{background-color:#f9f9f9}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-0cdff6c{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-15.37.59.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-0f7ff64{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-15.38.28.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e75c90d{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-15.39.00.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-46fdfab{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2015/12/Schermata-2017-06-19-alle-17.58.28.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-8c041ef{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/02/foto-profilo-PNG-203x300.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a6dc6bb{padding-top:3%;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b69ffa6{background-color:#50b4fc}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-7bf3d78{font-size:20px;color:rgba(255,255,255,.8);line-height:36px;text-align:center;font-family:Roboto;font-weight:400;font-style:normal}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-1561554{padding-top:0px;padding-bottom:80px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-c47187a{margin-top:10px;margin-right:10px;margin-bottom:10px;margin-left:10px}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">FlipTonic Wallet &#8211; APP per vendere i prodotti al bar ed in mobilità e scalare il credito dalla tessera del cliente</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		
+		<div id="fws_5c36140e12d26" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-6e7c31b"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="#ffffff" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.95" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-split-heading"><div class="heading-line"> <div><h2><span class="amp-wp-5443cfc">FlipTonic Wallet</span></h2> </div> </div></div><div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="724" width="1200" data-animation="fade-in-from-right" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/fliptonicwallet.jpg" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/fliptonicwallet.jpg 1200w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/fliptonicwallet-300x181.jpg 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/fliptonicwallet-768x463.jpg 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/fliptonicwallet-1024x618.jpg 1024w" sizes="100vw" alt="FlipTonic Wallet" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="top" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c36140e134f9" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-5443cfc">Fliptonic Wallet è l’APP che ti permette di scalare il credito prepagato del tuo cliente al bar, negli shop interni al tuo centro sportivo, nelle salette dei trattamenti e dovunque sia utile fare una vendita di prodotti.</span></p>
+<p><span class="amp-wp-5443cfc">Il tutto in modo rapido, sicuro e facile scalando gli importi dal borsellino del credito dell’utente.</span></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c36140e137d5" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="nectar-split-heading"><div class="heading-line"> <div><span class="amp-wp-5443cfc">Con FlipTonic Wallet è possibile:</span> </div> </div><div class="heading-line"> <div><ul></ul></div> </div><div class="heading-line"> <div><li><span class="amp-wp-5443cfc">Scegliere quali prodotti vendere in ogni postazione Wallet</span></li> </div> </div><div class="heading-line"> <div><li><span class="amp-wp-5443cfc">Aggiungerli al conto con semplici clic</span></li> </div> </div><div class="heading-line"> <div><li><span class="amp-wp-5443cfc">Avvicinare la tessera o bracciale del cliente</span></li> </div> </div><div class="heading-line"> <div><li><span class="amp-wp-5443cfc">Verificare il credito e procedere al pagamento</span></li> </div> </div><div class="heading-line"> <div> </div> </div></div>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="675" width="1200" data-animation="fade-in-from-right" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/appinmano.jpg" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/appinmano.jpg 1200w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/appinmano-300x169.jpg 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/appinmano-768x432.jpg 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/appinmano-1024x576.jpg 1024w" sizes="100vw" alt="FlipTonic Wallet - APP" layout="intrinsic"></amp-img></div></div>
+		</div> 
+	</div>
+	</div> 
+</div></div><div class="divider-wrap"><div class="divider amp-wp-bd56abc"></div></div><div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="166" width="1200" data-animation="fade-in-from-bottom" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/flusso-operativo.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/10/flusso-operativo.png 1200w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/flusso-operativo-300x42.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/flusso-operativo-768x106.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2018/10/flusso-operativo-1024x142.png 1024w" sizes="100vw" alt="FlipTonic Wallet - flusso operativo" layout="intrinsic"></amp-img></div></div><div class="divider-wrap"><div class="divider amp-wp-bd56abc"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-5443cfc">Per usare al meglio FlipTonic Wallet, puoi richiedere il lettore <strong>FlipTonic Wi-Fi,</strong> uno strumento affidabile e veloce nella lettura dei badge, oppure utilizzare uno smartphone<sup>*</sup> con sistema operativo Android dotato di NFC.</span></p>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div class="divider amp-wp-bd56abc"></div></div><div class="nectar-cta " data-alignment="left" data-text-color="custom"> <h6 class="amp-wp-5443cfc"> <span class="text"></span> <span class="link_wrap"><a class="link_text" href="//www.teamsystem.com/wellness/richiesta-info-fliptonic/">RICHIEDI INFORMAZIONI per FlipTonic Wallet<span class="arrow"></span></a></span> </h6> </div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c36140e144f9" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-676b9ce"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-3094cce" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<a class="nectar-button large extra-color-2 has-icon regular-button" target="_blank" href="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/FlipTonic-TeamSystem.pdf" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scarica la brochure di FlipTonic</span><i class="icon-button-arrow"></i></a>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c36140e14845" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content standard_section    amp-wp-6e7c31b"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="col span_12 testimonial_slider " data-color="extra-color-1-dark" data-rating-color="accent-color" data-add-border="" data-autorotate="" data-style="multiple_visible"><div class="slides"><blockquote> <div class="image-icon has-bg amp-wp-0cdff6c">“</div> <p>Poter inviare email a tutti i contatti presenti nel programma è una cosa molto utile. <span class="bottom-arrow"></span></p><span>Marco</span><span class="title">Fit-express, Latina</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-0f7ff64">“</div> <p>L’interfaccia è semplice e gradevole, il calendario intuitivo e il sistema è stabile ed affidabile. <span class="bottom-arrow"></span></p><span>Paolo Maistri</span><span class="title">Club Energy, Trento</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-e75c90d">“</div> <p>Grande disponibilità ed efficienza nell'effettuare modifiche per le nostre esigenze sempre in divenire. <span class="bottom-arrow"></span></p><span>Federica</span><span class="title">Officina del movimento, Abano Terme</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-46fdfab">“</div> <p>Eccezionale: una vera rivoluzione nel mondo dei gestionali per palestre. Facile, intuitivo, veloce e completissimo… <span class="bottom-arrow"></span></p><span>Giovanni Andolfato</span><span class="title">Hellofit, Vicenza</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-8c041ef">“</div> <p>FlipTonic è un prodotto intuitivo e di facile utilizzo, anche per chi non ha grande familiarità con i prodotti software. <span class="bottom-arrow"></span></p><span>Barbara Talini</span><span class="title">Zer03 Fitness Club / CrosFit Deed - Proprietaria, Coach ed Allieva</span></blockquote></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="flipcall" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-a6dc6bb"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-b69ffa6" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.8" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-1 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-10 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-split-heading"><div class="heading-line"> <div><h2>Create la palestra</h2> </div> </div><div class="heading-line"> <div><h2>dei vostri sogni</h2> </div> </div></div>
+	<div id="fws_5c36140e1549a" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="300">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h5 class="vc_custom_heading vc_custom_1504882646468 amp-wp-7bf3d78">Cambia il modo di gestire la tua palestra con la soluzione cloud pensata per facilitare le attività quotidiane di titolari, gestori, consulenti, istruttori e clienti dei centri sportivi</h5>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c36140e157ed" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-1561554"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="450">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<a class="nectar-button large see-through-2  amp-wp-c47187a" href="//teamsystem.com/wellness/richiedi-demo-fliptonic/" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000"><span>Prova Demo</span></a><a class="nectar-button large regular extra-color-3  regular-button amp-wp-c47187a" href="//teamsystem.com/wellness/acquista-ora-FlipTonic/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Acquista Ora</span></a>
+		</div> 
+	</div>
+	</div> 
+</div></div><div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="495" width="1100" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip.png 1100w, //www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip-300x135.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip-768x346.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2015/12/flipflip-1024x461.png 1024w" sizes="100vw" alt="FlipTonic - Il gestionale per palestre e centri fitness" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c36140e15ce8" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-5443cfc"><sup>*</sup> verifica con i nostri tecnici la compatibilità dello smartphone</span></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.136 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:32:30 -->

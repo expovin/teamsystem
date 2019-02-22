@@ -1,0 +1,623 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Gentile Utente, in questa pagina troverai le informazioni relative alle modalità di gestione dei tuoi..." />
+<meta name="twitter:title" content="Privacy | TeamSystem Wellness" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Privacy | TeamSystem Wellness" />
+<meta property="og:description" content="Gentile Utente, in questa pagina troverai le informazioni relative alle modalità di gestione dei tuoi..." />
+<meta property="og:url" content="//www.teamsystem.com/wellness/privacy/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+	<title>Privacy | TeamSystem Wellness</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/privacy/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/privacy\/","headline":"Privacy","datePublished":"2017-06-16T07:58:08+00:00","dateModified":"2018-10-19T14:19:08+00:00","author":{"@type":"Person","name":"Habra"},"image":false}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6a130b8{height:9357px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a58498d{height:96px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a63f70d{width:161.063px;height:96px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-68c404a{width:167.063px;height:96px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-7f7be8b{width:165.563px;height:96px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e9aee6a{width:164.063px;height:96px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-c232fc2{height:1117px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-10d376e{width:161.063px;height:1117px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-d3a2d5d{width:167.063px;height:1117px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-42e0744{width:165.563px;height:1117px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-413378b{width:164.063px;height:1117px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-72303c1{height:1156px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-251f75f{width:161.063px;height:1156px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e42c74a{width:167.063px;height:1156px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-036c9c7{width:165.563px;height:1156px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-36c0d56{width:164.063px;height:1156px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-8e0ab8c{height:1227px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-99a85f0{width:161.063px;height:1227px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-aea161d{width:167.063px;height:1227px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6ad223e{width:165.563px;height:1227px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-00aa64d{width:164.063px;height:1227px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6f85d77{height:1102px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-56079d0{width:161.063px;height:1102px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-133c801{width:167.063px;height:1102px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-66033fa{width:165.563px;height:1102px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-92dd6ad{width:164.063px;height:1102px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6be1c96{height:1125px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-8b70223{width:161.063px;height:1125px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-33e12f2{width:167.063px;height:1125px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-4852a7e{width:165.563px;height:1125px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-fe0a6ab{width:164.063px;height:1125px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ae1c466{height:1108px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-91a16ac{width:161.063px;height:1108px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-1a522da{width:167.063px;height:1108px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-bfb2c10{width:165.563px;height:1108px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-f25da82{width:164.063px;height:1108px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-fe3f5cc{font-weight:400}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">Privacy</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		<p>Gentile Utente,<br>
+in questa pagina troverai le informazioni relative alle modalità di gestione dei tuoi dati personali attraverso il nostro sito.<br>
+Forniamo questa informativa non solo per adempiere agli obblighi di legge in materia di protezione dei dati personali previsti dal Regolamento (UE) 2016/679 o “Regolamento”, ma anche perché crediamo che la tutela dei dati personali sia un valore fondamentale della nostra attività di impresa e vogliamo fornirti ogni informazione che possa aiutarti a tutelare la tua privacy e a controllare l’utilizzo che viene fatto dei tuoi dati in relazione all’esperienza di navigazione sul nostro sito.</p>
+<p>Ti ricordiamo che il trattamento dei dati personali effettuato in relazione ai servizi/prodotti di InforYou S.r.l. è descritto nelle informative specifiche che saranno rilasciate al momento della sottoscrizione del contratto o che saranno riportate nelle sezioni del sito opportunamente evidenziate.</p>
+<p><strong>Titolare del trattamento e Responsabile della Protezione dei Dati</strong></p>
+<p>Il Titolare del trattamento dei dati personali, cioè chi assume le decisioni in merito alle modalità e alle finalità del trattamento, è InforYou S.r.l. (di seguito la “Società”), con C.F. e P.I. 03783140266 che ha sede a Castello di Godego (TV), via Trento 3/A. Il Titolare ha nominato un Responsabile delle Protezione dei Dati, che è la figura incaricata della sorveglianza sull’osservanza del Regolamento e che può essere contattato all’indirizzo: <a href="mailto:privacy@teamsystem.com">privacy@teamsystem.com</a>, oppure indirizzando la comunicazione a</p>
+<p>InforYou S.r.l.</p>
+<p>C/o TeamSystem S.p.A.</p>
+<p>Via Sandro Pertini 88</p>
+<p>61122 – Pesaro</p>
+<p>Tel: 0721/42661</p>
+<p>c.a.: Responsabile della Protezione dei Dati</p>
+<p>Nel contattarci, l’Interessato dovrà accertarsi di includere il proprio nome, email/indirizzo postale e/o numero/i di telefono, nonché la società del Gruppo TeamSystem a cui si riferisce la richiesta, per essere sicuro che la comunicazione possa essere gestita correttamente.</p>
+<p><strong>Informazioni sui trattamenti dei dati personali</strong></p>
+<p>Quando visiti questo sito, ovvero quando compili i form online per procedere all’acquisto di prodotti/servizi della Società ovvero per richiedere supporto e assistenza, o ancora quando accedi all’area riservata del sito, possiamo trattare i seguenti dati personali (cioè dati relativi a persone identificate o identificabili). Per ciascuna tipologia di dato troverai le informazioni relative alla finalità di trattamento, alla natura obbligatoria o facoltativa del conferimento dei dati forniti, alle modalità e al luogo del trattamento, alla base giuridica del trattamento, nonché dei soggetti a cui i dati possono essere comunicati ed il relativo periodo di conservazione.</p>
+<p> </p>
+<table width="1195" class="amp-wp-6a130b8"><tbody><tr class="amp-wp-a58498d"><td class="amp-wp-a63f70d"><strong>Dati personali raccolti</strong></td>
+<td class="amp-wp-68c404a"><strong>Finalità del trattamento</strong></td>
+<td class="amp-wp-68c404a"><strong>Conferimento dei dati obbligatorio o opzionale</strong></td>
+<td class="amp-wp-7f7be8b"><strong>Modalità e luogo di trattamento</strong></td>
+<td class="amp-wp-e9aee6a"><strong>Base giuridica del trattamento dei dati</strong></td>
+<td class="amp-wp-e9aee6a"><strong>Destinatari dei dati</strong></td>
+<td class="amp-wp-7f7be8b"><strong>Periodo di conservazione dei dati</strong></td>
+</tr><tr class="amp-wp-c232fc2"><td class="amp-wp-10d376e">Nome, cognome, username, password, codice cliente</td>
+<td class="amp-wp-d3a2d5d">·  Registrazione account
+<p>·  Fornirti supporto nel recupero delle credenziali di accesso</p>
+<p>·  Eseguire le tue richieste (es. richiesta di assistenza e supporto, formulazione di preventivi)</p>
+<p>·  Adempiere agli obblighi previsti dalla normativa vigente</p>
+<p>·  Unitamente ai dati di contatto eventualmente rilasciati (si veda sotto) e con il tuo consenso, l’invio di messaggi promozionali sui prodotti e servizi della Società e, eventualmente, di altre società del Gruppo Teamsystem.</p>
+<p>·  Con il tuo consenso, unitamente alle ulteriori informazioni sotto riportate, attività di profilazione e analisi dell’esperienza di navigazione per finalità di marketing e promozionali</p></td>
+<td class="amp-wp-d3a2d5d">·  Obbligatorio per la creazione e la gestione dell’account
+<p>·  Obbligatorio per l’esecuzione del servizio richiesto</p>
+<p>·  Salvo il caso in cui il dato sia necessario per altre finalità, il rilascio dei dati per l’invio di messaggi promozionali sui prodotti e servizi della Società e, eventualmente, di altre società del Gruppo o per attività di profilazione è opzionale e potrà essere omesso.</p></td>
+<td class="amp-wp-42e0744">I trattamenti connessi all’attività di questo sito hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto della Società all’interno dell’Unione Europea.
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati.</p>
+<p>Quando necessario, la Società si avvale per la prestazione dei servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.</p>
+<p> Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti e accessi non autorizzati.</p></td>
+<td class="amp-wp-413378b">·  Per quanto riguarda le finalità collegate alla gestione dell’account e all’esecuzione del servizi richiesti, i tuoi dati sono trattati sulla base della necessità di eseguire la tua richiesta.
+<p>·  Per le finalità di invio di messaggi promozionali e/o per finalità di profilazione, i dati sono trattati solo se hai espresso il tuo consenso specifico.</p>
+<p> </p></td>
+<td class="amp-wp-413378b">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione e l’assistenza tecnica dell’account, del sito e dei servizi offerti.
+<p>·  Inoltre, in caso di consenso al trattamento dei dati per finalità di marketing, ed eventuale profilazione, i dati potranno essere trattati anche da agenzie marketing, ricerche di mercato o altre società del Gruppo TeamSystem, come responsabili del trattamento, per finalità relative alla gestione e l’invio di newsletter e informazioni commerciali via email, vendita diretta, ricerche di mercato o altre attività promozionali e per l’analisi dei profili.</p>
+<p> </p></td>
+<td class="amp-wp-42e0744">·  Per il periodo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. I dati potranno essere conservati fino a 10 anni a fini civilistici, fiscali e contabili.
+<p>·  In caso di trattamento dei dati per finalità di marketing e/o profilazione, i dati sono conservati sino a revoca del consenso. I dati di profilazione saranno conservati per un periodo massimo di 24 mesi o fino al diverso termine massimo previsto per legge.</p></td>
+</tr><tr class="amp-wp-72303c1"><td class="amp-wp-251f75f">Informazioni per la fatturazione e dati di pagamento (P. IVA, numero di carta di credito, codice fiscale, indirizzo, eventualmente la ragione sociale)</td>
+<td class="amp-wp-e42c74a">·  Gestione fiscale e contabile delle transazioni
+<p>·  Eseguire le tue richieste (es formulazione di un preventivo, vendita/acquisto di un prodotto/servizio)</p>
+<p>·  I soggetti terzi che offrono il servizio di pagamento hanno accesso soltanto a limitate informazioni riguardanti questi dati</p></td>
+<td class="amp-wp-e42c74a">·  Obbligatorio per il perfezionamento dell’acquisto e la fornitura del servizio/prodotto richiesto
+<p> </p></td>
+<td class="amp-wp-036c9c7">I trattamenti connessi all’attività di questo sito hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto della Società all’interno dell’Unione Europea.
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati.</p>
+<p> </p>
+<p>Quando necessario, la Società si avvale per la prestazione di servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.</p>
+<p>Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti e accessi non autorizzati.</p></td>
+<td class="amp-wp-36c0d56">I tuoi dati sono trattati sulla base della necessità di eseguire il contratto di acquisto.
+<p> </p></td>
+<td class="amp-wp-36c0d56">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione tecnica dell’account e del sito.
+<p> </p></td>
+<td class="amp-wp-036c9c7">·  Per il periodo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. I dati potranno essere conservati fino a 10 a fini civilistici, fiscali e contabili.
+<p> </p></td>
+</tr><tr class="amp-wp-8e0ab8c"><td class="amp-wp-99a85f0">Indirizzo email</td>
+<td class="amp-wp-aea161d">·  Registrazione account
+<p>·  Fornirti supporto per il recupero delle credenziali di accesso</p>
+<p>·  Eseguire le tue richieste (es. richiesta di assistenza e supporto, formulazione di preventivi)</p>
+<p>·  Invio di informazioni e altre attività necessarie alla conclusione o all’esecuzione di contratti da te sottoscritti</p>
+<p>·  Invio di newsletter in caso di tua registrazione al relativo servizio</p>
+<p>·  Con il tuo consenso, invio di informazioni commerciali anche via email, per proporre prodotti o servizi della Società e di altre società del Gruppo Teamsystem, per condurre indagini sul grado di soddisfazione della clientela, ricerche di mercato, attività promozionali in genere</p>
+<p>·  Con il tuo consenso, attività di profilazione e analisi dell’esperienza di navigazione per finalità di marketing e promozionali</p>
+<p> </p></td>
+<td class="amp-wp-aea161d">·  Obbligatorio per la creazione dell’account e la gestione e l’esecuzione delle tue richieste
+<p>·  Opzionale per l’attività di profilazione e per l’invio di messaggi promozionali sui prodotti e servizi di TeamSystem e, eventualmente, di altre società del Gruppo.</p>
+<p> </p></td>
+<td class="amp-wp-6ad223e">I trattamenti connessi all’attività di questo sito hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto della Società all’interno dell’Unione Europea. Quando necessario, la Società si avvale per la prestazione dei servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti e accessi non autorizzati.</p></td>
+<td class="amp-wp-00aa64d">·  Per quanto riguarda le finalità collegate alla gestione dell’account e all’esecuzione dei servizi richiesti i tuoi dati sono trattati sulla base della necessità di eseguire la tua richiesta.
+<p>·  Per quanto riguarda le finalità di profilazione e/o invio di messaggi promozionali, i dati sono trattati solo se hai espresso il tuo consenso specifico.</p></td>
+<td class="amp-wp-00aa64d">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione e l’assistenza tecnica dell’account,  del sito e dei servizi offerti, ovvero altre società come le società che gestiscono i pagamenti effettuati tramite il sito e le società d spedizione.
+<p>·  Inoltre, in caso di consenso al trattamento dei dati per finalità di marketing, ed eventuale profilazione, i dati potranno essere trattati anche da agenzie marketing, ricerche di mercato o altre società del Gruppo TeamSystem, come responsabili del trattamento, per finalità relative alla gestione e l’invio di newsletter e informazioni commerciali via email, vendita diretta, ricerche di mercato o altre attività promozionali e per l’analisi dei profili.</p>
+<p> </p></td>
+<td class="amp-wp-6ad223e">·  .Per il periodo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. I dati potranno essere conservati fino a 10 a fini civilistici, fiscali e contabili.
+<p>·  In caso di trattamento dei dati per finalità di marketing e/o profilazione, i dati sono conservati sino a revoca del consenso. I dati di profilazione saranno conservati per un periodo massimo di 24 mesi o fino al diverso termine massimo previsto per legge.</p></td>
+</tr><tr class="amp-wp-6f85d77"><td class="amp-wp-56079d0">Numero di telefono</td>
+<td class="amp-wp-133c801">·  Gestione della richiesta inviata dall’utente
+<p>·  Consentire la verifica dell’account</p>
+<p>·  Aiuto nel recupero dell’account (se previsto)</p>
+<p>·  Eseguire le tue richieste (es. richiesta di assistenza e supporto, formulazione di preventivi)</p>
+<p>·  Con il tuo consenso, invio di informazioni commerciali anche via email, per proporre prodotti o servizi della Società e di altre società del Gruppo Teamsystem, per condurre indagini sul grado di soddisfazione della clientela, ricerche di mercato, attività promozionali in genere</p>
+<p> </p></td>
+<td class="amp-wp-133c801">·  Obbligatorio per gestione e l’esecuzione della tua richiesta
+<p>·  Opzionale per l’invio di messaggi promozionali sui prodotti e servizi di TeamSystem e, eventualmente, di altre società del Gruppo.</p>
+<p> </p></td>
+<td class="amp-wp-66033fa">I trattamenti connessi all’attività di questo sito hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto della Società all’interno dell’Unione Europea.
+<p>Quando necessario, la Società si avvale per la prestazione dei servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.</p>
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti e accessi non autorizzati.</p></td>
+<td class="amp-wp-92dd6ad">·  Per quanto riguarda le finalità collegate alla gestione dell’account e all’esecuzione dei servizi richiesti, i tuoi dati sono trattati sulla base della necessità di eseguire la tua richiesta.
+<p>·  Per quanto riguarda le finalità di invio di messaggi promozionali, i dati sono trattati solo se hai espresso il tuo consenso specifico.</p></td>
+<td class="amp-wp-92dd6ad">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione e l’assistenza tecnica dell’account,  del sito e dei servizi offerti.
+<p>·  Inoltre, in caso di consenso al trattamento dei dati per finalità di marketing, i dati potranno essere trattati anche da agenzie marketing, ricerche di mercato o altre società del Gruppo TeamSystem, come responsabili del trattamento, per finalità relative alla gestione e l’invio di newsletter e informazioni commerciali via email, vendita diretta, ricerche di mercato o altre attività promozionali e per l’analisi dei profili.</p>
+<p> </p></td>
+<td class="amp-wp-66033fa">·  Per il periodo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. I dati potranno essere conservati fino a 10 a fini civilistici, fiscali e contabili.
+<p>In caso di trattamento dei dati per finalità di marketing e/o profilazione, i dati sono conservati sino a revoca del consenso o fino al diverso termine massimo previsto per legge.</p></td>
+</tr><tr class="amp-wp-6be1c96"><td class="amp-wp-8b70223">Recapiti postali</td>
+<td class="amp-wp-33e12f2">·  Gestione della richiesta di informazioni
+<p>·  Eseguire le tue richieste (es. richiesta di assistenza e supporto, formulazione di preventivi, acquisto/vendita di prodotti/servizi)</p>
+<p>·  Con il tuo consenso, invio di informazioni commerciali anche via email, per proporre prodotti o servizi della Società e di altre società del Gruppo Teamsystem, per condurre indagini sul grado di soddisfazione della clientela, ricerche di mercato, attività promozionali in genere</p>
+<p> </p></td>
+<td class="amp-wp-33e12f2">·  Obbligatorio per gestione e l’esecuzione della tua richiesta
+<p>·  Opzionale per l’invio di messaggi promozionali sui prodotti e servizi di TeamSystem e, eventualmente, di altre società del Gruppo</p>
+<p> </p></td>
+<td class="amp-wp-4852a7e">I trattamenti connessi ai servizi di questo sito hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto della Società all’interno dell’Unione Europea. Quando necessario, la Società si avvale per la prestazione dei servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti ed accessi non autorizzati.</p></td>
+<td class="amp-wp-fe0a6ab">·  Per quanto riguarda le finalità collegate alla gestione dell’account e l’esecuzione dei servizi richiesti, i tuoi dati sono trattati sulla base della necessità di eseguire la tua richiesta.
+<p>·  Per quanto riguarda le finalità di invio di messaggi promozionali, i dati sono trattati solo se hai espresso il tuo consenso specifico.</p></td>
+<td class="amp-wp-fe0a6ab">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione e l’assistenza tecnica dell’account,  del sito e dei servizi offerti, ovvero altre società come le società che gestiscono i pagamenti effettuati tramite il sito e le società d spedizione
+<p>·  Inoltre, in caso di consenso al trattamento dei dati per finalità di marketing, i dati potranno essere trattati anche da agenzie marketing, ricerche di mercato o altre società del Gruppo TeamSystem, come responsabili del trattamento, per finalità relative alla gestione e l’invio di newsletter e informazioni commerciali via email, vendita diretta, ricerche di mercato o altre attività promozionali e per l’analisi dei profili.</p>
+<p> </p></td>
+<td class="amp-wp-4852a7e">·  Per il periodo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. I dati potranno essere conservati fino a 10 a fini civilistici, fiscali e contabili.
+<p>In caso di trattamento dei dati per finalità di marketing e/o profilazione, i dati sono conservati sino a revoca del consenso o fino al diverso termine massimo previsto per legge.</p></td>
+</tr><tr class="amp-wp-6f85d77"><td class="amp-wp-56079d0">Indirizzo IP e dati di navigazione</td>
+<td class="amp-wp-133c801">·  Navigazione sul sito
+<p>·  Installazione di cookie tecnici/di sessione per migliorare le funzionalità del sito</p>
+<p>·  Con il tuo consenso, invio di informazioni commerciali.</p>
+<p>·  Con il tuo consenso, attività di profilazione e analisi dell’esperienza di navigazione per finalità di marketing e promozionali</p></td>
+<td class="amp-wp-133c801">·  Obbligatorio per visitare il sito ed accedere alle varie funzionalità del sito
+<p>·  Opzionale per l’attività di profilazione e/o l’invio di messaggi promozionali sui prodotti e servizi di TeamSystem e, eventualmente, di altre società del Gruppo.</p>
+<p> </p></td>
+<td class="amp-wp-66033fa">I trattamenti connessi ai servizi di questo sito e dello store hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto della Società all’interno dell’Unione Europea.
+<p>Quando necessario, la Società si avvale per la prestazione dei servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.</p>
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti ed accessi non autorizzati.</p></td>
+<td class="amp-wp-92dd6ad">·  I tuoi dati sono trattati sulla base della necessità di fornirti gli strumenti necessari per visitare il sito ed accedere alle funzionalità messe a disposizione.
+<p>·  Per quanto riguarda le finalità di invio di messaggi promozionali e di profilazione, i dati sono trattati solo se hai espresso il tuo consenso specifico.</p>
+<p> </p></td>
+<td class="amp-wp-92dd6ad">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione e l’assistenza tecnica dell’account, del sito e dei servizi offerti.
+<p>·  Inoltre, in caso di consenso al trattamento dei dati per finalità di marketing, ed eventuale profilazione, i dati potranno essere trattati anche da agenzie marketing, ricerche di mercato o altre società del Gruppo TeamSystem, come responsabili del trattamento, per finalità relative alla gestione e l’invio di newsletter e informazioni commerciali via email, vendita diretta, ricerche di mercato o altre attività promozionali e per l’analisi dei profili.</p>
+<p> </p></td>
+<td class="amp-wp-66033fa">·  Per la durata della sessione e l’intera durata dell’utilizzo del sito. 
+<p>·  In caso di trattamento dei dati per finalità di marketing e/o profilazione, i dati sono conservati sino a revoca del consenso. I dati di profilazione saranno conservati per un periodo massimo di 24 mesi o fino al diverso termine massimo previsto per legge.</p></td>
+</tr><tr class="amp-wp-ae1c466"><td class="amp-wp-91a16ac">Dati relativi ai prodotti licenziati e/o servizi sottoscritti, dati inseriti nei messaggi uniti alla richesta di assistenza</td>
+<td class="amp-wp-1a522da">·  Gestione delle richieste di assistenza e di informazioni/ contatto
+<p>·  Con il tuo consenso, invio di informazioni commerciali anche via email, per proporre prodotti o servizi della Società e di altre società del Gruppo Teamsystem, per condurre indagini sul grado di soddisfazione della clientela, ricerche di mercato, attività promozionali in genere</p>
+<p>·   Con il tuo consenso, attività di profilazione e analisi delle esigenze e propensioni di acquisto della clientela, e delle modalità di utilizzo dei servizi per anticipare le esigenze della clientela e adeguare ad esse i nostri prodotti e servizi</p></td>
+<td class="amp-wp-1a522da">·  Obbligatorio per gestione della tua richiesta
+<p>·  Opzionale per l’attività di profilazione e/o l’invio di messaggi promozionali sui prodotti e servizi di TeamSystem e, eventualmente, di altre società del Gruppo</p>
+<p> </p></td>
+<td class="amp-wp-bfb2c10">I trattamenti connessi ai servizi di questo sito e dello store hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto di TeamSystem all’interno dell’Unione Europea. Quando necessario, la Società si avvale per la prestazione dei servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti ed accessi non autorizzati.</p></td>
+<td class="amp-wp-f25da82">·  Per quanto riguarda le finalità collegate alla gestione dell’account, i tuoi dati sono trattati sulla base della necessità di eseguire la tua richiesta.
+<p>·  Per quanto riguarda le finalità di invio di messaggi promozionali e/o profilazione, i dati sono trattati solo se hai espresso il tuo consenso specifico.</p></td>
+<td class="amp-wp-f25da82">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione e l’assistenza tecnica dell’account,  del sito e dei servizi offerti.
+<p>·  Inoltre, in caso di consenso al trattamento dei dati per finalità di marketing, ed eventuale profilazione, i dati potranno essere trattati anche da agenzie marketing, ricerche di mercato o altre società del Gruppo TeamSystem, come responsabili del trattamento, per finalità relative alla gestione e l’invio di newsletter e informazioni commerciali via email, vendita diretta, ricerche di mercato o altre attività promozionali e per l’analisi dei profili.</p>
+<p> </p>
+<p> </p></td>
+<td class="amp-wp-bfb2c10">·  Per il periodo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. I dati potranno essere conservati fino a 10 a fini civilistici, fiscali e contabili.
+<p>·  In caso di trattamento dei dati per finalità di marketing e/o profilazione, i dati sono conservati sino a revoca del consenso. I dati di profilazione saranno conservati per un periodo massimo di 24 mesi o fino al diverso termine massimo previsto per legge.</p></td>
+</tr><tr class="amp-wp-6f85d77"><td class="amp-wp-56079d0">Contenuto delle richieste inviate attraverso il modulo di contatto (es. P.IVA, eventuale qualifica come rivenditore o cliente)</td>
+<td class="amp-wp-133c801">·  Gestione della richiesta
+<p>·  Con il tuo consenso, invio di informazioni commerciali anche via email, per proporre prodotti o servizi della Società e di altre società del Gruppo Teamsystem, per condurre indagini sul grado di soddisfazione della clientela, ricerche di mercato, attività promozionali in genere</p></td>
+<td class="amp-wp-133c801">·  Obbligatorio per gestione della tua richiesta
+<p>·  Opzionale per l’invio di messaggi promozionali sui prodotti e servizi di TeamSystem e, eventualmente, di altre società del Gruppo.</p>
+<p> </p>
+<p> </p></td>
+<td class="amp-wp-66033fa">I trattamenti connessi ai servizi web di questo sito hanno luogo presso la sede del Titolare e/o presso responsabili del trattamento che operano per conto della Società all’interno dell’Unione Europea.
+<p>Quando necessario, la Società si avvale per la prestazione dei servizi, anche di responsabili del trattamento collocati in Paesi terzi, verso i quali il trasferimento è ammesso dalla Commissione, o altri Paesi nel qual caso si impegna a garantire livelli di tutela e di salvaguardia adeguati anche di carattere contrattuale, ivi inclusa la stipula di clausole contrattuali tipo.</p>
+<p>I dati personali sono trattati prevalentemente con strumenti automatizzati. Specifiche misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti ed accessi non autorizzati.</p></td>
+<td class="amp-wp-92dd6ad">·  I tuoi dati sono trattati sulla base della necessità di eseguire la tua richiesta.
+<p>·  Per quanto riguarda le finalità di invio di messaggi promozionali, i dati sono trattati solo se hai espresso il tuo consenso specifico.</p>
+<p> </p></td>
+<td class="amp-wp-92dd6ad">·  I dati potrebbero essere comunicati ad altre società del Gruppo TeamSystem, che operano come responsabili del trattamento, per la gestione e l’assistenza tecnica dell’account,  del sito e dei servizi offerti.
+<p>·  Inoltre, in caso di consenso al trattamento dei dati per finalità di marketing, ed eventuale profilazione, i dati potranno essere trattati anche da agenzie marketing, ricerche di mercato o altre società del Gruppo TeamSystem, come responsabili del trattamento, per finalità relative alla gestione e l’invio di newsletter e informazioni commerciali via email, vendita diretta, ricerche di mercato o altre attività promozionali e per l’analisi dei profili.</p>
+<p> </p></td>
+<td class="amp-wp-66033fa">·  Per il periodo strettamente necessario a conseguire gli scopi per cui sono stati raccolti. I dati potranno essere conservati fino a 10 a fini civilistici, fiscali e contabili.
+<p>·  In caso di trattamento dei dati per finalità di marketing e/o profilazione, i dati sono conservati sino a revoca del consenso o nei termini massimi consentiti dalla legge.</p></td>
+</tr></tbody></table><p> </p>
+<p>Potrai trovare ulteriori informazioni relative al trattamento dei tuoi dati personali (ad esempio in relazione all’acquisto/sottoscrizione di prodotti o servizi della Società o di altre società del Gruppo che erogano i servizi resi disponibile sul portale, i servizi di customer care, ecc.) nelle informative che sono disponibili in altre sezioni del sito e che sono opportunamente evidenziate.</p>
+<p><strong><br>
+Diritti degli interessati</strong></p>
+<p>Potrai accedere in qualunque momento e gratuitamente ai tuoi dati, ricevere i tuoi dati personali elettronici in un formato strutturato e comunemente utilizzato leggibile meccanicamente e chiederci di trasmetterli a un altro titolare del trattamento (portabilità dei dati), nonché farli correggere, aggiornare, modificare o eliminare (fatte salve le eventuali eccezioni applicabili). Ti informiamo che le richieste di cancellazione dei dati sono subordinate agli obblighi vigenti di legge e di conservazione dei documenti che ci sono imposti da norme di legge o regolamentari.</p>
+<p>Laddove il trattamento dei tuoi dati si basa sul consenso, hai il diritto di revocare il consenso, in qualsiasi momento. Pertanto, hai sempre il diritto di opporti all’invio di newsletter e al trattamento dei dati per tutte o solo alcune delle finalità di marketing o commerciali. Potrai altresì aggiornare i dati forniti alla Società inviando una email all’indirizzo <em>privacy@tswellness.it</em>, oppure via posta a InforYou S.r.l., Via Trento 3/A, Castello di Godego (TV). Nel contattarci, dovrai accertarti di includere il proprio nome, indirizzo email, indirizzo postale e/o numero/i di telefono per essere sicuro che possiamo gestire correttamente la tua richiesta.</p>
+<p>Qualora ritenessi che vi sia un problema nelle modalità di gestione dei dati personali, avrai il diritto di presentare un reclamo presso l’autorità per la protezione dei dati dello Stato membro dove l’interessato risiede abitualmente ovvero nello Stato ove si è verificata la presunta violazione.</p>
+<p class="amp-wp-fe3f5cc"><strong><u>Responsabile della Protezione Dati –  Data Protection Officer (DPO),<a href="//teamsystem.com/wellness/dpo/">clicca qui</a></u></strong></p>
+<p><strong>Accordo principale per il trattamento di dati personale  – MASTER DATA PROCESSING AGREEMENT (MDPA) e DPA di InforYou e FlipTonic, <a href="//teamsystem.com/wellness/mdpa-dpa/">clicca qui</a></strong></p>
+<p> </p>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.100 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:32:04 -->

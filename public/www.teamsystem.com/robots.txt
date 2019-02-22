@@ -1,0 +1,11 @@
+user-agent: *
+disallow: /Ricerca_Press?*
+disallow: /Viewdoc.aspx
+disallow: /Communication/302/
+disallow: /aree_rivenditori
+disallow: /store/myarea/*
+Sitemap: https://www.teamsystem.com/Tools/Sitemap.aspx
+
+user-agent: *
+disallow: /store/facturacion-y-contabilidad
+disallow: /pdf/Informacion-Reviso.pdf

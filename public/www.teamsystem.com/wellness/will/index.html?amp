@@ -1,0 +1,781 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Will è un sistema per gestire il budget, monitorarlo ed aiutare a raggiungerlo. Guarda al futuro e converti in incassi i buoni propositi." />
+<meta name="twitter:title" content="WILL: il sistema di budgeting per palestre, piscine, centri sportivi e studi di personal trainer | TeamSystem Wellness" />
+<meta name="twitter:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/logo-WILL-TeamSystem.png" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="WILL: il sistema di budgeting per palestre, piscine, centri sportivi e studi di personal trainer | TeamSystem Wellness" />
+<meta property="og:description" content="Will è un sistema per gestire il budget, monitorarlo ed aiutare a raggiungerlo. Guarda al futuro e converti in incassi i buoni propositi." />
+<meta property="og:url" content="//www.teamsystem.com/wellness/will/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+<meta property="og:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/logo-WILL-TeamSystem.png" />
+	<title>WILL: il sistema di budgeting per palestre, piscine, centri sportivi e studi di personal trainer | TeamSystem Wellness</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/will/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<script type='text/javascript' src='//cdn.ampproject.org/v0/amp-form-0.1.js' async custom-element="amp-form"></script>
+<script type='text/javascript' src='//cdn.ampproject.org/v0/amp-mustache-0.2.js' async custom-template="amp-mustache"></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/will\/","headline":"WILL: il sistema di budgeting per palestre, piscine, centri sportivi e studi di personal trainer","datePublished":"2018-07-19T13:06:07+00:00","dateModified":"2018-10-08T13:54:54+00:00","author":{"@type":"Person","name":"Roberto Di Giacomo"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/07\/will-analisi-fliptonic.jpg","width":459,"height":400},"description":"Will \u00e8 un sistema per gestire il budget, monitorarlo ed aiutare a raggiungerlo. Guarda al futuro e converti in incassi i buoni propositi."}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-30b1365{color:#f90}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-5443cfc{color:#000}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-128b2f3{margin-top:12px;width:20% px;height:1px;margin-bottom:12px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-224b51a{display:none}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">WILL: il sistema di budgeting per palestre, piscine, centri sportivi e studi di personal trainer</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		
+		<div id="fws_5c3613bda38cd" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div id="corpo_1">
+<p><amp-img class="alignleft wp-image-8514 size-full amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/logo-WILL-TeamSystem.png" alt="WILL - Il sistema di budgeting" width="376" height="152" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/logo-WILL-TeamSystem.png 376w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/logo-WILL-TeamSystem-300x121.png 300w" sizes="(max-width: 376px) 100vw, 376px" layout="intrinsic"></amp-img></p>
+</div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda3bdc" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2 class="entry-title"><strong>Progetta, verifica e raggiungi gli obiettivi con <span class="amp-wp-30b1365">Will</span></strong></h2>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda3dca" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><amp-img class="alignleft wp-image-8516 size-full amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-cruscotto.png" alt="Will - Cruscotto budget" width="600" height="400" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-cruscotto.png 600w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-cruscotto-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" layout="intrinsic"></amp-img></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Will è un sistema cloud per <strong>programmare un budget d’incasso</strong> ed avere tutti gli strumenti che consentiranno a te e al tuo team di <strong>raggiungerlo</strong>.</p>
+<p>Pianifica un budget mensile, decidi le campagne che permetteranno di raggiungerlo, distribuiscilo al tuo team di vendita e monitora quotidianamente cosa accade.</p>
+<p>Will è uno strumento:</p>
+<ul><li><strong>Semplice</strong></li>
+<li><strong>Chiaro </strong></li>
+<li><strong>Condiviso</strong></li>
+</ul></div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda40eb" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<blockquote><p>
+Ascolta le esperienze e gli obiettivi raggiunti da chi già utilizza Will.
+</p></blockquote>
+
+		</div>
+	</div>
+<div class="nectar-video-box" data-color="default-accent-color" data-hover="defaut" data-shadow="none"><a href="//www.youtube.com/watch?v=89FX2ysQ9IM" class="full-link pp"></a><amp-img width="853" height="431" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Will_esperienze.png" class="attachment-full size-full amp-wp-enforced-sizes" alt="Will esperienze" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/Will_esperienze.png 853w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/Will_esperienze-300x152.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/Will_esperienze-768x388.png 768w" sizes="(max-width: 853px) 100vw, 853px" layout="intrinsic"></amp-img><a href="//www.youtube.com/watch?v=89FX2ysQ9IM" data-color="default" class="play_button_2 large nectar_video_lightbox pp"><span class="play"><span class="inner-wrap"><svg version="1.1" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewbox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve"><path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path></svg></span></span></a></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda4575" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span class="amp-wp-30b1365">Estendi la tua gestione</span></h2>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613bda4847" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-3-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="top" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Will si configura per la tua struttura. Infatti è possibile:</p>
+<ul><li>Definire il budget da raggiungere</li>
+<li>Definire il <strong>team di vendita</strong></li>
+<li>Scegliere i <strong>centri di ricavo</strong></li>
+<li>Associare le <strong>voci del listino</strong> ai centri di ricavo</li>
+<li>Selezionare i giorni del mese in cui non sarai operativo</li>
+<li>Analizzare quanto potrai incassare da <strong>rinnovi a scadenza</strong> e da <strong>tour spontanei</strong></li>
+<li><strong>Programmare le campagne</strong> che servono per raggiungere il budget pianificato</li>
+</ul></div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><amp-img class="alignleft size-full wp-image-8537 amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-obiettivi-teamsystem.jpg" alt="Will - Budgeting - TeamSystem WELLNESS" width="607" height="513" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-obiettivi-teamsystem.jpg 607w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-obiettivi-teamsystem-300x254.jpg 300w" sizes="(max-width: 607px) 100vw, 607px" layout="intrinsic"></amp-img></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda4bbf" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3><span class="amp-wp-30b1365"><span class="amp-wp-5443cfc">L’operatività di</span> Will</span></h3>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613bda4d9d" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="335" width="399" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-cruscotto-lancette.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-cruscotto-lancette.png 399w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-cruscotto-lancette-300x252.png 300w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><strong>Cruscotto</strong> con riepilogo dei risultati</p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="335" width="399" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/widget-home-will2.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/widget-home-will2.png 399w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/widget-home-will2-300x252.png 300w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><strong>Widget</strong> per monitorare in tempo reale</p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="335" width="399" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-esploso-dettaglio.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-esploso-dettaglio.png 399w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-esploso-dettaglio-300x252.png 300w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Analisi di <strong>dettaglio</strong></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda58ba" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-3-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="top" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Vendi i tuoi abbonamenti e pacchetti e verifica su Will i risultati ed anche direttamente dall’<strong>App Boss </strong>e dall’<strong>App Staff</strong>.</p>
+<p>Verifica nei grafici l’andamento della situazione giornaliera e mensile. </p>
+<p>Controlla <strong>gli scostamenti</strong> rispetto a quello che era il budget previsto.</p>
+<p>Un semplice indicatore ti farà capire immediatamente se stai andando bene o se è il momento di <strong>fare dei correttivi</strong>.</p>
+<p>Il responsabile potrà seguire l’andamento <strong>generale</strong> del centro o vedere come si sta comportando <strong>ogni singolo consulente</strong>.</p>
+<p>I membri dello staff di vendita invece vedranno ognuno la propria situazione, <strong>i propri obiettivi e i propri risultati.</strong></p>
+<p>Sia il titolare che lo staff di vendita potrà avere costantemente sotto controllo la situazione rispetto agli obiettivi. </p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="571" width="265" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-mobile-app-TeamSystem_small.jpg" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-mobile-app-TeamSystem_small.jpg 265w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-mobile-app-TeamSystem_small-139x300.jpg 139w" sizes="100vw" alt="Will mobile app TeamSystem" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda5d89" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="400" width="459" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-analisi-fliptonic.jpg" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-analisi-fliptonic.jpg 459w, //www.teamsystem.com/wellness/wp-content/uploads/2018/07/will-analisi-fliptonic-300x261.jpg 300w" sizes="100vw" alt="Will Analisi TeamSystem WELLNESS" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-3-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="top" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><strong>Analizza i risultati</strong></p>
+<p>Con i dati rielaborati da Will potrai approfondire i risultati per poter individuare:</p>
+<ul><li>le <strong>campagne</strong> che hanno funzionato bene e quali meno bene.</li>
+<li>da quali <strong>target</strong> si sono ottenuti i risultati sperati e quali invece non sono  stati all’altezza delle aspettative</li>
+</ul><p>Utilizzando  queste informazioni sarà possibile pianificare al meglio la costruzione dei budget successivi.</p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda6224" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Attivando il pacchetto <strong>FlipTonic Will</strong> si ottengono <strong>nr. 5 operatori aggiuntivi</strong> rispetto alla versione di <a href="//www.teamsystem.com/wellness/fliptonic/">FlipTonic</a> attiva e rispetto agli operatori aggiuntivi del pacchetto <a href="//www.teamsystem.com/wellness/fliptonic-club/">FlipTonic Club</a>.</p>
+
+		</div>
+	</div>
+<div class="divider-wrap"><div data-width="20%" data-animate="" data-animation-delay="" data-color="extra-color-gradient-1" class="divider-small-border amp-wp-128b2f3"></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Trasforma le <span class="amp-wp-30b1365">idee in azioni</span> concrete da raggiungere e misurare e vedrai <strong>convertire in incassi i buoni propositi</strong>.</h2>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613bda64a7" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    amp-wp-702acf3"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffffff" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>Richiedi subito maggiori informazioni</h3>
+
+		</div>
+	</div>
+<div role="form" class="wpcf7" id="wpcf7-f8550-o1" lang="it-IT" dir="ltr">
+<div class="screen-reader-response"></div>
+<form method="post" class="wpcf7-form cf7-style" novalidate="novalidate" action-xhr="//www.teamsystem.com/wellness/will/?amp&amp;_wp_amp_action_xhr_converted=1#wpcf7-f8550-o1" target="_top">
+<div class="amp-wp-224b51a">
+<input type="hidden" name="_wpcf7" value="8550"><input type="hidden" name="_wpcf7_version" value="5.1.1"><input type="hidden" name="_wpcf7_locale" value="it_IT"><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f8550-o1"><input type="hidden" name="_wpcf7_container_post" value="0"><input type="hidden" name="g-recaptcha-response" value=""></div>
+<p><label> Nome e Cognome*<br><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Azienda*<br><span class="wpcf7-form-control-wrap azienda"><input type="text" name="azienda" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Telefono/Cellulare*<br><span class="wpcf7-form-control-wrap telefono"><input type="tel" name="telefono" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Email*<br><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Messaggio*<br><span class="wpcf7-form-control-wrap messaggio"><textarea name="messaggio" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </label></p>
+<p id="text_privacy">È una questione di fiducia!<br>
+Leggi la nostra <a href="//www.teamsystem.com/wellness/privacy">informativa sulla privacy</a> e scegli i consensi che desideri rilasciare a TeamSystem WELLNESS. Potrai sempre cambiare idea scrivendo a <a href="mailto:privacy@tswellness.it">privacy@tswellness.it</a>.
+</p><p id="text_privacy">Vorremmo scriverti via e-mail o contattarti al telefono per aggiornarti su novità e offerte commerciali di TeamSystem WELLNESS.<br><span class="wpcf7-form-control-wrap acceptance"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">Sono d'accordo*</span></label></span></span></span><br>
+Vorremmo condividere i tuoi contatti con le altre società del Gruppo TeamSystem e con i suoi partner, per aggiornarti su novità e offerte commerciali.<br><span class="wpcf7-form-control-wrap condivisione"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="condivisione[]" value="Sono d'accordo"><span class="wpcf7-list-item-label">Sono d'accordo</span></span></span></span><br><input type="submit" value="Invia Richiesta" class="wpcf7-form-control wpcf7-submit"></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div><div submit-error=""><template type="amp-mustache">{{{error}}}</template></div></form></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.168 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:31:09 -->

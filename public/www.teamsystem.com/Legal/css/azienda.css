@@ -1,0 +1,66 @@
+.azienda { }
+.azienda .headline {font-size:36px; text-align:left; line-height:42px; margin:20px 0; font-weight:200; }
+
+
+.azienda .payoff {text-align:left; font-size:22px; font-weight:100; color:#0096d3; line-height:30px;}
+
+
+/*--------------------------------------------------
+Numeri
+--------------------------------------------------*/
+.azienda .numeri { }
+.azienda .numeri ul {padding: 0;}
+.azienda .numeri li:before {content:'';}
+.azienda .numeri li {list-style:none;display: inline-block;width: 16%;text-align: center;padding: 0 0.5%;vertical-align: top;} 
+.azienda .numeri span {font-size: 60px; font-weight:600; color: #0096d3;margin-bottom: 20px;display: inline-block;}
+.azienda .numeri span:after {width:30px; height:3px; background:#0096d3; content: ''; font-size:12px;display: block;margin: 0 auto;border: 0;text-decoration: none;}
+.azienda .numeri p {font-size:18px;line-height:22px;font-weight:200;}
+
+
+
+/*--------------------------------------------------
+Balloon
+--------------------------------------------------*/
+.azienda .balloon { }
+.azienda .balloon-box { background:#437DC0; background: linear-gradient(to right, #437DC0 0%, #599CD6 100%); padding: 20px 30px 30px; color: white;border-radius: 4px;font-size: 30px; line-height:1; position: relative;}
+.azienda .balloon small {font-size:14px; display:block;}
+.azienda .balloon .punta { position: absolute;right: -18px;top: 20px; fill:#599CD6; height:18px; width: 18px; }
+.azienda .balloon [class*="col-"]:nth-child(2)  .punta { left: -18px; right:initial; top: 20px; fill:#437DC0; transform:rotate(180deg); -ms-transform:rotate(180deg);
+    -webkit-transform:rotate(180deg); -moz-transform:rotate(180deg); -o-transform:rotate(180deg);}
+.azienda .balloon .bom-text { padding-top: 10px;}
+
+
+/*--------------------------------------------------
+Box
+--------------------------------------------------*/
+.boxAzienda { text-align:center; margin-bottom:20px; }
+.boxAzienda .title { font-size:24px; color:#0096d3; line-height:30px; font-weight:200; margin:20px 0; }
+.boxAzienda .txt { color:#1d1d1b; font-size:17px; text-align:left; }
+
+/*--------------------------------------------------
+Testo
+--------------------------------------------------*/
+.azienda .mail { font-size:18px;}
+.azienda .bom-text {font-size: 16px;font-weight: 500;line-height: 1.6;}
+.azienda .bom-text .row {margin-bottom:40px;}
+
+
+
+@media screen and (max-width: 1199px) {
+    .azienda .numeri span {font-size: 50px; margin-bottom: 20px;}
+    .azienda .numeri p {font-size: 17px;}
+}
+
+@media screen and (max-width: 991px) {
+    .azienda .numeri span {font-size: 40px; margin-bottom: 20px;}
+    .azienda .numeri p {font-size: 15px;}
+}
+
+
+@media screen and (max-width: 767px) {
+    .azienda .numeri li {width: 32%;}
+}
+
+@media screen and (max-width: 479px) {
+    .azienda .numeri li {width: 49%;}
+}

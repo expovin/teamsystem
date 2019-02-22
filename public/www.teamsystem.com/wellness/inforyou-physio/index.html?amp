@@ -1,0 +1,1119 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="La migliore soluzione software gestionale per centri benessere, centri fisioterapici, medici, estetici di TeamSystem Wellness" />
+<meta name="twitter:title" content="Physio, il gestionale per centri benessere, fisioterapici e medici estetici | TS" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Physio, il gestionale per centri benessere, fisioterapici e medici estetici | TS" />
+<meta property="og:description" content="La migliore soluzione software gestionale per centri benessere, centri fisioterapici, medici, estetici di TeamSystem Wellness" />
+<meta property="og:url" content="//www.teamsystem.com/wellness/inforyou-physio/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+	<title>Physio, il gestionale per centri benessere, fisioterapici e medici estetici | TS</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/inforyou-physio/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/inforyou-physio\/","headline":"InforYou Physio","datePublished":"2017-07-21T15:53:04+00:00","dateModified":"2018-07-05T08:38:20+00:00","author":{"@type":"Person","name":"Habra"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2017\/07\/physio_mac.png","width":1347,"height":1124},"description":"La migliore soluzione software gestionale per centri benessere, centri fisioterapici, medici, estetici di TeamSystem Wellness"}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-8b83f50{padding-top:13%;padding-bottom:13%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-97b335d{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/07/physio_sfondo.jpg");background-position:left top;background-repeat:no-repeat;background-color:#333}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a012aad{background-image:url("")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ac2246b{color:rgba(255,255,255,.74);text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-64cfd22{color:rgba(255,255,255,.7);text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-aceb4af{padding-top:8%;padding-bottom:4%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ee3daf4{background-color:#fff}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-d0371d4{color:#bbb}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-0ef1274{padding-top:0px;padding-bottom:3%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-fda39dc{padding-top:0px;padding-bottom:8%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-d3438d5{padding-top:10%;padding-bottom:5%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-3094cce{background-color:#f9f9f9}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-78beb92{font-size:16px;color:#000;line-height:32px;text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-58d7de9{color:#f36f53;text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-d8bf87e{margin-top:50px;width:120px;height:8px;margin-bottom:50px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-4632cff{color:#999}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-f1801bb{padding-top:5%;padding-bottom:5%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-1ace59b{padding-top:5%;padding-bottom:10%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6ab4335{color:#f36f53}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-adca58b{padding-top:15px;padding-bottom:25px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b60506b{color:#1e83ec}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-04edb07{color:rgba(0,0,0,.45)}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-974617b{padding-top:1%;padding-bottom:0%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-cf5c5aa{padding-top:7%;padding-bottom:6%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-97cad60{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/07/Luigi_Foto-300x225.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-62b0ea1{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/07/IMG-20170905-WA0000-300x281.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-9293659{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/07/Marco-247x300.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-6970dfc{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/07/IMG_3730-169x300.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-2322de9{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/07/AAA-logo-azzurro-CP-1-300x300.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-741fa43{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/07/FOTO-PAOLO-300x219.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-a3ebcdb{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/01/Claudia-Longo-Ekipe-Sport-300x257.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-dfb9c93{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/01/Vittorio-Bario-Hangar56-225x300.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-2901386{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/01/Logo-Gym-Republic-Club-300x198.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-503796a{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/01/Patricia-Cocciolo-Magneto-Wellness-300x300.jpg")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-eef28f2{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2018/01/Logo-Passion-Fitness-300x182.png")}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-dd983f8{padding-top:8%;padding-bottom:8%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-4983a5a{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/02/tsw_call.jpg");background-position:center center;background-repeat:no-repeat}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e59880a{font-size:52px;line-height:52px;text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-977d32f{height:10px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b77fa22{color:rgba(255,255,255,.7);text-align:center}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">InforYou Physio</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		
+		<div id="fws_5c3613c5a846e" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section parallax_section    amp-wp-8b83f50"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg using-image using-bg-color   amp-wp-97b335d" data-parallax-speed="fast" data-color_overlay="#f36f53" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.95" data-enable_gradient="false"></div></div> </div><div class="video-color-overlay" data-color=""></div>
+			
+			<div class="mobile-video-image amp-wp-a012aad"></div>
+			<div class="nectar-video-wrap" data-bg-alignment="left top">
+					</div><div class="col span_12 light left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-ac2246b">InforYou Physio</h5><div class="nectar-split-heading"><div class="heading-line"> <div><h2>Il gestionale per centri benessere e SPA, centri fisioterapici/medici/estetici</h2> </div> </div></div>
+	<div id="fws_5c3613c5a8939" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-10 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="300">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<p class="vc_custom_heading amp-wp-64cfd22">Physio è la soluzione pensata e costruita su misura dei centri estetici e medici/fisioterapici. Facilita gli operatori in fase di prenotazione e coordina tutte le risorse di un centro estetico o di una SPA, ottimizzando le occupazioni delle diverse agende, monitorando i consumi di cabina e memorizzando misurazioni e trattamenti.</p>
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c3613c5a8bbf" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><a class="nectar-button large see-through has-icon" target="_blank" href="#physioscopri" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scopri di più</span><i class="icon-button-arrow"></i></a>  <a class="nectar-button large accent-color has-icon regular-button" href="//teamsystem.com/wellness/acquista-ora-inforyou/" data-color-override="#fbaa1d" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Acquista ora</span><i class="icon-button-arrow"></i></a></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap center" data-max-width="100%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="1124" width="1347" data-animation="fade-in" src="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/physio_mac.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/physio_mac.png 1347w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/physio_mac-300x250.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/physio_mac-768x641.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/physio_mac-1024x854.png 1024w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="physioscopri" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-aceb4af"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>La soluzione di riferimento per il mercato nazionale delle aziende sportive, del benessere e del tempo libero</h2>
+<h5><span class="amp-wp-d0371d4">Usabilità, Sicurezza e Assistenza</span></h5>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5a92f7" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-0ef1274"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="1" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_mouse.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5a956f" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Prenotazioni veloci con un singolo click</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/ecommerce_graph_increase.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5a98cb" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="400">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Visualizzazione grafica agenda giornaliera e settimanale</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_elaboration_folder_heart.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5a9c0a" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="800">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Possibilità di controllo delle prescrizioni mediche</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_calendar.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5a9f5a" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="1200">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Appuntamenti singoli o condivisi, disponibilità e blocchi risorse</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5aa15c" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-0ef1274"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="1" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/ecommerce_graph2.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5aa3a2" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Statistiche di occupazione personale e risorse</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/ecommerce_cart.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5aa6ee" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="400">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Gestione magazzino</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_elaboration_message_remove.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5aaa32" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="800">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Avviso per prodotti sottoscorta</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/music_repeat_button.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5aad95" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="1200">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Prelievo automatico dal magazzino di cabina associato agli appuntamenti</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5aaf94" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-fda39dc"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="1" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/ecommerce_banknotes.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5ab1dd" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Pagamento diretto, posticipato, prepagato</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_calculator.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5ab539" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="400">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Calcolo acconti e saldi</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/basic_cards_hearts.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5ab873" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="800">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Pacchetti a scalare</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="svg-icon-holder" data-size="" data-animation-speed="200" data-animation="”true”" data-animation-delay="" data-color="extra-color-1"><span>//www.teamsystem.com/wellness/wp-content/themes/salient/css/fonts/svg/ecommerce_graph3.svg</span></div>
+<h5></h5>
+
+		</div>
+	</div>
+
+	<div id="fws_5c3613c5abbbb" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="1200">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h5>Monitoraggio e analisi spesa dei clienti</h5>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5abdd0" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-d3438d5"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-3094cce" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap right" data-max-width="175%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="725" width="1359" data-animation="fade-in-from-left" src="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/appuntamenti.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/appuntamenti.png 1359w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/appuntamenti-300x160.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/appuntamenti-768x410.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/appuntamenti-1024x546.png 1024w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading amp-wp-78beb92">Gestisci gli appuntamenti dei Clienti con un click</h5><h2 class="vc_custom_heading amp-wp-58d7de9">Appuntamenti</h2><div class="divider-wrap"><div data-width="120" data-animate="yes" data-animation-delay="" data-color="default" class="divider-small-border amp-wp-d8bf87e"></div></div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1513330255382">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-4632cff">Desideri un unico strumento che ti consenta di gestire la tua agenda appuntamenti in modo semplice ed efficace? InforYou Physio mette a tua disposizione una serie di funzionalità appositamente studiate per soddisfare le esigenze di chi deve organizzare e gestire contemporaneamente più variabili, quali operatore, cabina e strumento. Il sistema gestionale proporrà automaticamente ed in pochi secondi all’operatore, le migliori associazioni e disponibilità, consentendo l’ottimizzazione delle risorse ed evitando laboriose ricerche e sprechi di tempo.</span></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5ac3f8" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-f1801bb"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-3094cce" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading amp-wp-78beb92">Gestisci in tempo reale il tuo magazzino prodotti</h5><h2 class="vc_custom_heading amp-wp-58d7de9">Prodotti e magazzino</h2><div class="divider-wrap"><div data-width="120" data-animate="yes" data-animation-delay="" data-color="default" class="divider-small-border amp-wp-d8bf87e"></div></div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1513330275800">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-4632cff">Vuoi poter gestire il tuo magazzino prodotti in modo semplice e puntuale? Con InforYou Physio hai un potente strumento in grado di fornirti tutte le informazioni relative al magazzino, gestendo avvisi, procedure automatiche per il riacquisto prodotti e soprattutto semplificando l’operatività giornaliera. Ad ogni trattamento infatti, è possibile associare l’utilizzo dei relativi prodotti che saranno impegnati già al momento della prenotazione dell’appuntamento, generando automaticamente un avviso per l’operatore per l’eventuale sottoscorta e il conseguente riordino al fornitore.</span></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap " data-max-width="175%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="724" width="1354" data-animation="fade-in-from-right" src="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/Gestione-prodotti-pagina-5.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/Gestione-prodotti-pagina-5.png 1354w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/Gestione-prodotti-pagina-5-300x160.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/Gestione-prodotti-pagina-5-768x411.png 768w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/Gestione-prodotti-pagina-5-1024x548.png 1024w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5acb13" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-1ace59b"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-3094cce" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap right" data-max-width="175%"><div class="inner"><amp-img data-shadow="none" data-shadow-direction="middle" class="img-with-animation  amp-wp-enforced-sizes" data-delay="0" height="728" width="1020" data-animation="fade-in-from-left" src="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/Scheda-clienti-pagina-5-1.png" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2017/07/Scheda-clienti-pagina-5-1.png 1020w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/Scheda-clienti-pagina-5-1-300x214.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2017/07/Scheda-clienti-pagina-5-1-768x548.png 768w" sizes="100vw" alt="" layout="intrinsic"></amp-img></div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<h5 class="vc_custom_heading amp-wp-78beb92">Offri ai tuoi Clienti il pacchetto migliore per le loro esigenze</h5><h2 class="vc_custom_heading amp-wp-58d7de9">Offerte a pacchetto</h2><div class="divider-wrap"><div data-width="120" data-animate="yes" data-animation-delay="" data-color="default" class="divider-small-border amp-wp-d8bf87e"></div></div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1513330299327">
+		<div class="wpb_wrapper">
+			<p><span class="amp-wp-4632cff">Con InforYou Physio è facile gestire offerte personalizzate per ogni cliente. La flessibilità di gestione della tipologia di servizio offerto (a scalare, a pacchetto, ecc.) e della modalità di pagamento consente al venditore di modulare la proposta di vendita sulle specifiche necessità di utilizzo dell’utente. Attraverso il software è possibile inoltre raccogliere e monitorare la spesa dei clienti, fornendo informazioni preziose alla forza vendita per promuovere le attività ed i servizi desiderati, attraverso opportune campagne di incentivazione e fidelizzazione.</span></p>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5ad106" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-f1801bb"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-split-heading"><div class="heading-line"> <div><h2><span class="amp-wp-6ab4335">InforYou System è la soluzione gestionale più scelta in Italia nel mercato del wellness.</span></h2> </div> </div></div>
+	<div id="fws_5c3613c5ad2af" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-adca58b"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>La soluzione più performante e su misura per la tua struttura.</p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+	<div id="fws_5c3613c5ad479" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col has-animation no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h6 class="amp-wp-b60506b"><span class="amp-wp-6ab4335">Scopri tutti i vantaggi</span></h6>
+<p><span class="amp-wp-04edb07">La soluzione onpremise InforYou ti permette di accedere alle potenzialità del team di sviluppo software della di TeamSystem WELLNESS specializzato nell tuo settore. Con noi potrai dialogare per poter rispondere alle tue richieste e semplificare anche processi molto complessi, il tutto con la semplicità di un dialogo in italiano.</span></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="nectar-fancy-ul" data-list-icon="icon-salient-thin-line" data-animation="true" data-animation-delay="0" data-color="extra-color-1" data-alignment="left"> 
+<ul><li>Supporto alle attività di tele marketing e recall con funzioni integrate di VOIP</li>
+<li>Generazione automatica delle attività da svolgere</li>
+<li>Notifiche automatiche via mail per consulenti e direzione</li>
+<li>Gestione del cliente completa grazie al modulo CRM</li>
+<li>Facile creazione di ricerche incrociate</li>
+<li>Generazione automatica di sms, email, report in excel, stampe</li>
+<li>Statistiche, reportistiche ed analisi dati</li>
+<li>Pianificazione invio di comunicazioni ed avvisi</li>
+<li>Sistemi di loyalty per raccolta punti premio</li>
+<li>Anagrafica dettagliata con campi personalizzabili</li>
+<li>Categorie, certificati, tesseramenti</li>
+<li>Servizi a periodo, a gettone, a scalare</li>
+<li>Listino dinamico</li>
+<li>Liste, elenchi, scadenziari</li>
+<li>Gestione del cliente completa grazie al modulo CRM</li>
+<li>Integrazione completa con EvolutionFit</li>
+<li>Integrazione completa con Wellness System e MyWellness Cloud di Technogym</li>
+</ul></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5ad748" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-974617b"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<a class="nectar-button large extra-color-1 has-icon regular-button" href="//teamsystem.com/wellness/inforyou-funzionalita/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scopri le funzionalità di InforYou</span><i class="icon-button-arrow"></i></a>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<a class="nectar-button large see-through has-icon" target="_blank" href="//www.teamsystem.com/wellness/wp-content/uploads/2018/07/InforYou-Physio-TeamSystem.pdf" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Scarica la brochure di InforYou Physio</span><i class="icon-button-arrow"></i></a>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_5c3613c5adb10" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content standard_section    amp-wp-cf5c5aa"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-3094cce" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="col span_12 testimonial_slider " data-color="extra-color-1-dark" data-rating-color="accent-color" data-add-border="" data-autorotate="" data-style="multiple_visible"><div class="slides"><blockquote> <div class="image-icon has-bg amp-wp-97cad60">“</div> <p>Una garanzia nel prodotto e nella assistenza oltre che nella proposta di innovazione. <span class="bottom-arrow"></span></p><span>Luigi Barelli</span><span class="title">Presidente per alcuni centri e responsabile organizzativo per altri</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-62b0ea1">“</div> <p>Una soluzione adatta ad un centro sportivo con tante attività destinate a durare anche in futuro. <span class="bottom-arrow"></span></p><span>Tommaso Fioredda </span><span class="title">Consigliere Canottieri Olana 1894</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-9293659">“</div> <p>Grazie al costante sviluppo di moderne soluzioni e tecnologie riusciamo ad offrire sempre nuovi ed efficienti servizi ai nostri clienti. <span class="bottom-arrow"></span></p><span>Marco Mammarella</span><span class="title">Responsabile Organizzazione e Sistemi Informativi di Heaven Group</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-6970dfc">“</div> <p>Consiglio questo servizio a tutti i centri sportivi che, come noi, desiderano innovarsi e diventare leader nel settore. <span class="bottom-arrow"></span></p><span>Paolo Mele</span><span class="title">Amministratore Delegato di In Sport srl</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-2322de9">“</div> <p>TeamSystem WELLNESS non ha bisogno di referenze e per l’imprenditore che vuole migliorare non è una scelta, bensì un passaggio naturale. <span class="bottom-arrow"></span></p><span>Monica Trevisan </span><span class="title">Diretrice e insegnante Centro Pilates Mantova </span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-741fa43">“</div> <p>InforYou è un gestionale che ci consente di restare in stretto contatto con i nostri clienti e di comunicare con essi tempestivamente. <span class="bottom-arrow"></span></p><span>Paolo Galante</span><span class="title">Titolare MioClub</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-a3ebcdb">“</div> <p>Il Software è uno strumento fondamentale ed indispensabile per avviare e gestire al meglio un Centro Sportivo che fornisce molteplici servizi. <span class="bottom-arrow"></span></p><span>Claudia Longo</span><span class="title">Responsabile vendite - Ekipe Sport &amp; Family Club</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-dfb9c93">“</div> <p>Velocità d'intervento, preparazione dei tecnici e corsi per capire al meglio l'utilizzo del programma. <span class="bottom-arrow"></span></p><span>Vittorio Barion</span><span class="title">Titolare - Hangar56</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-2901386">“</div> <p>Il software di TeamSystem si adatta perfettamente alle nostre esigenze di vendita e di strutturazione/gestione di pacchetti abbonamento. <span class="bottom-arrow"></span></p><span>Alessandro Rebonato</span><span class="title">Titolare - Gym Republic Club</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-503796a">“</div> <p>InforYou è un sistema gestionale complesso e completo, che con la giusta formazione permette anche a chi è a digiuno del settore di diventare competitivo e al passo coi tempi <span class="bottom-arrow"></span></p><span>Patricia Cocciolo</span><span class="title">Titolare - Magneto Wellness</span></blockquote><blockquote> <div class="image-icon has-bg amp-wp-eef28f2">“</div> <p>Il software TeamSystem WELLNESS ha reso possibile la gestione del processo di digitalizzazione del settore fitness. <span class="bottom-arrow"></span></p><span>Matteo Morandini</span><span class="title">Amministratore - Passion Fitness Club</span></blockquote></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="gymcall" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-dd983f8"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg using-image    amp-wp-4983a5a" data-color_overlay="rgba(80,180,252,0.84)" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.95" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c3613c5af20f" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col centered-text padding-2-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-e59880a">Avvia la trasformazione digitale della tua azienda</h2><div class="divider-wrap"><div class="divider amp-wp-977d32f"></div></div><p class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504862933755 amp-wp-b77fa22">Scopri come ogni giorno, anche il sabato e la domenica, un nuovo centro ci sceglie per iniziare questa trasformazione</p>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><a class="nectar-button large see-through has-icon" target="_blank" href="//teamsystem.com/wellness/richiedi-demo-inforyou/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Richiedi Demo</span><i class="icon-button-arrow"></i></a>   <a class="nectar-button large extra-color-1 has-icon regular-button" target="_blank" href="//teamsystem.com/wellness/acquista-ora-inforyou/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Acquista Ora</span><i class="icon-button-arrow"></i></a></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.805 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:31:18 -->

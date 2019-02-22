@@ -1,0 +1,1363 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+
+	  <script src="//cdn.optimizely.com/js/2179040045.js"></script>
+
+	  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6JCVCF');</script>
+<!-- End Google Tag Manager -->
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Software gestione magazzini - ACG Enterprise</title>
+    <meta name="description" content="Scopri la soluzione per la gestione del Magazzino di ACG Enterprise, la soluzione software di TeamSystem per la gestione aziendale.">
+    <meta name="keywords" content="">
+    <meta name="robots" content="index,follow" />    
+    <link rel="canonical" href="https://www.teamsystem.com/acg-magazzino">
+                <link rel="alternate" href="/acg-magazzino" hreflang="it" />
+
+    <meta name="format-detection" content="telephone=no" />
+    <!-- Meta Social -->
+
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:title" content="Software gestione magazzini - ACG Enterprise" />
+    <meta property="og:description" content="Scopri la soluzione per la gestione del Magazzino di ACG Enterprise, la soluzione software di TeamSystem per la gestione aziendale." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.teamsystem.com/acg-magazzino" />
+    <!-- Meta Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- Meta Specific Apple iOS (i seguenti meta rappresentano le funzionalità ios e android tasto "aggiungi ad home") -->
+    <meta name="apple-mobile-web-app-title" content="Software gestione magazzini - ACG Enterprise">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes" />
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cms.teamsystem.com/home-2018/build/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cms.teamsystem.com/home-2018/build/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cms.teamsystem.com/home-2018/build/favicon-16x16.png">
+
+    <meta name="theme-color" content="#ffffff">
+    <meta http-equiv="content-language" content="it" />
+
+           <link href="https://cms.teamsystem.com/home-2018/build/css/bootstrap/bootstrap.css" type="text/css" rel="stylesheet" />
+            <link href="https://cms.teamsystem.com/home-2018/build/css/main.css" type="text/css" rel="stylesheet" />
+            <link href="https://cms.teamsystem.com/home-2018/build/css/shame.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="https://cms.teamsystem.com/min/layoutMenuV2_0_1803131034363436.css" />
+    <style>
+        .fancybox-slide--iframe .fancybox-content {
+            width: 700px;
+            height: 600px;
+            max-width: 80%;
+            max-height: 80%;
+            margin: 20px;
+        }
+    </style>
+    <link rel="shortcut icon" href="//www.teamsystem.com/favicon.ico" type="image/x-icon" />
+    
+
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href="https://cms.teamsystem.com/css/layout_builder.css" type="text/css" rel="stylesheet" />
+    <link href="https://cms.teamsystem.com/css/alyante.css" type="text/css" rel="stylesheet" />
+
+
+    <!--[if lt IE 9]>
+            <script type="text/javascript" src="https://cms.teamsystem.com/js/vendor/jquery-1.11.1.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 9]>
+            <script type="text/javascript" src="https://cms.teamsystem.com/js/vendor/jquery-2.1.1.min.js"></script>
+    <![endif]-->
+    
+
+    
+<script type="text/javascript" src="https://cms.teamsystem.com/min/layoutMenuV2_1_1803131143464346.js"></script>
+        <script type="text/javascript" src="https://cms.teamsystem.com/home-2018/build/vendor/fancyapps/fancybox/dist/jquery.fancybox.js"></script>
+        <script type="text/javascript" src="https://cms.teamsystem.com/home-2018/build/js/main.js"></script>
+
+    <!-- endcheck -->
+    
+
+    <script type="text/javascript" src="//use.typekit.net/xgp5dft.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>   
+
+
+<script type="text/javascript" src="https://cms.teamsystem.com/min/layoutMenuV2_2_1806071629402940.js"></script>
+    
+
+    
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-15887625-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<!-- Hotjar Tracking Code for https://www.teamsystem.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:165624,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+    </head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6JCVCF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+    <![endif]-->
+    <!-- Wrapper -->
+
+                    <!-- Back to top -->
+    <div class="backtotop">
+        <svg height="8" width="22">
+            <polygon points="0,8 11,0 22,8"></polygon>
+        </svg>
+        top
+    </div>
+    <!-- Main nav -->
+    <section class="main-nav" role="navigation">
+        <nav class="navbar fixed-top navbar-expand-lg">
+            <div class="container-fluid position-relative">
+
+                <a class="navbar-brand" href="/">
+                    <img src="https://cms.teamsystem.com/home-2018/build/img/ui/ts-white.svg" alt="" />
+                </a>
+
+                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon">
+                        <span class="main-nav__hamburger">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+                    </span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <!-- Secondary -->
+                    <ul class="main-nav__secondary navbar-nav mr-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+                                Siti del gruppo
+
+                            </a>
+                            <div class="dropdown-menu">
+                                    <a href="http://www.aliaslab.net/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Aliaslab</a>
+                                    <a href="http://www.prontocaf.com/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>CAF e PA</a>
+                                    <a href="https://www.danea.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Danea</a>
+                                    <a href="http://www.esasoftware.com" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>ESA Software</a>
+                                    <a href="http://www.euroconference.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Euroconference</a>
+                                    <a href="http://h-umus.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>H-umus</a>
+                                    <a href="https://mondora.com/#!/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Mondora</a>
+                                    <a href="http://www.nuovamacut.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Nuovamacut</a>
+                                    <a href="http://www.str.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>STR</a>
+                                    <a href="http://www.voispeed.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>TeamSystem Communication</a>
+                                    <a href="https://www.teamsystem.com/Legal/" class="dropdown-item" target="_blank" >TeamSystem Legal</a>
+                                    <a href="https://www.teamsystem.com/Wellness/" class="dropdown-item" target="_blank" >TeamSystem Wellness</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+                                Aree Riservate
+
+                            </a>
+                            <div class="dropdown-menu">
+                                    <a href="http://marketing.teamsystem.com/" class="dropdown-item" target="_blank" >Area rivenditori</a>
+                                    <a href="http://licenze.sisteda.it/log/pcontrollo/login.cfm?dt=20171205153335&amp;CKS=0D612F1B7823325099A974B22935EAEB&amp;CFID=13847674&amp;CFTOKEN=49381425" class="dropdown-item" target="_blank" >Clienti accessreport.it</a>
+                                    <a href="http://clienti.esanapoli.it/" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://clienti.mondoesasud.com/home.aspx']); ">Clienti Sede Esa Napoli</a>
+                                    <a href="http://web.teamsystem-ancona.com" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://web.teamsystem-ancona.com']);">Clienti sede TeamSystem Ancona</a>
+                                    <a href="http://intraweb.teamsystememilia.it/intranet" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://intraweb.teamsystememilia.it/intranet']); ">Clienti sedi TeamSystem Emilia e Mantova</a>
+                                    <a href="https://www.teamsystem.com/ulisse/home.html" class="dropdown-item" target="_blank" >Clienti Ulisse Tecnologie</a>
+                                    <a href="https://mysupport.teamsystem.com" class="dropdown-item" target="_blank" onclick="_gaq.push(['_trackEvent', 'My support', 'http://mysupport.teamsystem.com/']);">MySupport</a>
+                                    <a href="http://bbs09.teamsystem.com/bbshome/bbs.htm" class="dropdown-item" target="_blank" >Software partner Euro 09 (Area rivenditore)</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="http://investors.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://investors.teamsystem.com/']);">Investors</a>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="http://international.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://international.teamsystem.com/']);">English site</a></li>
+
+                        <li class="nav-item main-nav__search">
+
+                            <form method="get" action="/ricerca_sito" class="" name="siteSearch" id="siteSearch">
+                                <div class="input-group">
+                                    <input type="text" id="iq1" class="form-control" name="q" placeholder="Cerca nel sito">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-secondary" type="submit" id="ib1">
+                                            <img src="https://cms.teamsystem.com/home-2018/build/img/ui/menu-search.svg" alt="" />
+                                        </button>
+                                    </span>
+                                </div>
+                            </form>
+                        </li>
+
+                        <li class="nav-item"><a class="btn btn-azure" href="/contatti" rel="nofollow">CONTATTACI</a></li>
+                    </ul>
+
+                    <!-- Primary -->
+                    <ul class="main-nav__primary navbar-nav mr-auto">
+                        <li class="nav-item d-lg-none mnucontatti"><a class="nav-link" href="/contatti" rel="nofollow"> Contattaci </a></li>
+
+
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Prodotti
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="263">
+                                        
+
+                                                <a href="/alyante" target="_self">
+                                                        <strong>ALYANTE</strong>
+                                                        <span>Soluzione ERP completa per la gestione dell’Impresa</span>
+                                                </a>
+                                    </li>
+                                    <li class="264">
+                                        
+
+                                                <a href="/lynfa_studio" target="_self">
+                                                        <strong>LYNFA Studio</strong>
+                                                        <span>Soluzione gestionale integrata per il Professionista</span>
+                                                </a>
+                                    </li>
+                                    <li class="265">
+                                        
+
+                                                <a href="/agyo" target="_self">
+                                                        <strong>Agyo</strong>
+                                                        <span>Fatturazione elettronica e servizi digitali</span>
+                                                </a>
+                                    </li>
+                                    <li class="266">
+                                        
+
+                                                <a href="/reviso-software-cloud" target="_self">
+                                                        <strong>Reviso</strong>
+                                                        <span>Contabilit&#224; e fatturazione in cloud per PMI</span>
+                                                </a>
+                                    </li>
+                                    <li class="267">
+                                        
+
+                                                <a href="/fatture_in_cloud" target="_self">
+                                                        <strong>Fatture In Cloud</strong>
+                                                        <span>Fatturazione online per Micro Aziende e Startup</span>
+                                                </a>
+                                    </li>
+                                    <li class="270">
+                                        
+
+                                                <a href="https://www.teamsystem.com/Legal/netlex" target="_blank">
+                                                        <strong>NETLEX</strong>
+                                                        <span>Gestionale cloud per gli Studi Legali</span>
+                                                </a>
+                                    </li>
+                                    <li class="271">
+                                        
+
+                                                <a href="http://www.vialibera.it/" target="_blank">
+                                                        <strong>ViaLibera</strong>
+                                                        <span>Contabilit&#224;, dichiarazioni fiscali, bilancio</span>
+                                                </a>
+                                    </li>
+                                    <li class="268">
+                                        
+
+                                                <a href="/acg-enterprise-erp-azienda" target="_self">
+                                                        <strong>ACG Enterprise</strong>
+                                                        <span>Soluzione ERP per il mondo Power i</span>
+                                                </a>
+                                    </li>
+                                    <li class="269">
+                                        
+
+                                                <a href="/lynfa_azienda" target="_self">
+                                                        <strong>LYNFA Azienda</strong>
+                                                        <span>Il gestionale che collega Aziende e Studi Professionali</span>
+                                                </a>
+                                    </li>
+                                    <li class="272">
+                                        
+
+                                                <a href="">
+                                                        <strong>Soluzioni Specializzate</strong>
+                                                        <span>Il completamento delle esigenze di Studi e Aziende</span>
+                                                </a>
+                                                <ul>
+                                                            <li class="7762">
+                                                                <a href="/alyante-ambiente" target="_self">
+                                                                        <strong>ALYANTE Ambiente</strong>
+                                                                        <span>La filiera della raccolta rifiuti diventa digitale</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7763">
+                                                                <a href="/alyante-olio" target="_self">
+                                                                        <strong>ALYANTE Olio</strong>
+                                                                        <span>Gestione completa della filiera Olivicola</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7771">
+                                                                <a href="/alyante-retail" target="_self">
+                                                                        <strong>ALYANTE Retail</strong>
+                                                                        <span>Il gestionale per negozi e franchising</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7772">
+                                                                <a href="/alyante-service" target="_self">
+                                                                        <strong>ALYANTE Service</strong>
+                                                                        <span>Gestionale per assistenza e manutenzione</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7764">
+                                                                <a href="https://www.voispeed.com/" target="_blank">
+                                                                        <strong>Centralino Software</strong>
+                                                                        <span>Centralino cloud per aziende e studi</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7765">
+                                                                <a href="/software_crm" target="_self">
+                                                                        <strong>CRM</strong>
+                                                                        <span>Marketing, vendite, supporto post vendita</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7766">
+                                                                <a href="/dms_e_archiviazione_documentale" target="_self">
+                                                                        <strong>DMS e Archiviazione Documentale</strong>
+                                                                        <span>Gestione e archiviazione documentale</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7767">
+                                                                <a href="https://www.teamsystem.com/store/gestione-sito-web" target="_blank">
+                                                                        <strong>E-Commerce</strong>
+                                                                        <span>MYTHO: vendita online</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7768">
+                                                                <a href="https://www.cassanova.it/" target="_blank">
+                                                                        <strong>Gestione Cassa</strong>
+                                                                        <span>Il registratore di cassa per iPad e tablet Android</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7769">
+                                                                <a href="/hr-gestione-personale" target="_self">
+                                                                        <strong>HR</strong>
+                                                                        <span>Gestione e amministrazione del personale</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7770">
+                                                                <a href="/impresa-40-officine-meccaniche" target="_self">
+                                                                        <strong>Impresa 4.0</strong>
+                                                                        <span>Soluzione gestionale per il settore manufatturiero</span>
+                                                                </a>
+                                                            </li>
+                                                </ul>
+                                    </li>
+                                    <li class="280">
+                                        
+
+                                                <a href="">
+                                                        <strong>Altri Prodotti</strong>
+                                                        <span>Altre soluzioni gestionali TeamSystem</span>
+                                                </a>
+                                                <ul>
+                                                            <li class="7773">
+                                                                <a href="https://www.danea.it/software/easyfatt/" target="_blank">
+                                                                        <strong>Danea Easyfatt</strong>
+                                                                        <span>Fatturazione per micro imprese, artigiani e negozianti</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="7774">
+                                                                <a href="/embyon-erp" target="_self">
+                                                                        <strong>Embyon</strong>
+                                                                        <span>L&#39;ERP progettato per gestire e controllare le PMI</span>
+                                                                </a>
+                                                            </li>
+                                                </ul>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Mercati
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="281">
+                                        
+
+                                                <a href="/alyante" target="_self">
+Aziende                                                </a>
+                                    </li>
+                                    <li class="283">
+                                        
+
+                                                <a href="/lynfa_studio" target="_self">
+Commercialisti e Consulenti del Lavoro                                                </a>
+                                    </li>
+                                    <li class="284">
+                                        
+
+                                                <a href="https://www.teamsystem.com/Legal/" target="_blank">
+Avvocati                                                </a>
+                                    </li>
+                                    <li class="285">
+                                        
+
+                                                <a href="/alyante-vitivinicolo-gestionale" target="_self">
+Agroalimentare                                                </a>
+                                    </li>
+                                    <li class="286">
+                                        
+
+                                                <a href="/astute" target="_self">
+Associazioni                                                </a>
+                                    </li>
+                                    <li class="287">
+                                        
+
+                                                <a href="http://www.prontocaf.com/" target="_blank">
+CAF e Pubbliche Amministrazioni                                                </a>
+                                    </li>
+                                    <li class="288">
+                                        
+
+                                                <a href="/domustudio" target="_self">
+Condomini                                                </a>
+                                    </li>
+                                    <li class="289">
+                                        
+
+                                                <a href="https://www.str.it/" target="_blank">
+Costruzioni                                                </a>
+                                    </li>
+                                    <li class="290">
+                                        
+
+                                                <a href="/alyante-fashion-gestionale-moda" target="_self">
+Fashion                                                </a>
+                                    </li>
+                                    <li class="291">
+                                        
+
+                                                <a href="https://www.teamsystem.com/wellness/" target="_blank">
+Fitness e Wellness                                                </a>
+                                    </li>
+                                    <li class="292">
+                                        
+
+                                                <a href="http://www.evols.it/it/home/#/home" target="_blank">
+Hospitality                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Il Gruppo
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="294">
+                                        
+
+                                                <a href="/il_gruppo" target="_self">
+Il gruppo - la storia                                                </a>
+                                    </li>
+                                    <li class="295">
+                                        
+
+                                                <a href="/organigramma_direzione_generale" target="_self">
+Direzione generale                                                </a>
+                                    </li>
+                                    <li class="296">
+                                        
+
+                                                <a href="/come_raggiungerci" target="_self">
+Come raggiungerci                                                </a>
+                                    </li>
+                                    <li class="297">
+                                        
+
+                                                <a href="/ricerca_casi" target="_self">
+Casi di successo                                                </a>
+                                    </li>
+                                    <li class="299">
+                                        
+
+                                                <a href="/ricerca_press" target="_self">
+Marketing &amp; Press                                                </a>
+                                    </li>
+                                    <li class="316">
+                                        
+
+                                                <a href="/formazione_personalizzata_swp" target="_self">
+Formazione personalizzata                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Education
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+
+
+                                    <li class="iddoc7930">
+
+                                            <a href="/formazione-catalogo-partner" target="_self">
+Formazione a Catalogo Partner                                                
+                                            </a>
+
+                                    </li>
+                                    <li class="iddoc7979">
+
+                                            <a href="/formazione-a-catalogo-clienti" target="_self">
+Formazione a Catalogo Clienti Diretti                                                
+                                            </a>
+
+                                    </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Partner
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="305">
+                                        
+
+                                                <a href="/system-integrator" target="_self">
+System Integrator                                                </a>
+                                    </li>
+                                    <li class="307">
+                                        
+
+                                                <a href="/rivenditori" target="_self">
+Aderenti campagna marketing 2019                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/eventi" target="_self">
+                                Eventi
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/careers" target="_self">
+                                Careers
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.teamsystem.com/store/" target="_blank">
+                                Store
+                            </a>
+                        </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="#" role="button">
+                            Magazine
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                            <ul class="menu">
+                                    <li class="312">
+                                        
+
+                                                <a href="http://alyante.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=menu" target="_blank">
+Azienda                                                </a>
+                                    </li>
+                                    <li class="313">
+                                        
+
+                                                <a href="https://lynfa.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=menu" target="_blank">
+Studio                                                </a>
+                                    </li>
+                                    <li class="314">
+                                        
+
+                                                <a href="http://www.energiadigitale.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=menu" target="_blank">
+Energia Digitale                                                </a>
+                                    </li>
+
+
+                            </ul>
+                        </div>
+                    </li>
+                        
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link" href="#" data-toggle="dropdown">
+                                Siti del gruppo
+
+                            </a>
+                            <div class="dropdown-menu">
+                                <ul class="menu">
+                                        <li>
+                                            <a href="http://www.aliaslab.net/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Aliaslab</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.prontocaf.com/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>CAF e PA</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.danea.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Danea</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.esasoftware.com" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>ESA Software</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.euroconference.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Euroconference</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://h-umus.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>H-umus</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://mondora.com/#!/" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Mondora</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.nuovamacut.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>Nuovamacut</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.str.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>STR</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.voispeed.it" class="dropdown-item" target="_blank" rel=&#39;nofollow&#39;>TeamSystem Communication</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.teamsystem.com/Legal/" class="dropdown-item" target="_blank" >TeamSystem Legal</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.teamsystem.com/Wellness/" class="dropdown-item" target="_blank" >TeamSystem Wellness</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item  d-lg-none">
+                            <a class="nav-link " href="#" data-toggle="dropdown">
+                                Aree Riservate
+
+                            </a>
+                            <div class="dropdown-menu">
+                                <ul class="menu">
+                                        <li>
+                                            <a href="http://marketing.teamsystem.com/" class="dropdown-item" target="_blank" >Area rivenditori</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://licenze.sisteda.it/log/pcontrollo/login.cfm?dt=20171205153335&amp;CKS=0D612F1B7823325099A974B22935EAEB&amp;CFID=13847674&amp;CFTOKEN=49381425" class="dropdown-item" target="_blank" >Clienti accessreport.it</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://clienti.esanapoli.it/" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://clienti.mondoesasud.com/home.aspx']); ">Clienti Sede Esa Napoli</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://web.teamsystem-ancona.com" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://web.teamsystem-ancona.com']);">Clienti sede TeamSystem Ancona</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://intraweb.teamsystememilia.it/intranet" class="dropdown-item" target="_blank" onclick="openLink(this); _gaq.push(['_trackEvent', 'Area Riservata', 'http://intraweb.teamsystememilia.it/intranet']); ">Clienti sedi TeamSystem Emilia e Mantova</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.teamsystem.com/ulisse/home.html" class="dropdown-item" target="_blank" >Clienti Ulisse Tecnologie</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://mysupport.teamsystem.com" class="dropdown-item" target="_blank" onclick="_gaq.push(['_trackEvent', 'My support', 'http://mysupport.teamsystem.com/']);">MySupport</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://bbs09.teamsystem.com/bbshome/bbs.htm" class="dropdown-item" target="_blank" >Software partner Euro 09 (Area rivenditore)</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link" href="http://investors.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://investors.teamsystem.com/']);">Investors</a>
+                        </li>
+                        <li class="nav-item d-lg-none"><a class="nav-link" href="http://international.teamsystem.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Area Riservata', 'http://international.teamsystem.com/']);">English site</a></li>
+
+
+
+                        <li class="nav-item  d-lg-none">
+
+                            <form method="get" action="/ricerca_sito" class="" name="siteSearch" id="siteSearch">
+                                <div class="input-group">
+                                    <input type="text" id="iq1" class="form-control" name="q" placeholder="Cerca nel sito">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-secondary" type="submit" id="ib1">
+                                            <img src="https://cms.teamsystem.com/home-2018/build/img/ui/menu-search.svg" alt="" />
+                                        </button>
+                                    </span>
+                                </div>
+                            </form>
+                        </li>
+                        
+                    </ul>
+
+                </div>
+
+            </div>
+        </nav>
+    </section>
+
+
+
+                
+
+
+<section class="hero hero--small hero--prodotto">
+    <div class="hero__slider mb-0">
+        <div class="hero__slide">
+            <div class="hero__wrapper">
+                <div class="container-fluid position-relative">
+                    <div class="hero__copy new-copy-foglia">
+                        <h2 class="hero__title mb-3">
+ACG Enterprise                        </h2>
+                        <div class="hero__abstract mb-4">
+Magazzini                        </div>
+                        <a href="#form-fixed-right" class="cta-form">Richiedi <strong>INFORMAZIONI</strong></a>
+                    </div>
+                </div>
+
+                    <div class="hero__image" style="background-image: url('/media/immagini/3291_z_012_acg_enterprise.jpg')"> </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- /Hero -->
+<!-- Breadcumbs -->
+<section id="breadcrumb">
+    <div class="container-fluid position-relative">
+        <ul>
+            
+                <li>
+                    <a href="/acg-enterprise-erp-azienda"> ACG Enterprise </a>
+                </li>
+            <li>
+                <span>Magazzini</span>
+            </li>
+        </ul>
+    </div>
+</section>
+<!-- /Breadcumbs -->
+<!-- Intro Prodotto -->
+<section id="intro-prodotto">
+    <div class="container-fluid position-relative">
+        <div class="row">
+            <div class="col-sm-8">
+                <h1>
+                    Magazzini
+                </h1>
+                <div class="corpo clearfix">
+<p>Permette la gestione dei flussi contabili relativi ai materiali in entrata e in uscita sia da un punto di vista gestionale che fiscale, in integrazione con tutte le altre aree funzionali del prodotto. Alle Aziende di distribuzione e manifatturiere, offre una soluzione per la gestione dei materiali: sia in termini di controllo delle scorte, che di controllo dei riordini.</p>
+<h2>Principali funzioni</h2>
+<p>La corretta trattazione delle scorte, la verifica della giacenza e della disponibilità in relazione al punto di riordino ed alla scorta di sicurezza, l’inventario e le valorizzazioni fiscali, sono le principali funzioni previste dal prodotto, che possono essere suddivise schematicamente in:
+
+<ul>
+	<li>Movimentazione</li>
+	<li>Gestione lotti</li>
+	<li>Analisi ed Inventari</li>
+	<li>Valorizzazione</li>
+</ul></p>
+<h2>Gestione delle scorte</h2>
+<p>La funzione di Analisi ed Inventari fornisce per ciascun articolo in magazzino, tutte le informazioni necessarie ad una corretta gestione delle scorte, quali: scorta di sicurezza, punto di riordino e classe ABC di appartenenza, fornendo liste di dettaglio e liste inventariali.</p>
+
+<p>In base alla normativa fiscale vigente, la valorizzazione delle rimanenze fiscali viene eseguita con uno a scelta fra:
+
+<ul>
+	<li>metodo a strati (L.I.F.O. o F.I.F.O.) • costo medio dell’anno</li>
+	<li>costo imputato dall’utente • costo medio dell’ultimo mese</li>
+	<li>costo continuo (L.I.F.O. o F.I.F.O.)</li>
+</ul></p>
+<h2>Saldi a magazzino</h2>
+<p>ACG Enterprise mostra inoltre, in tempo reale, una valorizzazione dei saldi di magazzino effettuata in base ad un valore desiderato, in base al valore unitario scelto dall’utente fra quelli elencati sopra.</p>
+</div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /Intro Prodotto -->
+<!-- Content Prodotto -->
+
+<!-- /Content Prodotto -->
+<!-- Funzionalità -->
+
+    <section class="trasf-dig" id="funzionalita">
+        <div class="container-fluid position-relative">
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="py-6"></div>
+                    <div class="trasf-dig__blocks">
+                            <div class="trasf-dig__block mb-4 mb-lg-0 trasf-dig__block--blue">
+                                <a href="#">
+                                    <h4> Funzioni principali </h4>
+                                    <ul>
+                                            <li>Gestione scorte</li>
+                                            <li>Lotti, matricole e scadenze</li>
+                                            <li>Analisi ABC</li>
+                                            <li>CONAI</li>
+                                            <li>Criteri di valutazione delle giacenze (costo medio, ultimo, LIFO, FIFO</li>
+                                            <li>Analisi consumi-costi di periodo e calcolo parametri di riordino</li>
+                                            <li>Analisi di disponibilità</li>
+                                            <li>Inventario fisico</li>
+                                            <li>Chiusura periodica</li>
+                                    </ul>
+                                </a>
+                            </div>
+                                                    <div class="trasf-dig__block mb-4 mb-lg-0 trasf-dig__block--blue">
+                                <a href="#">
+
+                                    <h4> Punti di forza </h4>
+                                    <ul>
+                                            <li>Gestione di oltre 600 magazzini e milioni di depositi</li>
+                                            <li>Gestioni e tracciabilità dei lotti dalla materia prima al prodotto venduto e viceversa</li>
+                                            <li>Gestione doppia quantità nei movimenti</li>
+                                            <li>Indice di modifica articolo</li>
+                                            <li>Inventari fisici a rotazione e rettifiche automatiche</li>
+                                            <li>Indice di rotazione delle scorte</li>
+                                            <li>Gestione del magazzino per tutta la copertura della gestione fiscale, valorizzazione LIFO e FIFO a scatti o continuo, anche per periodi determinati e per categorie omogenee</li>
+                                            <li>Esistenze a magazzino per commesse di produzione</li>
+                                            <li>Analisi disponibilità «Assembly-to-order»</li>
+                                            <li>Aspetti contabili e fiscali del contributo CONAI</li>
+                                            <li>Configurazione dei criteri d’imballo o confezionamento»</li>
+                                            <li>Gestione dati storico-fiscali</li>
+                                    </ul>
+                                </a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <footer class="trasf-dig__footer"></footer>
+    </section>
+<!-- /Funzionalità -->
+<!-- Faq -->
+
+<!-- /Faq -->
+<!-- Link Approfondimento -->
+<!-- /Link Approfondimento -->
+<!-- Strumenti -->
+
+        <section id="strumenti">
+
+
+            <div class="container-fluid position-relative">
+                <h3>Gli strumenti di ACG Enterprise</h3>
+                <div class="wrap-strumenti">
+                            <a href="#" id="link-strumenti0" class="7527"> Aree funzionali <i class="fa fa-angle-down"></i></a>
+                            <a href="#" id="link-strumenti1" class="7528"> Strumenti di supporto <i class="fa fa-angle-down"></i></a>
+                            <a href="#" id="link-strumenti2" class="7529"> Applicazioni mobile <i class="fa fa-angle-down"></i></a>
+                            <a href="#" id="link-strumenti3" class="7530"> Funzionalit&#224; condivise <i class="fa fa-angle-down"></i></a>
+                   
+                </div>
+
+                        <div class="strumenti-box0 funzionalita-box">
+                            <ul>
+                                                <li class="doc_7284 "><a href="/acg-amministrazione-e-finanza">Amministrazione e Finanza</a></li>
+                                                <li class="doc_7288 "><a href="/acg-bilancio-europeo">Bilancio Europeo</a></li>
+                                                <li class="doc_7305 "><a href="/acg-vendite">Vendite</a></li>
+                                                <li class="doc_7306 "><a href="/acg-crm">CRM</a></li>
+                                                <li class="doc_7307 "><a href="/acg-acquisti">Acquisti</a></li>
+                                                <li class="doc_7308 active"><a href="/acg-magazzino">Magazzini</a></li>
+                                                <li class="doc_7309 "><a href="/acg-produzione">Produzione</a></li>
+                                                <li class="doc_7310 "><a href="/acg-cespiti">Cespiti</a></li>
+                                                <li class="doc_7311 "><a href="/acg-provvigioni">Provvigioni</a></li>
+                                                <li class="doc_7312 "><a href="/acg-budget-controllo-gestione">Budget e controllo gestione</a></li>
+                                                <li class="doc_7313 "><a href="/acg-commesse-di-produzione">Commesse di produzione</a></li>
+                                                <li class="doc_7314 "><a href="/acg-personale">Personale</a></li>
+                                                <li class="doc_7322 "><a href="/acg-gestione-bilancio">Gestione bilancio</a></li>
+                            </ul>
+
+                        </div>
+                        <div class="strumenti-box1 funzionalita-box">
+                            <ul>
+                                                <li class="doc_7290 "><a href="/acg-business-intelligence">Business Intelligence</a></li>
+                                                <li class="doc_7303 "><a href="/acg-dms-archiviazione-documentale">DMS e Archiviazione Documentale</a></li>
+                                                <li class="doc_7304 "><a href="/acg-centralini-software">Centralini Software</a></li>
+                                                <li class="doc_7324 "><a href="/acg-software-partner">Software Partner</a></li>
+                                                <li class="doc_7336 "><a href="/acg-supporto-clienti">Supporto ai clienti</a></li>
+                            </ul>
+
+                        </div>
+                        <div class="strumenti-box2 funzionalita-box">
+                            <ul>
+                                                <li class="doc_7294 "><a href="/acg-sales-force-automation">Sales Force Automation</a></li>
+                                                <li class="doc_7295 "><a href="/acg-cataloghi-digitali">Cataloghi Digitali</a></li>
+                            </ul>
+
+                        </div>
+                        <div class="strumenti-box3 funzionalita-box">
+                            <ul>
+                                                <li class="doc_7283 "><a href="/acg-accessibilita-collaboration-funzionalita-condivise">Accessibilit&#224;, collaboration e funzionalit&#224; condivise</a></li>
+                            </ul>
+
+                        </div>
+            </div>
+        </section>
+<!-- /Strumenti -->
+<!-- Box Link -->
+    <section id="box-link">
+        <div class="container-fluid position-relative">
+            <div class="row">
+                    <div class="col-sm-6">
+                        <div class="icon-box">
+
+                            <img src="https://cms.teamsystem.com/media/Immagini/3203_n_icon-video.png" alt="Video" />
+
+                            <a data-caption="Video" data-fancybox="video-prod" href="https://www.youtube.com/watch?v=IJm0HGn3InQ&amp;start=86" target="_blank" class="cta-box">Video</a>
+                        </div>
+                    </div>
+                                                    <div class="col-sm-6">
+                        <div class="icon-box">
+                            <img src="https://cms.teamsystem.com/media/Immagini/3204_n_icon-brochure.png" alt="Brochure" />
+                                <a href="/media/files/3521_BROCHURE_ACG_Enterprise_full.pdf" target="_blank" class="cta-box">Brochure</a>
+                        </div>
+                    </div>
+                                            </div>
+        </div>
+    </section>
+<!-- /Box Link -->
+<!-- Form Fixed Right -->
+<div class="form-fixed-right active" id="form-fixed-right">
+    <a href="#" class="open-form rotate"><i class="fa fa-angle-up"></i></a>
+    <h4>Richiedi <strong>INFORMAZIONI</strong></h4>
+
+                <div class="LayoutBuilder">
+                    <section class="  ">
+                        <div class="container">
+                            <div class="row">
+                                    <div class="col-md-12 wow ">
+
+
+
+    <form id="contatto-new" name="contatto-new" class="cont-0" method="post" autocomplete="on" action="/ws/wsUser.asmx/infoABProd">
+
+        <input type="hidden" id="tiporichsup" name="tiporichsup" value="AB" />
+        <input type="hidden" id="tiporich" name="tiporich" value="Info" />
+        <input type="hidden" id="chk2Col" name="chk2Col" value="value" />
+        <input type="hidden" id="idDoc" name="idDoc" value="7308" />
+        
+        <input type="hidden" id="nomeProdLanding" name="nomeProdLanding" />
+        <input type="hidden" id="provenienza" name="provenienza" value="" />
+        <input type="hidden" id="SWP" name="SWP" value="" />
+        <input type="hidden" id="CMP" name="CMP" value="" />
+
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group" id="nome">
+                        <input type="text" name="nome" placeholder="Nome" value="" required />
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group" id="cognome">
+                        <input type="text" name="cognome" placeholder="Cognome" value="" required />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group" id="email">
+                        <input type="email" name="email" placeholder="Email" value="" required />
+                    </div>
+                </div>
+                
+                <div class="col-sm-6">
+                        <div class="form-group" id="upiva">
+                            <input id="piva" type="text" value="" class="digits" name="piva" placeholder="P.IVA" required minlength="11" maxlength="11">
+                        </div>
+                </div>
+
+            </div>
+            <div class="row">
+
+                <div class="col-sm-6">
+                    <div class="form-group" id="ragionesociale">
+                        <input type="text" name="ragionesociale" placeholder="Rag. Sociale" value="" required />
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6">
+                    <div class="form-group" id="citta">
+                        <input type="text" name="citta" placeholder="Città" value="" required />
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group" id="provincia">
+                        <input type="text" name="provincia" placeholder="Provincia" value="" maxlength="2" required />
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group" id="telefono">
+                        <input type="text" name="telefono" placeholder="Telefono" value="" required />
+                    </div>
+                </div>
+                    <div class="col-sm-12">
+                        <div class="form-group textarea-form" id="messaggio" style="width:100%;padding:0px;">
+                                <input type="text" id="messaggio" value="" name="messaggio" placeholder="La tua richiesta" required></input>
+                        </div>
+                    </div>
+            </div>
+            <div class="row">
+               
+                    </div>
+                <div class="form-group checkboxnew" id="privacy">
+                    <label class="GDPR_FormContatti_Privacy">
+                        <input type="hidden" name="privacy" required value="1">
+                        <strong>È una questione di fiducia!</strong> <br/> Leggi la nostra <a href="/privacy_policy" class="privacypol" target="_blank" style="font-style: italic;">informativa sulla privacy</a> e scegli i consensi che desideri rilasciare a TeamSystem. Potrai sempre cambiare la tua scelta e opporti al trattamento dei tuoi dati per l'invio di comunicazioni commerciali per le finalità di interesse legittimo descritte nell’informativa contattandoci all’indirizzo <a href="mailto:privacy@teamsystem.com">privacy@teamsystem.com</a>	
+                    </label>
+                </div>
+                <div class="form-group checkboxnew" id="consenso1">
+                    <label>Vorremmo scriverti via e-mail o contattarti al telefono per aggiornarti su novità e offerte commerciali di TeamSystem.</label>
+                    <label>
+                        <input type="checkbox" name="consenso1" />
+                        <span>Sono d&#39;accordo</span>
+                        
+                    </label>
+                </div>
+                <div class="form-group checkboxnew" id="consenso2">
+                    <label>Vorremmo aggiornarti su novità e offerte commerciali delle altre società del Gruppo TeamSystem e dei suoi partner, a cui i tuoi dati saranno comunicati.</label>
+                    <label>
+                        <input type="checkbox" name="consenso2" />
+                        
+                        <span>Sono d&#39;accordo</span>
+                    </label>
+                </div>
+                <button class="btn btn-azure">INVIA</button>
+                <div class="form_message_ok"></div>
+                <div class="form_message_ko"></div>
+</form>
+    <script type="text/javascript">
+
+        $(function () {
+            $('.cont-0').validate({
+                getDataToSend: function (form) {
+                    $(form).find("#invia").toggle();
+                    var d = $.validator.defaults.getDataToSend.call(this, form);
+                    d.data.referrer = document.referrer || '';
+                    return d;
+                },
+                callbackHandler: function (data, form) {
+                    if (data.d.Status) {
+
+                        if (7308==3232 || 7308==6124) {
+                            dataLayer.push({ "event": "richiesta_demoAE_ok" });
+                        } else {
+                            if (7308==3241) {
+                                dataLayer.push({ "event": "richiesta_demoLYNFA_ok" });
+                            } else {
+                                dataLayer.push({ "event": "richiesta_Informazioni_ok" });      //task   25817 tracciamento reprise
+                            }
+                        }
+                        if (window._gaq) _gaq.push(['_trackPageview', document.location.pathname + '_ok']);
+
+                        $(form).find("button:submit").remove();
+                        $(form).find(".form_message_ko").remove();
+                        $(form).find(".form_message_ok").html(data.d.HTML).show();
+                        $(form).find("#invia").hide();
+
+
+                        var cicci=7806;
+                        window.location = "/tnkpage";
+ 
+
+                        //try{
+                        //    if($.fancybox.version == undefined){
+                        //        $.fancybox({ content: '<div class="fancy_text">' + data.d.HTML + '</div>' });
+                        //    }
+                        //    else{
+                        //        $.fancybox.open('<div class="fancy_text">' + data.d.HTML + '</div>');
+                        //    }
+                        //    setTimeout(function () { location.reload(true);}, 3000);
+                        //} catch (e) { }
+
+
+
+                    } else {
+                        $(form).find("#invia").toggle();
+                        $(form).find(".form_message_ko").html("Si è verificato un errore, controlla i dati - " + data.d.HTML).show();
+                        try{
+                            if($.fancybox.version == undefined){
+                                $.fancybox({ content: '<div class="fancy_text">' + "Si è verificato un errore, controlla i dati "  + '</div>' });
+                            }else{
+                                $.fancybox.open('<div class="fancy_text">' + "Si è verificato un errore, controlla i dati "  + '</div>');
+                            }
+                        }catch(e){}
+                    }
+                }
+            });
+            $('a.privacy').fancybox({
+                padding: 10,
+                // margin: 20,
+                //autoScale: true,
+                transitionIn: 'elastic',
+                transitionOut: 'elastic',
+                easingIn: 'easeOutBack',
+                easingOut: 'easeInBack',
+                overlayColor: '#000',
+                width: 620,
+                height: 470,
+                type: 'iframe'
+            });
+        });
+
+
+
+    </script>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+            </div>
+
+
+</div>
+<!-- /Form Fixed Right -->
+<!-- Banner Prodotto -->
+
+<!-- /Banner Prodotto -->
+<!-- Container -->
+<div class="container large">
+
+
+</div>
+<!-- /Container -->
+
+
+           
+            
+                       <footer class="main-footer py-6 py-lg-6">
+            <div class="container-fluid">
+                <div class="row mb-5 mb-lg-5">
+
+                    <div class="order-lg-2 col-lg-6 col-xl-6 offset-lg-1 main-footer__links mb-5 mb-lg-0">
+                        <div class="row w-100">
+                            <!-- FOOTER -->
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">Prodotti</h5>
+<a href="https://www.teamsystem.com/alyante" title="Software ERP ALYANTE">ALYANTE</a> <a href="https://www.teamsystem.com/lynfa_studio" title="Software Gestionale Studio">LYNFA Studio</a> <a href="https://www.teamsystem.com/agyo" title="Software Fatturazione Elettronica e servizi digitali">Agyo</a> <a href="https://www.teamsystem.com/reviso-software-cloud" title="Contabilità e fatturazione in cloud per PMI">Reviso</a><a href="https://www.teamsystem.com/fatture_in_cloud" title="Fatturazione in cloud per micro imprese e start-up">Fatture In Cloud</a> <a href="https://www.teamsystem.com/Legal/netlex" title="Software gestionale per studi legali">NETLEX</a> <a href="http://www.vialibera.it/" title="Contabilità, dichiarazioni fiscali e bilancio">ViaLibera</a> <a href="https://www.teamsystem.com/acg-enterprise-erp-azienda" title="Soluzione ERP per il mondo Power i">ACG Enterprise</a> <a href="https://www.teamsystem.com/lynfa_azienda" title="Il gestionale che collega aziende e studi professionali">LYNFA Azienda</a></div>
+
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">Gruppo</h5>
+<a href="https://www.teamsystem.com/il_gruppo" title="">Il Gruppo</a> <a href="https://www.teamsystem.com/careers" title="">Careers</a> <a href="https://www.teamsystem.com/contatti" title="">Contatti</a> <a href="https://www.teamsystem.com/come_raggiungerci" title="">Come Raggiungerci</a> <a href="https://www.teamsystem.com/ricerca_casi" title="">Casi di Successo</a><a href="https://www.teamsystem.com/ricerca_press" title="">Marketing &amp; Press</a> <a href="https://www.teamsystem.com/privacy-policy" title="">Privacy</a> <a href="https://www.teamsystem.com/gestione_cookie" title="">Cookie Policy</a> <a href="https://www.teamsystem.com/compliance" title="">Compliance</a></div>
+
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">Link utili</h5>
+<a href="http://www.energiadigitale.com/" title="">Energia Digitale</a> <a href="http://alyante.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=footer" title="">Il Blog di ALYANTE</a> <a href="https://lynfa.teamsystem.com/?utm_source=ts-istituzionale&amp;utm_medium=referral&amp;utm_content=footer" title="">Il Blog di LYNFA</a> <a href="https://www.teamsystem.com/store" title="">Store</a> <a href="http://international.teamsystem.com/" title="">International</a> <a href="https://www.teamsystem.com/rivenditori" title="">Aree rivenditori</a> <a href="https://www.teamsystem.com/link" title="">Link</a> <a href="https://www.teamsystem.com/terms-conditions" title="">Terms &amp; conditions</a> <a href="https://www.teamsystem.com/network-teamsystem" title="">Network</a> <a href="https://www.teamsystem.com/Mappa_del_Sito" title="">Mappa del sito</a></div>
+
+<div class="col-sm-3 mb-3 mb-md-0">
+<h5 class="main-footer__title--sm mb-4">GDPR</h5>
+<a href="https://www.teamsystem.com/gdpr/dpa" title="DPA">DPA</a> <a href="https://www.teamsystem.com/gdpr/faq" title="FAQ">FAQ</a></div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-8 col-lg-3 main-footer__newsletter mb-5 mb-md-0">
+                        <h4 class="main-footer__newsletter-title">
+                            Iscriviti alla Newsletter
+                        </h4>
+                        <form>
+                            <input type="email" class="form-control form-control-lg mb-3" placeholder="Il tuo indirizzo email" name="emailNL" id="emailNL">
+                            
+                            <a id="link" name="link" data-fancybox="" data-type="iframe" data-src="/iscrizione-newsletter" href="">
+                                <button type="submit" class="btn btn-lg d-block d-sm-inline-block btn-fucsia float-sm-right">Iscriviti »</button>
+                            </a>
+                        </form>
+                    </div>
+
+                    <div class="main-footer__socialize order-lg-3 col-md-3 col-lg-2">
+                        <h5 class="main-footer__title--sm mb-4">Seguici su</h5>
+                        <div class="main-footer__socials">
+                            <a href="https://it.linkedin.com/company/teamsystem" rel="nofollow" target="_blank" title="linkedin" class="main-footer__social mb-3">
+                                <i class="fa fa-linkedin"></i>
+                                <span>Linkedin</span>
+                            </a>
+                            <a href="http://www.youtube.com/user/TeamSystemChannel" rel="nofollow" target="_blank" title="youtube" class="main-footer__social mb-3">
+                                <i class="fa fa-youtube"></i>
+                                <span>YouTube</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <img src="https://cms.teamsystem.com/home-2018/build/img/ui/ts-white.svg" alt="">
+                    </div>
+                    <div class="col-md-8 main-footer__bottom">
+                        &#169; Copyright 2018 - TeamSystem S.p.A. societ&#224; con socio unico soggetta all’attivit&#224; di direzione e coordinamento di TeamSystem Holding S.p.A. - Cap. Soc. € 24.000.000 I.v. - C.C.I.A.A. di Pesaro e Urbino - P.I. 01035310414 - Sede Legale: Via Sandro Pertini, 88 - 61122 Pesaro (PU) - Tutti i diritti riservati
+
+                        <div class="firma home">
+                            <a title="Digital Marketing" target="_blank" href="https://www.websolute.com">Websolute <img src="https://cms.teamsystem.com/img/DigitalMarketing.png" alt="Digital Marketing" /></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <input type="hidden" id="hfScopriEsig" value="Scopri tutte le soluzioni che rispondono ad ogni tua esigenza" />
+        <div class="p_abs bg_menu"></div>
+        <script type="text/javascript">$(function () { $('a.wrap_link_slide[href*="attractivetour.teamsystem.com"]').click(function () { _gaq.push(['_trackEvent', 'clic', 'banner', 'attractivetour']); }); });</script>
+        <script src="//d2qp6cnfg3bg1d.cloudfront.net/tt-b312d5fbcfab403a28f259ab3d2b333ae2412727528b63ae3c032be535410ed5.js" async></script>
+<!-- Google Code per il tag di remarketing -->
+<!--------------------------------------------------
+I tag di remarketing possono non essere associati a informazioni di identificazione personale o inseriti in pagine relative a categorie sensibili. Ulteriori informazioni e istruzioni su come impostare il tag sono disponibili alla pagina: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    var google_conversion_id = 967931556;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/967931556/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script src="//tt.mbww.com/tt-b312d5fbcfab403a28f259ab3d2b333ae2412727528b63ae3c032be535410ed5.js" async></script>  
+           
+            
+      
+
+
+
+
+    
+    <!-- /Wrapper -->
+
+   
+    
+    <script src="https://cms.teamsystem.com/js/alyante.js"></script>
+
+
+    
+
+    
+
+
+    
+    
+    <script>
+        (function (w, d, s, p) {
+			
+
+            var date1 = new Date(2019, 0, 1);
+            if (new Date() < date1) {
+
+				var v = []; if (p) for (var k in p)
+                if (p[k] != null) {
+                    if (Array.isArray(p[k]))
+                    {
+                        for (var i = 0; i < p[k].length; i++)
+                            v.push(encodeURIComponent(k) + "=" + encodeURIComponent(p[k][i]));
+                    }
+                    else
+                    {
+                        v.push(encodeURIComponent(k) + "=" + encodeURIComponent(p[k]));
+                    }
+                }
+                var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s);
+                j.async = true;
+                j.className = "popup-fatturazione-flusso";
+                j.src = 'https://cms.teamsystem.com/js/fatturazione/widget.js?' + v.join("&");  //https://cms.teamsystem.com/
+                f.parentNode.insertBefore(j, f);
+			}
+        })(window, document, "script",
+            {
+                url: 'https://cms.teamsystem.com/wizardFatt/wizard-com.html',
+                triggersRegExp: [/./]
+                , triggers: ["https://www.teamsystem.com", "https://www.teamsystem.com", "https://www.teamsystem.com/","http://localhost:8580/","/agyo-fatturazione", "/alyante", "/lynfa_studio", "/agyo", "/reviso-software-cloud", "/fatture_in_cloud", "/acg-enterprise-erp-azienda", "/lynfa_azienda"]//,
+                //,force: true
+            });
+    </script>
+
+
+
+
+
+ 
+
+
+<!-- begin SnapEngage code -->
+<script type="text/javascript">
+(function() {
+var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+se.src = '//storage.googleapis.com/code.snapengage.com/js/913a6b12-8197-419f-8b98-6ffee92890ae.js';
+var done = false;
+se.onload = se.onreadystatechange = function() {
+if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+done = true;
+/* Place your SnapEngage JS API code below */
+/* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
+var partUrlToHideButton = ["example.com/no-chat-page", "/iscrizione-newsletter",   ];
+ 
+var url = window.location.href;
+ 
+  function hideChatButtonOnThisPage() {
+      SnapEngage.hideButton();
+      SnapEngage.setCallback('Close', function (type, status) {
+          SnapEngage.hideButton();
+      });
+  };
+ 
+  partUrlToHideButton.forEach(function(partUrl) {
+      if(url.indexOf(partUrl) !== -1){
+          hideChatButtonOnThisPage();
+      }
+  });
+
+}
+};
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+})();
+</script>
+<!-- end SnapEngage code -->
+    </body>
+
+
+
+</html>

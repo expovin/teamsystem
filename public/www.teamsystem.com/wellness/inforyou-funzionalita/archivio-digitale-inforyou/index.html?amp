@@ -1,0 +1,533 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Lavorare senza carta grazie al gestionale InforYou. Firma grafometrica, foto e allegati, lettore tessera sanitaria. La soluzione per la gestione digitale." />
+<meta name="twitter:title" content="InforYou, l&#039;archivio digitale | TeamSystem WELLNESS" />
+<meta name="twitter:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2017/06/Tavola-disegno-1-copia-300x195.png" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="InforYou, l&#039;archivio digitale | TeamSystem WELLNESS" />
+<meta property="og:description" content="Lavorare senza carta grazie al gestionale InforYou. Firma grafometrica, foto e allegati, lettore tessera sanitaria. La soluzione per la gestione digitale." />
+<meta property="og:url" content="//www.teamsystem.com/wellness/inforyou-funzionalita/archivio-digitale-inforyou/" />
+<meta property="og:site_name" content="TeamSystem Wellness" />
+<meta property="article:publisher" content="//www.facebook.com/TeamSystem.WELLNESS/" />
+<meta property="og:image" content="//www.teamsystem.com/wellness/wp-content/uploads/2017/06/Tavola-disegno-1-copia-300x195.png" />
+	<title>InforYou, l&#039;archivio digitale | TeamSystem WELLNESS</title>
+		<link rel="canonical" href="//www.teamsystem.com/wellness/inforyou-funzionalita/archivio-digitale-inforyou/" />
+	<script type='text/javascript' src='//cdn.ampproject.org/v0.js' async></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic"><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>	<script type="application/ld+json">{"@context":"\/\/schema.org","publisher":{"@type":"Organization","name":"TeamSystem WELLNESS","logo":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2018\/02\/logo-TeamSystem-WELLNESS.jpg","width":188,"height":60}},"@type":"WebPage","mainEntityOfPage":"\/\/www.teamsystem.com\/wellness\/inforyou-funzionalita\/archivio-digitale-inforyou\/","headline":"Archivio digitale &#8211; InforYou","datePublished":"2018-06-19T14:32:24+00:00","dateModified":"2018-07-05T09:39:37+00:00","author":{"@type":"Person","name":"Roberto Di Giacomo"},"image":{"@type":"ImageObject","url":"\/\/www.teamsystem.com\/wellness\/wp-content\/uploads\/2017\/06\/Tavola-disegno-1-copia.png","width":400,"height":260},"description":"Lavorare senza carta grazie al gestionale InforYou. Firma grafometrica, foto e allegati, lettore tessera sanitaria. La soluzione per la gestione digitale."}</script>
+	<meta name="generator" content="AMP Plugin v1.0.1; mode=classic">	<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 1080px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content .wp-caption {
+	max-width: 100%;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( //www.teamsystem.com/wellness/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+		td, th {
+text-align: left;
+}
+
+a, a:active, a:visited {
+text-decoration: underline;
+}
+/* Inline stylesheets */
+:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-aceb4af{padding-top:8%;padding-bottom:4%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-ee3daf4{background-color:#fff}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-102b7f8{text-align:left}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-dd983f8{padding-top:8%;padding-bottom:8%}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-4983a5a{background-image:url("//www.teamsystem.com/wellness/wp-content/uploads/2017/02/tsw_call.jpg");background-position:center center;background-repeat:no-repeat}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-702acf3{padding-top:0px;padding-bottom:0px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-e59880a{font-size:52px;line-height:52px;text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-977d32f{height:10px}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-b77fa22{color:rgba(255,255,255,.7);text-align:center}:root:not(#_):not(#_):not(#_):not(#_):not(#_) .amp-wp-cdd8ca0{text-align:center}	</style>
+</head>
+
+<body class="">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="//www.teamsystem.com/wellness/">
+										<amp-img src="//www.teamsystem.com/wellness/wp-content/uploads/2018/06/cropped-logo-TS-512-32x32.png" width="32" height="32" class="amp-wp-site-icon"></amp-img>
+						<span class="amp-site-title">
+				TeamSystem Wellness			</span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">Archivio digitale &#8211; InforYou</h1>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		
+		<div id="gymscopri" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section    amp-wp-aceb4af"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color   amp-wp-ee3daf4" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2 class="amp-wp-102b7f8"><amp-img class="size-medium wp-image-6267 alignleft amp-wp-enforced-sizes" src="//www.teamsystem.com/wellness/wp-content/uploads/2017/06/Tavola-disegno-1-copia-300x195.png" alt="" width="300" height="195" srcset="//www.teamsystem.com/wellness/wp-content/uploads/2017/06/Tavola-disegno-1-copia-300x195.png 300w, //www.teamsystem.com/wellness/wp-content/uploads/2017/06/Tavola-disegno-1-copia.png 400w" sizes="(max-width: 300px) 100vw, 300px" layout="intrinsic"></amp-img></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2 class="amp-wp-102b7f8">Archivio digitale</h2>
+<h4 class="mrgb25_title amp-wp-102b7f8">Lavorare senza carta</h4>
+<div class="corpo clearfix amp-wp-102b7f8">
+<p>InforYou offre una suite completa di soluzioni per la <strong>gestione digitale dell’azienda, semplificando l’operatività quotidiana e riducendo tempi ed errori di caricamento dati.</strong></p>
+<p><strong>Firma Grafometrica</strong>: ogni documento può essere firmato direttamente in digitale utilizzando tablet o tavolette evolute predisposte per la rilevazione dei dati biometrici legati alla grafometria. Questo sistema consente di far firmare i documenti (contratto, domanda di iscrizione, scarico di responsabilità, privacy) agli utenti con la garanzia del valore legale e della sicurezza dei dati raccolti, archiviando il file all’interno del software Inforyou, con la possibilità di inviarne copia all’utente via e-mail o di consentirne l’accesso direttamente dalla piattaforma web.</p>
+<p><strong>Foto e Allegati</strong>: caricamento della foto dell’utente direttamente nella scheda anagrafica, con visualizzazione immediata ad ogni utilizzo del software di controllo accessi e nelle principali ricerche del programma. Stampa della foto utente sui report della lista presenze prenotazioni e corsi, per il riconoscimento a vista. Rappresenta un sistema utile per imparare a conoscere in maniera più veloce gli utenti e un valido deterrente agli scambi di tessera. Possibilità di archiviare anche allegati da associare ai singoli utenti, come ad esempio copia del certificato medico, foglio Excel con la rilevazione delle misurazioni fatte nel tempo, fotografie durante un percorso di dimagrimento. Gli allegati possono essere file presenti nel PC o acquisiti da scanner per l’archiviazione digitale.</p>
+<p><strong>Lettore di tessera sanitaria</strong>: acquisizione rapida dei dati anagrafici degli utenti attraverso un lettore di tessere snaitarie. Consente di acquisire in pochi secondi i dati contenuti nella tessera sanitaria e di inserirli automaticamente nei campi anagrafici del software Inforyou. E’ particolarmente indicato per le realtà che necessitano di registrare un grande numero di utenti in un tempo ristretto.</p>
+<p><strong>Opzioni Hardware:</strong></p>
+<ul><li>Tavoletta</li>
+<li>Lettore di tessera sanitaria</li>
+</ul><p class="amp-wp-102b7f8"><strong>Moduli della funzione</strong></p>
+<ul><li class="amp-wp-102b7f8"><a title="" href="//www.teamsystem.com/wellness/inforyou-moduli/firma-grafometrica-inforyou/">Firma Grafometrica</a></li>
+<li class="amp-wp-102b7f8"><a title="Modulo di archiviazione foto e allegati | TeamSystem WELLNESS" href="//www.teamsystem.com/wellness/inforyou-moduli/foto-allegati-inforyou/">Foto e Allegati</a></li>
+</ul></div>
+
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				<div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><h2 class="widgettitle">Funzionalità</h2><div class="menu-funzionalita-inforyou-container"><ul id="menu-funzionalita-inforyou" class="menu"><li id="menu-item-8193" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8002 current_page_item menu-item-8193"><a href="//www.teamsystem.com/wellness/inforyou-funzionalita/archivio-digitale-inforyou/">Archivio digitale</a></li>
+<li id="menu-item-8196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8196"><a href="//www.teamsystem.com/wellness/inforyou-funzionalita/fidelizzazione-comunicazione/">Fidelizzazione e comunicazione</a></li>
+<li id="menu-item-8212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8212"><a href="//teamsystem.com/wellness/inforyou-funzionalita/statistiche">Statistiche, dashboard e notifiche automatiche</a></li>
+<li id="menu-item-8197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8197"><a href="//www.teamsystem.com/wellness/inforyou-funzionalita/gestione-economica/">Gestione economica</a></li>
+<li id="menu-item-8213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8213"><a href="//teamsystem.com/wellness/inforyou-funzionalita/self-service">Self Service</a></li>
+<li id="menu-item-8195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8195"><a href="//www.teamsystem.com/wellness/inforyou-funzionalita/controllo-accessi/">Controllo accessi</a></li>
+<li id="menu-item-8198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8198"><a href="//www.teamsystem.com/wellness/inforyou-funzionalita/multiazienda-network/">Multiazienda e network</a></li>
+<li id="menu-item-8194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8194"><a href="//www.teamsystem.com/wellness/inforyou-funzionalita/complementari/">EcoSystem e Touch</a></li>
+<li id="menu-item-8214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8214"><a href="//teamsystem.com/wellness/inforyou-funzionalita/risorse-umane">Risorse umane</a></li>
+</ul></div></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="gymcall" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section    amp-wp-dd983f8"><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg using-image    amp-wp-4983a5a" data-color_overlay="rgba(80,180,252,0.84)" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.95" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+	<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+				
+	<div id="fws_5c36146ddcbf2" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section     amp-wp-702acf3"><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col centered-text padding-2-percent" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			<h2 class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp amp-wp-e59880a">Avvia la trasformazione digitale della tua azienda</h2><div class="divider-wrap"><div class="divider amp-wp-977d32f"></div></div><p class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504862933755 amp-wp-b77fa22">Scopri come ogni giorno, anche il sabato e la domenica, un nuovo centro ci sceglie per iniziare questa trasformazione</p>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p class="amp-wp-cdd8ca0"><a class="nectar-button large see-through has-icon" target="_blank" href="//teamsystem.com/wellness/richiedi-demo-inforyou/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Richiedi Demo</span><i class="icon-button-arrow"></i></a>   <a class="nectar-button large extra-color-1 has-icon regular-button" target="_blank" href="//teamsystem.com/wellness/acquista-ora-inforyou/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Acquista Ora</span><i class="icon-button-arrow"></i></a></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div>
+	</div> 
+
+	<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+		<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+	</div>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>TeamSystem Wellness</h2>
+		<p>
+			<a href="//wordpress.org/">
+				Powered by WordPress			</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in alto</a>
+	</div>
+</footer>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.194 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-01-09 16:34:05 -->
